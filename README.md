@@ -5,6 +5,6 @@
 - Adel + Chris: Logisic Regression
 - James + Angellika: SVM
 
-## MEATING
+## MEETING
 - 27/12/22 Organised groups and divided up work
 - 30/12/22
