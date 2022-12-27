@@ -1,0 +1,248 @@
+date,home_team,away_team,home_team_result
+2022-01-02,Gabon,Burkina Faso,Lose
+2022-01-05,Algeria,Ghana,Win
+2022-01-09,Cameroon,Burkina Faso,Win
+2022-01-10,Senegal,Zimbabwe,Win
+2022-01-10,Morocco,Ghana,Win
+2022-01-11,Nigeria,Egypt,Win
+2022-01-12,Tunisia,Mali,Lose
+2022-01-13,Cabo Verde,Burkina Faso,Lose
+2022-01-14,Senegal,Guinea,Draw
+2022-01-14,Gabon,Ghana,Draw
+2022-01-15,Korea Republic,Iceland,Win
+2022-01-16,Colombia,Honduras,Win
+2022-01-16,Peru,Panama,Draw
+2022-01-16,Gambia,Mali,Draw
+2022-01-17,Cameroon,Cabo Verde,Draw
+2022-01-18,Zimbabwe,Guinea,Win
+2022-01-18,Gabon,Morocco,Draw
+2022-01-19,Guinea-Bissau,Nigeria,Lose
+2022-01-20,Peru,Jamaica,Win
+2022-01-20,Côte d'Ivoire,Algeria,Win
+2022-01-20,Gambia,Tunisia,Win
+2022-01-23,Burkina Faso,Gabon,Win
+2022-01-23,Nigeria,Tunisia,Lose
+2022-01-24,Guinea,Gambia,Lose
+2022-01-25,Senegal,Cabo Verde,Win
+2022-01-26,Côte d'Ivoire,Egypt,Lose
+2022-01-27,Jamaica,Mexico,Lose
+2022-01-27,Honduras,Canada,Lose
+2022-01-27,Costa Rica,Panama,Win
+2022-01-27,Japan,China PR,Win
+2022-01-27,Ecuador,Brazil,Draw
+2022-01-27,Paraguay,Uruguay,Lose
+2022-01-27,Chile,Argentina,Lose
+2022-01-28,Colombia,Peru,Lose
+2022-01-28,Venezuela,Bolivia,Win
+2022-01-29,Burkina Faso,Tunisia,Win
+2022-01-29,Cameroon,Gambia,Win
+2022-01-30,Egypt,Morocco,Win
+2022-01-30,Canada,USA,Win
+2022-01-30,Mexico,Costa Rica,Draw
+2022-01-30,Panama,Jamaica,Win
+2022-02-01,IR Iran,United Arab Emirates,Win
+2022-02-01,Japan,Saudi Arabia,Win
+2022-02-01,Bolivia,Chile,Lose
+2022-02-01,Uruguay,Venezuela,Win
+2022-02-01,Argentina,Colombia,Win
+2022-02-01,Peru,Ecuador,Draw
+2022-02-01,Brazil,Paraguay,Win
+2022-02-02,Burkina Faso,Senegal,Lose
+2022-02-02,USA,Honduras,Win
+2022-02-02,Jamaica,Costa Rica,Lose
+2022-02-02,Mexico,Panama,Win
+2022-02-03,Cameroon,Egypt,Lose
+2022-02-05,Cameroon,Burkina Faso,Win
+2022-02-06,Senegal,Egypt,Win
+2022-03-24,Mexico,USA,Draw
+2022-03-24,Panama,Honduras,Draw
+2022-03-24,Costa Rica,Canada,Win
+2022-03-24,Korea Republic,IR Iran,Win
+2022-03-24,China PR,Saudi Arabia,Draw
+2022-03-24,Australia,Japan,Lose
+2022-03-24,Colombia,Bolivia,Win
+2022-03-24,Brazil,Chile,Win
+2022-03-24,Paraguay,Ecuador,Win
+2022-03-24,Uruguay,Peru,Win
+2022-03-24,Italy,North Macedonia,Lose
+2022-03-24,Portugal,Turkey,Win
+2022-03-24,Sweden,Czech Republic,Win
+2022-03-24,Wales,Austria,Win
+2022-03-24,Armenia,Montenegro,Win
+2022-03-24,Hungary,Serbia,Lose
+2022-03-24,Kosovo,Burkina Faso,Win
+2022-03-24,Scotland,Poland,Draw
+2022-03-25,Cameroon,Algeria,Lose
+2022-03-25,Congo DR,Morocco,Draw
+2022-03-25,Egypt,Senegal,Win
+2022-03-25,Ghana,Nigeria,Draw
+2022-03-25,Mali,Tunisia,Lose
+2022-03-25,Argentina,Venezuela,Win
+2022-03-25,Bosnia and Herzegovina,Georgia,Lose
+2022-03-25,France,Côte d'Ivoire,Win
+2022-03-25,Luxembourg,Northern Ireland,Lose
+2022-03-25,Norway,Slovakia,Win
+2022-03-25,Romania,Greece,Lose
+2022-03-25,South Africa,Guinea,Draw
+2022-03-26,Angola,Guinea-Bissau,Win
+2022-03-26,Croatia,Slovenia,Draw
+2022-03-26,England,Switzerland,Win
+2022-03-26,Finland,Iceland,Draw
+2022-03-26,Germany,Israel,Win
+2022-03-26,Netherlands,Denmark,Win
+2022-03-26,Republic of Ireland,Belgium,Draw
+2022-03-26,Spain,Albania,Win
+2022-03-27,Canada,Jamaica,Win
+2022-03-27,Honduras,Mexico,Lose
+2022-03-27,USA,Panama,Win
+2022-03-28,Montenegro,Greece,Win
+2022-03-29,Algeria,Cameroon,Lose
+2022-03-29,Morocco,Congo DR,Win
+2022-03-29,Nigeria,Ghana,Draw
+2022-03-29,Senegal,Egypt,Win
+2022-03-29,Tunisia,Mali,Draw
+2022-03-29,United Arab Emirates,Korea Republic,Win
+2022-03-29,Saudi Arabia,Australia,Win
+2022-03-29,Ecuador,Argentina,Draw
+2022-03-29,Peru,Paraguay,Win
+2022-03-29,Bolivia,Brazil,Lose
+2022-03-29,Venezuela,Colombia,Lose
+2022-03-29,Chile,Uruguay,Lose
+2022-03-29,Poland,Sweden,Win
+2022-03-29,Portugal,North Macedonia,Win
+2022-03-29,Albania,Georgia,Draw
+2022-03-29,Austria,Scotland,Draw
+2022-03-29,Belgium,Burkina Faso,Win
+2022-03-29,Bosnia and Herzegovina,Luxembourg,Win
+2022-03-29,Croatia,Bulgaria,Win
+2022-03-29,Denmark,Serbia,Win
+2022-03-29,England,Côte d'Ivoire,Win
+2022-03-29,Finland,Slovakia,Lose
+2022-03-29,France,South Africa,Win
+2022-03-29,Israel,Romania,Draw
+2022-03-29,Netherlands,Germany,Draw
+2022-03-29,Northern Ireland,Hungary,Lose
+2022-03-29,Norway,Armenia,Win
+2022-03-29,Spain,Iceland,Win
+2022-03-29,Switzerland,Kosovo,Draw
+2022-03-29,Turkey,Italy,Lose
+2022-03-29,Wales,Czech Republic,Draw
+2022-03-30,Costa Rica,USA,Win
+2022-03-30,Panama,Canada,Win
+2022-03-30,Jamaica,Honduras,Win
+2022-05-28,Mexico,Nigeria,Win
+2022-05-29,United Arab Emirates,Gambia,Draw
+2022-06-01,Italy,Argentina,Lose
+2022-06-01,Scotland,Ukraine,Lose
+2022-06-01,Ghana,Madagascar,Win
+2022-06-01,Poland,Wales,Win
+2022-06-01,USA,Morocco,Win
+2022-06-02,Panama,Costa Rica,Win
+2022-06-02,Czech Republic,Switzerland,Win
+2022-06-02,Spain,Portugal,Draw
+2022-06-02,Israel,Iceland,Draw
+2022-06-02,Serbia,Norway,Lose
+2022-06-02,Slovenia,Sweden,Lose
+2022-06-02,Northern Ireland,Greece,Lose
+2022-06-02,Cyprus,Kosovo,Lose
+2022-06-02,Bulgaria,North Macedonia,Draw
+2022-06-02,Ecuador,Nigeria,Win
+2022-06-02,Japan,Paraguay,Win
+2022-06-02,Korea Republic,Brazil,Lose
+2022-06-02,Mexico,Uruguay,Lose
+2022-06-03,Burkina Faso,Cabo Verde,Win
+2022-06-03,Croatia,Austria,Lose
+2022-06-03,France,Denmark,Lose
+2022-06-03,Belgium,Netherlands,Lose
+2022-06-04,Mali,Congo,Win
+2022-06-04,Congo DR,Gabon,Lose
+2022-06-04,Senegal,Benin,Win
+2022-06-04,Suriname,Jamaica,Draw
+2022-06-04,Hungary,England,Win
+2022-06-04,Italy,Germany,Draw
+2022-06-04,Armenia,Republic of Ireland,Win
+2022-06-04,Finland,Bosnia and Herzegovina,Draw
+2022-06-04,Montenegro,Romania,Win
+2022-06-05,Wales,Ukraine,Win
+2022-06-05,Egypt,Guinea,Win
+2022-06-05,Portugal,Switzerland,Win
+2022-06-05,Czech Republic,Spain,Draw
+2022-06-05,Serbia,Slovenia,Win
+2022-06-05,Sweden,Norway,Lose
+2022-06-05,Cyprus,Northern Ireland,Draw
+2022-06-05,Kosovo,Greece,Lose
+2022-06-05,Bulgaria,Georgia,Lose
+2022-06-05,Mexico,Ecuador,Draw
+2022-06-05,Peru,New Zealand,Win
+2022-06-05,Saudi Arabia,Colombia,Lose
+2022-06-05,USA,Uruguay,Draw
+2022-06-06,Austria,Denmark,Lose
+2022-06-06,Croatia,France,Draw
+2022-06-06,Iceland,Albania,Draw
+2022-06-06,Korea Republic,Chile,Win
+2022-06-06,Japan,Brazil,Lose
+2022-06-07,Cabo Verde,Togo,Win
+2022-06-07,Jamaica,Suriname,Win
+2022-06-07,Germany,England,Draw
+2022-06-07,Italy,Hungary,Win
+2022-06-07,Finland,Montenegro,Win
+2022-06-07,Bosnia and Herzegovina,Romania,Win
+2022-06-08,Congo,Gambia,Win
+2022-06-08,Wales,Netherlands,Lose
+2022-06-08,Belgium,Poland,Win
+2022-06-08,Republic of Ireland,Ukraine,Lose
+2022-06-08,Scotland,Armenia,Win
+2022-06-09,Morocco,South Africa,Win
+2022-06-09,Canada,Curaçao,Win
+2022-06-09,Portugal,Czech Republic,Win
+2022-06-09,Switzerland,Spain,Lose
+2022-06-09,Norway,Slovenia,Draw
+2022-06-09,Sweden,Serbia,Lose
+2022-06-09,Kosovo,Northern Ireland,Win
+2022-06-09,Greece,Cyprus,Win
+2022-06-09,North Macedonia,Georgia,Lose
+2022-06-09,Saudi Arabia,Venezuela,Lose
+2022-06-10,Austria,France,Draw
+2022-06-10,Denmark,Croatia,Lose
+2022-06-10,Albania,Israel,Lose
+2022-06-10,Korea Republic,Paraguay,Draw
+2022-06-10,Chile,Tunisia,Lose
+2022-06-10,Japan,Ghana,Win
+2022-06-11,Mexico,Suriname,Win
+2022-06-11,England,Italy,Draw
+2022-06-11,Hungary,Germany,Draw
+2022-06-11,Wales,Belgium,Draw
+2022-06-11,Netherlands,Poland,Draw
+2022-06-11,Ukraine,Armenia,Win
+2022-06-11,Republic of Ireland,Scotland,Win
+2022-06-11,Montenegro,Bosnia and Herzegovina,Draw
+2022-06-11,Romania,Finland,Win
+2022-06-11,Luxembourg,Turkey,Lose
+2022-06-11,Ecuador,Cabo Verde,Win
+2022-06-11,Uruguay,Panama,Win
+2022-06-12,Spain,Czech Republic,Win
+2022-06-12,Switzerland,Portugal,Win
+2022-06-12,Norway,Sweden,Win
+2022-06-12,Slovenia,Serbia,Draw
+2022-06-12,Northern Ireland,Cyprus,Draw
+2022-06-12,Greece,Kosovo,Win
+2022-06-12,Georgia,Bulgaria,Draw
+2022-06-12,IR Iran,Algeria,Lose
+2022-06-13,Australia,Peru,Win
+2022-06-13,Honduras,Canada,Win
+2022-06-13,Denmark,Austria,Win
+2022-06-13,France,Croatia,Lose
+2022-06-13,Iceland,Israel,Draw
+2022-06-14,Costa Rica,New Zealand,Win
+2022-06-14,Jamaica,Mexico,Draw
+2022-06-14,England,Hungary,Lose
+2022-06-14,Germany,Italy,Win
+2022-06-14,Netherlands,Wales,Win
+2022-06-14,Poland,Belgium,Lose
+2022-06-14,Armenia,Scotland,Lose
+2022-06-14,Ukraine,Republic of Ireland,Draw
+2022-06-14,Bosnia and Herzegovina,Finland,Win
+2022-06-14,Romania,Montenegro,Lose
+2022-06-14,Chile,Ghana,Lose
+2022-06-14,Japan,Tunisia,Lose
+2022-06-14,Korea Republic,Egypt,Win
