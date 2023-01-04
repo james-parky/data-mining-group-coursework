@@ -8,3 +8,6 @@
 ## MEETING
 - 27/12/22 Organised groups and divided up work
 - 30/12/22
+
+## PAIR PROGRAMMING
+- using Deepnote
