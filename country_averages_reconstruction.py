@@ -1,7 +1,42 @@
+'''
+Code to reconstruct missing data in dataset/match_history.csv using average
+score values for each country
+'''
+
 import csv
 
+HOME_FEATURE_INDEXES = [9, 17, 19, 20, 21]
+AWAY_FEATURE_INDEXES = [10, 18, 22, 23, 24]
 
-def reconstruct(original_data: str, reconstructed_data: str) -> None:
+
+def write_missing_data(original_data: str, reconstructed_data: str,
+                        countries: dict) -> None:
+    '''
+    For each missing data, write the corresponding countries average
+    '''
+
+    with open(original_data) as csv_in_file, open(reconstructed_data, 'w') as csv_out_file:
+        csv_reader = csv.reader(csv_in_file)
+        csv_writer = csv.writer(csv_out_file)
+        csv_writer.writerow(next(csv_reader))
+
+        for row in csv_reader:
+            for i, val in enumerate(row):
+                if val == '':
+                    if i in HOME_FEATURE_INDEXES:
+                        replace_index = HOME_FEATURE_INDEXES.index(i)
+                        row[i] = countries[row[1]][replace_index]
+                    elif i in AWAY_FEATURE_INDEXES:
+                        replace_index = AWAY_FEATURE_INDEXES.index(i)
+                        row[i] = countries[row[2]][replace_index]
+            csv_writer.writerow(row)
+
+
+def get_averages(original_data: str) -> dict:
+    '''
+    Find average values for each 5 features for each country
+    '''
+
     countries = {}
 
     with open(original_data) as csv_file:
@@ -9,65 +44,40 @@ def reconstruct(original_data: str, reconstructed_data: str) -> None:
         next(csv_reader)
         for row in csv_reader:
             home_country, away_country = row[1], row[2]
-            #print(f'{home_country}, {away_country}')
+            home_features = [row[i] for i in HOME_FEATURE_INDEXES]
+            away_features = [row[i] for i in AWAY_FEATURE_INDEXES]
 
             if home_country not in countries.keys():
-                countries[home_country] = [[0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0]] #[[float(row[9]), 1], [float(row[17]), 1] [float(row[19]), 1], [float(row[20]), 1], [float(row[21]), 1]]
+                countries[home_country] = [[0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0]]
             if away_country not in countries.keys():
                 countries[away_country] = [[0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0], [0.0, 0]]
-                # [(feature mean, times seen)]
-            
-            home_features = [row[9], row[17], row[19], row[20], row[21]]
-            for i, f in enumerate(home_features):
-                if f != '':
-                    countries[home_country][i][0] += float(f)
+
+            for i, val in enumerate(home_features):
+                if val != '':
+                    countries[home_country][i][0] += float(val)
                     countries[home_country][i][1] += 1
 
-            away_features = [row[10], row[18], row[22], row[23], row[24]]
-            for i, f in enumerate(away_features):
-                if f != '':
-                    countries[away_country][i][0] += float(f)
+            for i, val in enumerate(away_features):
+                if val != '':
+                    countries[away_country][i][0] += float(val)
                     countries[away_country][i][1] += 1
-    
+
         for country, value_list in countries.items():
-            countries[country] = [round(val / max(1, count), 1) for [val,count] in value_list]
-    
-    with open(original_data) as csv_in_file:
-        with open(reconstructed_data, 'w') as csv_out_file:
-            csv_reader = csv.reader(csv_in_file)
-            csv_writer = csv.writer(csv_out_file)
-            csv_writer.writerow(next(csv_reader))
+            countries[country] = [round(val / max(1, count), 1) for [val, count] in value_list]
 
-            for row in csv_reader:
-                for i, val in enumerate(row):
-                    if val == '':
-                        if i in [9, 17, 19, 20, 21]:
-                            replace_index = [9, 17, 19, 20, 21].index(i)
-                            row[i] = countries[row[1]][replace_index]
-                        elif i in [10, 18, 22, 23, 24]:
-                            replace_index = [10, 18, 22, 23, 24].index(i)
-                            row[i] = countries[row[2]][replace_index]
-                csv_writer.writerow(row)
+    return countries
 
 
-    print([(c, countries[c]) for c in countries.keys() if 0.0 in countries[c]])
+def reconstruct(original_data: str, reconstructed_data: str) -> None:
+    '''
+    Reconstruct the missing data in original_data and write to new
+    reconstructed_data csv.
+    '''
 
-
+    countries = get_averages(original_data)
+    write_missing_data(original_data, reconstructed_data, countries)
+    print([(c, avgs) for (c, avgs) in countries.items() if 0.0 in avgs])
 
 
 if __name__ == '__main__':
     reconstruct('dataset/match_history.csv', 'reconstructed_match_history.csv')
-
-# date,home_team,away_team,home_team_continent,away_team_continent,
-# home_team_fifa_rank,away_team_fifa_rank,home_team_total_fifa_points,
-# away_team_total_fifa_points,home_team_score,away_team_score,tournament,city,
-# country,neutral_location,shoot_out,home_team_result,
-# home_team_goalkeeper_score,away_team_goalkeeper_score,
-# home_team_mean_defense_score,home_team_mean_offense_score,
-# home_team_mean_midfield_score,away_team_mean_defense_score,
-# away_team_mean_offense_score,away_team_mean_midfield_score
-
-# NEEDED COLUMNS FOR HOME: 9, 17, 19, 20, 21
-# NEEDED COLUMNS FOR AWAY: 10, 18, 22, 23, 24
-
-# zambia missing goal keeper score and defense score for whole .csv
