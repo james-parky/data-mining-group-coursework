@@ -36,7 +36,7 @@ def svm(training_data: str, test_set: str) -> None:
     from sklearn.linear_model import LogisticRegression
     #return np.mean(lr_predictions == y_test_lr.values)*100
 
-    x_train, x_test, y_train, y_test = train_test_split(dataset, dataset['home_team_result'], test_size=0.99)
+    x_train, x_test, y_train, y_test = train_test_split(dataset, dataset['home_team_result'], test_size=0.30)
     '''
     x_train = dataset
     y_train = dataset['home_team_result']
@@ -53,9 +53,14 @@ def svm(training_data: str, test_set: str) -> None:
     knn_model = KNeighborsClassifier(n_neighbors=5).fit(x_train, y_train)
     knn_predictions = knn_model.predict(x_test)
 
+    from sklearn.neural_network import MLPClassifier
+    mlp_model = MLPClassifier(random_state=1, max_iter=5000).fit(x_train, y_train)
+    mlp_predictions = mlp_model.predict(x_test)
+
     print(f'LR Predictions: {np.mean(lr_predictions == y_test.values)*100}')
     print(f'SVM Predictions: {np.mean(svm_predictions == y_test.values)*100}')
     print(f'KNN Predictions: {np.mean(knn_predictions == y_test.values)*100}')
+    print(f'MLP Predictions: {np.mean(mlp_predictions == y_test.values)*100}')
 
     
     '''    
