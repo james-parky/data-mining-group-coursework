@@ -125,4 +125,4 @@ def reconstruct(original_data: str, new_data: str) -> None:
 
 
 if __name__ == '__main__':
-    reconstruct('dataset/match_history.csv', 'reconstructed_match_history.csv')
+    reconstruct('dataset/match_history.csv', 'reconstructed_match_history_with_interpolation.csv')
