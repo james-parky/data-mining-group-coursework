@@ -14,14 +14,12 @@ from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 from sklearn.pipeline import make_pipeline
 
-def predict(training_data: str, test_set: str) -> None:
+def predict(training_data: str) -> None:
     dataset = pd.read_csv(training_data)
-    test_set = pd.read_csv(test_set)
     dataset = dataset.replace(['Lose', 'Draw', 'Win'],[-1,0,1])
-    test_set = test_set.replace(['Lose', 'Draw', 'Win'],[-1,0,1])
-    numerical_columns = [c for c in dataset.columns if dataset[c].dtype in [np.float64, np.int64]]
+    # numerical_columns = [c for c in dataset.columns if dataset[c].dtype in [np.float64, np.int64]]
     dataset = dataset.select_dtypes([np.number])
-    test_set = test_set.select_dtypes([np.number])
+    # test_set = test_set.select_dtypes([np.number])
     print(f'Original dataset columns: {list(dataset.columns)}')
 
     if training_data == 'dataset/match_history.csv':
@@ -78,7 +76,13 @@ def predict(training_data: str, test_set: str) -> None:
 
 
 if __name__ == '__main__':
-    print('Interpolation:')
-    predict('reconstructed_match_history_with_interpolation.csv', 'dataset/test_set.csv')
-    print('Linear Regression')
-    predict('reconstructed_with_lr_df.csv', 'dataset/test_set.csv')
+    print('Interpolation no new features:')
+    predict('reconstructed_match_history_with_interpolation.csv')
+    print('Linear Regression no new features')
+    predict('reconstructed_with_lr_df.csv')
+    print('Interpoliation with new features:')
+    predict('dataset/interpolated_feature_match_history.csv')
+    print('Linear Regression with new features:')
+    predict('dataset/linear_feature_match_history.csv')
+    print('Gaussian with new features:')
+    predict('gaussian_feature_match_history.csv')
