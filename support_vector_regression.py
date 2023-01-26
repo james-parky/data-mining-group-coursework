@@ -14,7 +14,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 from sklearn.pipeline import make_pipeline
 
-def svm(training_data: str, test_set: str) -> None:
+def predict(training_data: str, test_set: str) -> None:
     dataset = pd.read_csv(training_data)
     test_set = pd.read_csv(test_set)
     dataset = dataset.replace(['Lose', 'Draw', 'Win'],[-1,0,1])
@@ -36,17 +36,12 @@ def svm(training_data: str, test_set: str) -> None:
     from sklearn.linear_model import LogisticRegression
     #return np.mean(lr_predictions == y_test_lr.values)*100
 
-    x_train, x_test, y_train, y_test = train_test_split(dataset, dataset['home_team_result'], test_size=0.30)
-    '''
-    x_train = dataset
-    y_train = dataset['home_team_result']
-    x_test = test_set
-    y_test = test_set['home_team_result']
-    '''
+    x_train, x_test, y_train, y_test = train_test_split(dataset.copy().drop(['home_team_result'],axis=1), dataset['home_team_result'], test_size=0.2)
+
     svm_model = make_pipeline(StandardScaler(), SVC(kernel='poly')).fit(x_train, y_train)
     svm_predictions = svm_model.predict(x_test)
 
-    lr_model = LogisticRegression(multi_class='multinomial', solver='newton-cg').fit(x_train, y_train)
+    lr_model = LogisticRegression(multi_class='multinomial', solver='newton-cg', max_iter=10000).fit(x_train, y_train)
     lr_predictions = lr_model.predict(x_test)
 
     from sklearn.neighbors import KNeighborsClassifier
@@ -54,7 +49,7 @@ def svm(training_data: str, test_set: str) -> None:
     knn_predictions = knn_model.predict(x_test)
 
     from sklearn.neural_network import MLPClassifier
-    mlp_model = MLPClassifier(random_state=1, max_iter=5000).fit(x_train, y_train)
+    mlp_model = MLPClassifier(random_state=1, max_iter=10000).fit(x_train, y_train)
     mlp_predictions = mlp_model.predict(x_test)
 
     print(f'LR Predictions: {np.mean(lr_predictions == y_test.values)*100}')
@@ -78,4 +73,7 @@ def svm(training_data: str, test_set: str) -> None:
 
 
 if __name__ == '__main__':
-    svm('reconstructed_with_lr_df.csv', 'dataset/test_set.csv')
+    print('Interpolation:')
+    predict('reconstructed_match_history_with_interpolation.csv', 'dataset/test_set.csv')
+    print('Linear Regression')
+    predict('reconstructed_with_lr_df.csv', 'dataset/test_set.csv')
