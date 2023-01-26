@@ -13,6 +13,8 @@ from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
 from sklearn import metrics
 from sklearn.pipeline import make_pipeline
+from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precision_score, recall_score
+
 
 def predict(training_data: str) -> None:
     dataset = pd.read_csv(training_data)
@@ -61,6 +63,19 @@ def predict(training_data: str) -> None:
     print(f'MLP Predictions: {np.mean(mlp_predictions == y_test.values)*100}')
 
     
+    # Plotting confusion matrices
+    lr_cm = confusion_matrix(y_test, lr_predictions, labels=lr_model.classes_)
+    svm_cm = confusion_matrix(y_test, svm_predictions, labels=svm_model.classes_)
+    knn_cm = confusion_matrix(y_test, knn_predictions, labels=knn_model.classes_)
+    mlp_cm = confusion_matrix(y_test, mlp_predictions, labels=mlp_model.classes_)
+
+    # Calculate f-score, precision & recall
+    all_model_names = ["lr", "svm", "knn", "mlp"]
+    all_predictions = [lr_predictions, svm_predictions, knn_predictions, mlp_predictions]
+    for i in range(len(all_model_names)):
+        print(all_model_names[i] + "F1 score: " + str(f1_score(y_test, all_predictions[i], average="macro")))
+        print(all_model_names[i] + "Precision score: " + str(precision_score(y_test, all_predictions[i], average="macro")))
+        print(all_model_names[i] + "Recall score: " + str(recall_score(y_test, all_predictions[i], average="macro")))
     '''    
     rows = []
     for index, row in dataset.iterrows():
