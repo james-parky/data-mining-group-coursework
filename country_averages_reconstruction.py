@@ -19,20 +19,11 @@ def interpolote_missing_data(original_data: str) -> dict:
         csv_reader = csv.reader(csv_in_file)
         next(csv_reader)
 
-        #fifa_ranks = {}
-        # features = [scores, gk_scores, def_scores, off_scores, mid_scores]
-        #features = [[], [], [], []]
         features = {'Goalkeeper': [], 'Defense': [], 'Offense': [], 'Midfield': []}
 
-
         for row in csv_reader:
-            # Extract the 5 types of score from the given csv for
             home_features = [row[i] for i in HOME_FEATURE_INDEXES]
             away_features = [row[i] for i in AWAY_FEATURE_INDEXES]
-            #fifa_ranks[row[1]] = int(row[HOME_TEAM_FIFA_RANK])
-            #fifa_ranks[row[2]] = int(row[AWAY_TEAM_FIFA_RANK])
-
-            # Only append the data to the lists is it is fully intact
 
             for i, score in enumerate(PLOT_TITLES):
                 home_val = np.nan if home_features[i] == '' else home_features[i]
