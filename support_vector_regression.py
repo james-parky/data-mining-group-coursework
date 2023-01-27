@@ -16,7 +16,7 @@ def predict(training_data: str) -> None:
     print(f'Original dataset columns: {list(dataset.columns)}')
 
     active_features = ['home_team_fifa_rank', 'away_team_fifa_rank',
-                       'home_team_score', 'home_team_result',
+                       'home_team_result',
                        'home_team_goalkeeper_score',
                        'away_team_goalkeeper_score',
                        'home_team_mean_defense_score',
