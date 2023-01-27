@@ -234,7 +234,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2005-09-03,Turkey,Denmark,Europe,Europe,12,18,0,0,2,2,FIFA World Cup qualification,Istanbul,Turkey,False,No,Draw,76.0,81.0,74.0,79.0,79.8,79.0,81.7,80.5
 2005-09-03,USA,Mexico,North America,North America,6,5,0,0,2,0,FIFA World Cup qualification,Columbus,USA,False,No,Win,84.0,83.0,77.2,76.7,78.5,77.0,80.3,75.2
 2005-09-03,Wales,England,Europe,Europe,83,7,0,0,0,1,FIFA World Cup qualification,Cardiff,Wales,False,No,Lose,74.0,87.0,72.8,77.7,77.2,89.5,90.0,88.2
-2005-09-03,Zambia,Senegal,Africa,Africa,56,40,0,0,0,1,FIFA World Cup qualification,Chililabombwe,Zambia,False,No,Lose,89.0,75.0,84.8,70.0,59.2,76.5,79.0,76.2
+2005-09-03,Zambia,Senegal,Africa,Africa,56,40,0,0,0,1,FIFA World Cup qualification,Chililabombwe,Zambia,False,No,Lose,0.0,75.0,0.0,70.0,59.2,76.5,79.0,76.2
 2005-09-04,Algeria,Nigeria,Africa,Africa,81,30,0,0,2,5,FIFA World Cup qualification,Oran,Algeria,False,No,Lose,69.7,81.0,66.0,62.0,67.8,77.8,82.0,78.0
 2005-09-04,Brazil,Chile,South America,South America,1,73,0,0,5,0,FIFA World Cup qualification,Brasília,Brazil,False,No,Win,91.0,78.1,88.0,92.7,92.0,70.2,76.7,74.5
 2005-09-04,Côte d'Ivoire,Cameroon,Africa,Africa,44,28,0,0,2,3,FIFA World Cup qualification,Abidjan,Côte d'Ivoire,False,No,Lose,69.0,84.0,81.2,81.7,75.8,80.0,83.3,76.2
@@ -321,7 +321,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2006-01-21,Greece,Korea Republic,Europe,Asia,16,29,0,0,1,1,Friendly,Riyadh,Saudi Arabia,True,No,Draw,85.0,76.0,78.5,82.3,81.8,76.0,79.3,75.0
 2006-01-21,Morocco,Côte d'Ivoire,Africa,Africa,35,42,0,0,0,1,African Cup of Nations,Cairo,Egypt,True,No,Lose,63.0,69.0,73.5,76.0,71.5,81.2,81.7,75.8
 2006-01-22,South Africa,Guinea,Africa,Africa,49,77,0,0,0,2,African Cup of Nations,Alexandria,Egypt,True,No,Lose,75.0,59.4,69.5,77.7,73.8,66.2,71.3,70.8
-2006-01-22,Tunisia,Zambia,Africa,Africa,28,58,0,0,4,1,African Cup of Nations,Alexandria,Egypt,True,No,Win,67.0,89.0,71.5,70.7,73.0,84.8,70.0,59.2
+2006-01-22,Tunisia,Zambia,Africa,Africa,28,58,0,0,4,1,African Cup of Nations,Alexandria,Egypt,True,No,Win,67.0,0.0,71.5,70.7,73.0,0.0,70.0,59.2
 2006-01-22,USA,Canada,North America,North America,7,84,0,0,0,0,Friendly,San Diego,USA,False,No,Draw,84.0,73.0,77.2,76.7,78.5,68.8,72.7,70.0
 2006-01-23,Nigeria,Ghana,Africa,Africa,24,50,0,0,1,0,African Cup of Nations,Port Said,Egypt,True,No,Win,81.0,67.9,77.8,82.0,78.0,75.5,73.3,77.0
 2006-01-25,Cameroon,Togo,Africa,Africa,23,56,0,0,2,0,African Cup of Nations,Cairo,Egypt,True,No,Win,84.0,67.0,80.0,83.3,76.2,62.6,72.0,68.3
@@ -333,7 +333,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2006-01-29,Korea Republic,Croatia,Asia,Europe,29,20,0,0,2,0,Lunar New Year Cup,So Kon Po,Hong Kong,True,No,Win,76.0,77.0,76.0,79.3,75.0,82.5,82.0,77.5
 2006-01-29,USA,Norway,North America,Europe,7,37,0,0,5,0,Friendly,Carson,USA,False,No,Win,84.0,79.0,77.2,76.7,78.5,80.0,83.7,78.5
 2006-01-30,Tunisia,Guinea,Africa,Africa,28,77,0,0,0,3,African Cup of Nations,Alexandria,Egypt,True,No,Lose,67.0,59.4,71.5,70.7,73.0,66.2,71.3,70.8
-2006-01-30,Zambia,South Africa,Africa,Africa,58,49,0,0,1,0,African Cup of Nations,Alexandria,Egypt,True,No,Win,89.0,75.0,84.8,70.0,59.2,69.5,77.7,73.8
+2006-01-30,Zambia,South Africa,Africa,Africa,58,49,0,0,1,0,African Cup of Nations,Alexandria,Egypt,True,No,Win,0.0,75.0,0.0,70.0,59.2,69.5,77.7,73.8
 2006-01-31,Nigeria,Senegal,Africa,Africa,24,30,0,0,2,1,African Cup of Nations,Port Said,Egypt,True,No,Win,81.0,75.0,77.8,82.0,78.0,76.5,79.0,76.2
 2006-02-03,Guinea,Senegal,Africa,Africa,77,30,0,0,2,3,African Cup of Nations,Alexandria,Egypt,True,No,Lose,59.4,75.0,66.2,71.3,70.8,76.5,79.0,76.2
 2006-02-04,Cameroon,Côte d'Ivoire,Africa,Africa,23,42,0,0,1,1,African Cup of Nations,Cairo,Egypt,True,Yes,Lose,84.0,69.0,80.0,83.3,76.2,81.2,81.7,75.8
@@ -510,7 +510,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2006-09-02,Romania,Bulgaria,Europe,Europe,26,36,0,0,2,2,UEFA Euro qualification,Constanţa,Romania,False,No,Draw,74.0,75.0,78.2,80.7,74.2,71.5,81.0,78.0
 2006-09-02,South Africa,Congo,Africa,Africa,76,109,0,0,0,0,African Cup of Nations qualification,Johannesburg,South Africa,False,No,Draw,59.0,66.7,66.0,77.0,73.8,67.7,71.7,66.8
 2006-09-03,Argentina,Brazil,South America,South America,3,1,0,0,0,3,Friendly,London,England,True,No,Lose,84.0,88.0,85.5,86.7,85.2,88.0,89.3,87.5
-2006-09-03,Sierra Leone,Mali,Africa,Africa,154,60,0,0,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Draw,90.0,62.0,63.2,70.7,62.5,75.0,75.3,80.2
+2006-09-03,Sierra Leone,Mali,Africa,Africa,154,60,0,0,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Draw,0.0,62.0,63.2,70.7,62.5,75.0,75.3,80.2
 2006-09-04,Canada,Jamaica,North America,North America,82,74,0,0,1,0,Friendly,Montréal,Canada,False,No,Win,72.0,59.0,70.5,72.3,72.0,71.2,68.7,72.0
 2006-09-05,Wales,Brazil,Europe,South America,56,1,0,0,0,2,Friendly,London,England,True,No,Lose,73.0,88.0,74.2,76.7,79.5,88.0,89.3,87.5
 2006-09-06,Albania,Romania,Europe,Europe,62,26,0,0,0,2,UEFA Euro qualification,Tirana,Albania,False,No,Lose,71.9,74.0,72.4,69.7,74.8,78.2,80.7,74.2
@@ -670,7 +670,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2007-06-09,Burkina Faso,Mali,Africa,Africa,54,40,0,0,0,1,Friendly,Ouagadougou,Burkina Faso,False,No,Lose,68.8,62.0,65.8,68.3,69.9,75.0,75.3,80.2
 2007-06-09,USA,Trinidad and Tobago,North America,South America,29,67,0,0,2,0,Gold Cup,Carson,USA,False,No,Win,83.0,70.0,75.0,75.7,76.0,62.8,67.7,66.0
 2007-06-17,Congo,South Africa,Africa,Africa,87,57,0,0,1,1,African Cup of Nations qualification,Pointe-Noire,Congo,False,No,Draw,66.7,59.0,67.7,71.7,66.8,66.0,77.0,73.8
-2007-06-17,Mali,Sierra Leone,Africa,Africa,49,156,0,0,6,0,African Cup of Nations qualification,Bamako,Mali,False,No,Win,62.0,90.0,75.0,75.3,80.2,63.2,70.7,62.5
+2007-06-17,Mali,Sierra Leone,Africa,Africa,49,156,0,0,6,0,African Cup of Nations qualification,Bamako,Mali,False,No,Win,62.0,0.0,75.0,75.3,80.2,63.2,70.7,62.5
 2007-06-21,USA,Canada,North America,North America,16,56,0,0,2,1,Gold Cup,Chicago,USA,False,No,Win,83.0,72.0,75.0,75.7,76.0,70.5,72.3,72.0
 2007-06-23,Colombia,Ecuador,South America,South America,31,44,0,0,3,1,Friendly,Barranquilla,Colombia,False,No,Win,87.0,65.0,80.5,78.0,76.5,71.0,74.7,71.8
 2007-06-24,USA,Mexico,North America,North America,16,26,0,0,2,1,Gold Cup,Chicago,USA,False,No,Win,83.0,81.0,75.0,75.7,76.0,80.8,78.7,79.2
@@ -883,7 +883,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-02-17,China PR,Korea Republic,Asia,Asia,75,41,0,0,2,3,EAFF Championship,Chongqing,China PR,False,No,Lose,65.0,70.0,68.8,67.7,70.0,69.0,73.3,71.8
 2008-02-20,China PR,Japan,Asia,Asia,75,35,0,0,0,1,EAFF Championship,Chongqing,China PR,False,No,Lose,65.0,71.1,68.8,67.7,70.0,72.4,71.7,77.5
 2008-02-23,Japan,Korea Republic,Asia,Asia,35,41,0,0,1,1,EAFF Championship,Chongqing,China PR,True,No,Draw,71.1,70.0,72.4,71.7,77.5,69.0,73.3,71.8
-2008-03-11,South Africa,Zimbabwe,Africa,Africa,70,96,0,0,2,1,Friendly,Germiston,South Africa,False,No,Win,73.0,88.0,71.8,78.3,74.2,62.7,65.7,63.5
+2008-03-11,South Africa,Zimbabwe,Africa,Africa,70,96,0,0,2,1,Friendly,Germiston,South Africa,False,No,Win,73.0,0.0,71.8,78.3,74.2,62.7,65.7,63.5
 2008-03-26,Algeria,Congo DR,Africa,Africa,78,77,0,0,1,1,Friendly,Nanterre,France,True,No,Draw,69.7,70.0,71.5,68.3,70.8,71.5,73.0,61.0
 2008-03-26,Austria,Netherlands,Europe,Europe,88,9,0,0,3,4,Friendly,Vienna,Austria,False,No,Lose,74.0,87.0,75.5,75.3,71.2,80.8,88.0,82.8
 2008-03-26,Belgium,Morocco,Europe,Africa,42,49,0,0,1,4,Friendly,Brussels,Belgium,False,No,Lose,71.0,75.0,78.2,77.7,75.0,74.2,77.3,71.5
@@ -1038,7 +1038,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-09-06,Hungary,Denmark,Europe,Europe,50,36,0,0,0,0,FIFA World Cup qualification,Budapest,Hungary,False,No,Draw,72.0,75.0,69.8,74.7,75.0,78.2,76.3,77.8
 2008-09-06,Israel,Switzerland,Europe,Europe,19,43,0,0,2,2,FIFA World Cup qualification,Ramat-Gan,Israel,False,No,Draw,73.0,80.0,64.2,73.3,71.8,76.0,77.0,78.2
 2008-09-06,North Macedonia,Scotland,Europe,Europe,56,16,0,0,1,0,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Win,75.0,81.0,71.0,72.3,68.8,73.2,76.0,78.0
-2008-09-06,Malta,Portugal,Europe,Europe,133,9,0,0,0,4,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,80.0,83.8,60.3,84.2,82.8,86.0,81.2
+2008-09-06,Malta,Portugal,Europe,Europe,133,9,0,0,0,4,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,80.0,0.0,60.3,0.0,82.8,86.0,81.2
 2008-09-06,Montenegro,Bulgaria,Europe,Europe,136,16,0,0,2,2,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Draw,50.0,78.0,67.8,77.3,70.0,70.2,78.3,75.8
 2008-09-06,Netherlands,Australia,Europe,Oceania,4,39,0,0,1,2,Friendly,Eindhoven,Netherlands,False,No,Lose,85.0,77.0,81.0,86.7,85.5,74.5,75.0,74.8
 2008-09-06,Norway,Iceland,Europe,Europe,34,107,0,0,2,2,FIFA World Cup qualification,Oslo,Norway,False,No,Draw,73.0,49.0,77.5,78.0,76.2,71.2,73.7,69.0
@@ -1079,14 +1079,14 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-10-11,Argentina,Uruguay,South America,South America,7,20,0,0,2,1,FIFA World Cup qualification,Buenos Aires,Argentina,False,No,Win,82.0,75.0,85.2,86.0,85.5,78.5,80.0,75.8
 2008-10-11,Bulgaria,Italy,Europe,Europe,15,2,0,0,0,0,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Draw,78.0,90.0,70.2,78.3,75.8,85.5,86.7,84.5
 2008-10-11,Colombia,Paraguay,South America,South America,33,22,0,0,0,1,FIFA World Cup qualification,Bogotá,Colombia,False,No,Lose,75.0,74.0,79.8,77.7,75.2,75.0,79.7,74.8
-2008-10-11,Denmark,Malta,Europe,Europe,31,146,0,0,3,0,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Win,75.0,64.0,78.2,76.3,77.8,85.8,60.3,87.5
+2008-10-11,Denmark,Malta,Europe,Europe,31,146,0,0,3,0,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Win,75.0,64.0,78.2,76.3,77.8,0.0,60.3,0.0
 2008-10-11,Estonia,Spain,Europe,Europe,137,1,0,0,0,3,FIFA World Cup qualification,Tallinn,Estonia,False,No,Lose,64.0,91.0,62.2,62.2,63.5,83.8,86.0,86.0
 2008-10-11,Germany,Russia,Europe,Europe,3,9,0,0,2,1,FIFA World Cup qualification,Dortmund,Germany,False,No,Win,85.0,85.0,83.2,83.3,82.5,76.2,80.3,76.8
 2008-10-11,Honduras,Canada,North America,North America,50,84,0,0,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Win,61.0,70.0,71.0,70.3,71.0,69.2,71.0,72.0
 2008-10-11,Hungary,Albania,Europe,Europe,62,83,0,0,2,0,FIFA World Cup qualification,Budapest,Hungary,False,No,Win,72.0,51.0,69.8,74.7,75.0,72.4,69.7,72.2
 2008-10-11,Jamaica,Mexico,North America,North America,116,24,0,0,1,0,FIFA World Cup qualification,Kingston,Jamaica,False,No,Win,64.0,82.0,68.0,72.7,68.8,79.2,78.0,79.2
 2008-10-11,Netherlands,Iceland,Europe,Europe,5,103,0,0,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,No,Win,85.0,49.0,81.0,86.7,85.5,71.2,73.7,69.0
-2008-10-11,Nigeria,Sierra Leone,Africa,Africa,27,133,0,0,4,1,FIFA World Cup qualification,Abuja,Nigeria,False,No,Win,64.0,82.0,76.0,79.7,76.5,63.2,62.3,58.5
+2008-10-11,Nigeria,Sierra Leone,Africa,Africa,27,133,0,0,4,1,FIFA World Cup qualification,Abuja,Nigeria,False,No,Win,64.0,0.0,76.0,79.7,76.5,63.2,62.3,58.5
 2008-10-11,Poland,Czech Republic,Europe,Europe,30,8,0,0,2,1,FIFA World Cup qualification,Chorzów,Poland,False,No,Win,80.0,88.0,72.0,74.7,75.8,79.2,78.0,79.2
 2008-10-11,Romania,France,Europe,Europe,18,11,0,0,2,2,FIFA World Cup qualification,Constanţa,Romania,False,No,Draw,82.0,87.0,75.0,77.3,78.8,83.8,85.0,84.5
 2008-10-11,Scotland,Norway,Europe,Europe,26,39,0,0,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,No,Draw,81.0,73.0,73.2,76.0,78.0,77.5,78.0,76.2
@@ -1113,7 +1113,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-10-15,Iceland,North Macedonia,Europe,Europe,103,46,0,0,1,0,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Win,49.0,75.0,71.2,73.7,69.0,71.0,72.3,68.8
 2008-10-15,Italy,Montenegro,Europe,Europe,2,117,0,0,2,1,FIFA World Cup qualification,Lecce,Italy,False,No,Win,90.0,50.0,85.5,86.7,84.5,67.8,77.3,70.0
 2008-10-15,Jamaica,Honduras,North America,North America,116,50,0,0,1,0,FIFA World Cup qualification,Kingston,Jamaica,False,No,Win,64.0,61.0,68.0,72.7,68.8,71.0,70.3,71.0
-2008-10-15,Malta,Hungary,Europe,Europe,146,62,0,0,0,1,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,72.0,85.8,60.3,87.5,69.8,74.7,75.0
+2008-10-15,Malta,Hungary,Europe,Europe,146,62,0,0,0,1,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,72.0,0.0,60.3,0.0,69.8,74.7,75.0
 2008-10-15,Norway,Netherlands,Europe,Europe,39,5,0,0,0,1,FIFA World Cup qualification,Oslo,Norway,False,No,Lose,73.0,85.0,77.5,78.0,76.2,81.0,86.7,85.5
 2008-10-15,Paraguay,Peru,South America,South America,22,58,0,0,1,0,FIFA World Cup qualification,Asunción,Paraguay,False,No,Win,74.0,62.0,75.0,79.7,74.8,73.8,79.7,73.6
 2008-10-15,Portugal,Albania,Europe,Europe,10,83,0,0,0,0,FIFA World Cup qualification,Braga,Portugal,False,No,Draw,80.0,51.0,82.8,86.0,81.2,72.4,69.7,72.2
@@ -1136,7 +1136,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-11-19,Republic of Ireland,Poland,Europe,Europe,36,32,0,0,2,3,Friendly,Dublin,Republic of Ireland,False,No,Lose,83.0,80.0,75.2,76.3,77.2,72.0,74.7,75.8
 2008-11-19,Israel,Côte d'Ivoire,Europe,Africa,15,28,0,0,2,2,Friendly,Ramat-Gan,Israel,False,No,Draw,73.0,68.0,64.2,73.3,71.8,76.0,81.3,78.8
 2008-11-19,Jamaica,Canada,North America,North America,83,81,0,0,3,0,FIFA World Cup qualification,Kingston,Jamaica,False,No,Win,64.0,70.0,68.0,72.7,68.8,69.2,71.0,72.0
-2008-11-19,Malta,Iceland,Europe,Europe,150,82,0,0,0,1,Friendly,Paola,Malta,False,No,Lose,64.0,49.0,84.8,60.3,88.2,71.2,73.7,69.0
+2008-11-19,Malta,Iceland,Europe,Europe,150,82,0,0,0,1,Friendly,Paola,Malta,False,No,Lose,64.0,49.0,0.0,60.3,0.0,71.2,73.7,69.0
 2008-11-19,Montenegro,North Macedonia,Europe,Europe,115,49,0,0,2,1,Friendly,Podgorica,Montenegro,False,No,Win,50.0,75.0,67.8,77.3,70.0,71.0,72.3,68.8
 2008-11-19,Netherlands,Sweden,Europe,Europe,4,29,0,0,3,1,Friendly,Amsterdam,Netherlands,False,No,Win,85.0,76.0,81.0,86.7,85.5,76.2,83.0,75.2
 2008-11-19,Northern Ireland,Hungary,Europe,Europe,42,56,0,0,0,2,Friendly,Belfast,Northern Ireland,False,No,Lose,72.0,72.0,71.8,70.7,71.0,69.8,74.7,75.0
@@ -1148,7 +1148,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2008-11-19,Spain,Chile,Europe,South America,1,35,0,0,3,0,Friendly,Vila-real,Spain,False,No,Win,91.0,70.0,83.8,86.0,86.0,69.5,76.3,79.2
 2008-11-19,Switzerland,Finland,Europe,Europe,27,48,0,0,1,0,Friendly,St. Gallen,Switzerland,False,No,Win,80.0,80.0,76.0,77.0,78.2,75.8,71.7,69.8
 2008-11-19,Ukraine,Norway,Europe,Europe,20,54,0,0,1,0,Friendly,Dnipropetrovs'k,Ukraine,False,No,Win,77.0,73.0,69.8,76.0,75.5,77.5,78.0,76.2
-2008-12-03,Jamaica,Barbados,North America,North America,83,100,0,0,2,1,CFU Caribbean Cup,Kingston,Jamaica,False,No,Win,64.0,48.0,68.0,72.7,68.8,83.5,59.7,87.0
+2008-12-03,Jamaica,Barbados,North America,North America,83,100,0,0,2,1,CFU Caribbean Cup,Kingston,Jamaica,False,No,Win,64.0,48.0,68.0,72.7,68.8,0.0,59.7,0.0
 2008-12-07,Jamaica,Trinidad and Tobago,North America,South America,83,78,0,0,1,1,CFU Caribbean Cup,Falmouth,Jamaica,False,No,Draw,64.0,63.0,68.0,72.7,68.8,65.3,73.7,66.0
 2008-12-14,Serbia,Poland,Europe,Europe,30,32,0,0,0,1,Friendly,Antalya,Turkey,True,No,Lose,78.0,80.0,79.8,78.0,78.8,72.0,74.7,75.8
 2009-01-18,Honduras,Chile,North America,South America,40,30,0,0,2,0,Friendly,Fort Lauderdale,USA,True,No,Win,61.0,70.0,71.0,70.3,71.0,69.5,76.3,79.2
@@ -1188,7 +1188,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-03-28,Republic of Ireland,Bulgaria,Europe,Europe,26,27,0,0,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,No,Draw,83.0,78.0,75.2,76.3,77.2,70.2,78.3,75.8
 2009-03-28,Israel,Greece,Europe,Europe,18,19,0,0,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,No,Draw,73.0,79.0,64.2,73.3,71.8,77.8,77.7,77.5
 2009-03-28,Lithuania,France,Europe,Europe,52,12,0,0,0,1,FIFA World Cup qualification,Kaunas,Lithuania,False,No,Lose,71.2,87.0,62.2,66.0,66.0,83.8,85.0,84.5
-2009-03-28,Malta,Denmark,Europe,Europe,146,38,0,0,0,3,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,75.0,85.8,60.3,87.5,78.2,76.3,77.8
+2009-03-28,Malta,Denmark,Europe,Europe,146,38,0,0,0,3,FIFA World Cup qualification,Attard,Malta,False,No,Lose,64.0,75.0,0.0,60.3,0.0,78.2,76.3,77.8
 2009-03-28,Mexico,Costa Rica,North America,North America,23,32,0,0,2,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,82.0,79.1,79.2,78.0,79.2,65.0,71.3,66.5
 2009-03-28,Montenegro,Italy,Europe,Europe,112,4,0,0,0,2,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Lose,50.0,90.0,67.8,77.3,70.0,85.5,86.7,84.5
 2009-03-28,Netherlands,Scotland,Europe,Europe,3,28,0,0,3,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,No,Win,85.0,81.0,81.0,86.7,85.5,73.2,76.0,78.0
@@ -1215,7 +1215,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-04-01,Georgia,Montenegro,Europe,Europe,111,112,0,0,0,0,FIFA World Cup qualification,Tbilisi,Georgia,False,No,Draw,55.0,50.0,70.0,63.7,66.8,67.8,77.3,70.0
 2009-04-01,Greece,Israel,Europe,Europe,19,18,0,0,2,1,FIFA World Cup qualification,Heraklion,Greece,False,No,Win,79.0,73.0,77.8,77.7,77.5,64.2,73.3,71.8
 2009-04-01,Honduras,Mexico,North America,North America,40,23,0,0,3,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Win,61.0,82.0,71.0,70.3,71.0,79.2,78.0,79.2
-2009-04-01,Hungary,Malta,Europe,Europe,48,146,0,0,3,0,FIFA World Cup qualification,Budapest,Hungary,False,No,Win,72.0,64.0,69.8,74.7,75.0,85.8,60.3,87.5
+2009-04-01,Hungary,Malta,Europe,Europe,48,146,0,0,3,0,FIFA World Cup qualification,Budapest,Hungary,False,No,Win,72.0,64.0,69.8,74.7,75.0,0.0,60.3,0.0
 2009-04-01,Italy,Republic of Ireland,Europe,Europe,4,26,0,0,1,1,FIFA World Cup qualification,Bari,Italy,False,No,Draw,90.0,83.0,85.5,86.7,84.5,75.2,76.3,77.2
 2009-04-01,Netherlands,North Macedonia,Europe,Europe,3,61,0,0,4,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,No,Win,85.0,75.0,81.0,86.7,85.5,71.0,72.3,68.8
 2009-04-01,Northern Ireland,Slovenia,Europe,Europe,42,59,0,0,1,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Win,72.0,78.0,71.8,70.7,71.0,68.5,74.3,71.8
@@ -1237,7 +1237,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-05-31,Japan,Belgium,Asia,Europe,35,62,0,0,4,0,Kirin Cup,Tokyo,Japan,False,No,Win,71.1,73.0,72.4,70.3,75.5,77.0,73.0,76.8
 2009-06-02,France,Nigeria,Europe,Africa,10,30,0,0,0,1,Friendly,Saint-Étienne,France,False,No,Lose,87.0,64.0,83.8,85.0,84.5,76.0,79.7,76.5
 2009-06-03,Costa Rica,USA,North America,North America,41,14,0,0,3,1,FIFA World Cup qualification,San José,Costa Rica,False,No,Win,79.1,84.0,65.0,71.3,66.5,72.5,75.7,74.0
-2009-06-05,Czech Republic,Malta,Europe,Europe,15,150,0,0,1,0,Friendly,Jablonec nad Nisou nad Nisou,Czech Republic,False,No,Win,88.0,64.0,79.2,78.0,79.2,84.8,60.3,88.2
+2009-06-05,Czech Republic,Malta,Europe,Europe,15,150,0,0,1,0,Friendly,Jablonec nad Nisou nad Nisou,Czech Republic,False,No,Win,88.0,64.0,79.2,78.0,79.2,0.0,60.3,0.0
 2009-06-05,France,Turkey,Europe,Europe,10,12,0,0,1,0,Friendly,Lyon,France,False,No,Win,87.0,81.0,83.8,85.0,84.5,77.2,79.3,78.5
 2009-06-06,Albania,Portugal,Europe,Europe,92,11,0,0,1,2,FIFA World Cup qualification,Tirana,Albania,False,No,Lose,51.0,80.0,72.4,69.7,72.2,82.8,86.0,81.2
 2009-06-06,Argentina,Colombia,South America,South America,7,45,0,0,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,No,Win,82.0,75.0,85.2,86.0,85.5,79.8,77.7,75.2
@@ -1265,7 +1265,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-06-10,North Macedonia,Iceland,Europe,Europe,64,92,0,0,2,0,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Win,75.0,49.0,71.0,72.3,68.8,71.2,73.7,69.0
 2009-06-10,Mexico,Trinidad and Tobago,North America,South America,26,72,0,0,2,1,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,82.0,63.0,79.2,78.0,79.2,65.3,73.7,66.0
 2009-06-10,Netherlands,Norway,Europe,Europe,2,47,0,0,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,No,Win,85.0,73.0,81.0,86.7,85.5,77.5,78.0,76.2
-2009-06-10,Sweden,Malta,Europe,Europe,31,150,0,0,4,0,FIFA World Cup qualification,Gothenburg,Sweden,False,No,Win,76.0,64.0,76.2,83.0,75.2,84.8,60.3,88.2
+2009-06-10,Sweden,Malta,Europe,Europe,31,150,0,0,4,0,FIFA World Cup qualification,Gothenburg,Sweden,False,No,Win,76.0,64.0,76.2,83.0,75.2,0.0,60.3,0.0
 2009-06-10,Venezuela,Uruguay,South America,South America,56,17,0,0,2,2,FIFA World Cup qualification,Puerto Ordaz,Venezuela,False,No,Draw,65.0,75.0,73.2,74.7,64.5,78.5,80.0,75.8
 2009-06-13,Côte d'Ivoire,Cameroon,Africa,Africa,38,21,0,0,2,1,Friendly,Abidjan,Côte d'Ivoire,False,No,Win,68.0,81.0,76.0,81.3,78.8,74.5,79.3,78.0
 2009-06-14,New Zealand,Spain,Oceania,Europe,82,1,0,0,0,5,Confederations Cup,Rustenburg,South Africa,True,No,Lose,60.0,91.0,62.8,64.7,62.0,83.8,86.0,86.0
@@ -1309,7 +1309,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-08-12,Republic of Ireland,Australia,Europe,Oceania,37,16,0,0,0,3,Friendly,Limerick,Republic of Ireland,False,No,Lose,83.0,77.0,75.2,76.3,77.2,74.5,75.0,74.8
 2009-08-12,Korea Republic,Paraguay,Asia,South America,48,20,0,0,1,0,Friendly,Seoul,Korea Republic,False,No,Win,73.0,74.0,69.5,70.7,71.5,75.0,79.7,74.8
 2009-08-12,North Macedonia,Spain,Europe,Europe,53,2,0,0,2,3,Friendly,Skopje,North Macedonia,False,No,Lose,75.0,91.0,71.0,72.3,68.8,83.8,86.0,86.0
-2009-08-12,Malta,Georgia,Europe,Europe,146,103,0,0,2,0,Friendly,Attard,Malta,False,No,Win,64.0,55.0,85.8,60.3,87.5,70.0,63.7,66.8
+2009-08-12,Malta,Georgia,Europe,Europe,146,103,0,0,2,0,Friendly,Attard,Malta,False,No,Win,64.0,55.0,0.0,60.3,0.0,70.0,63.7,66.8
 2009-08-12,Mexico,USA,North America,North America,30,12,0,0,2,1,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,82.0,84.0,79.2,78.0,79.2,72.5,75.7,74.0
 2009-08-12,Montenegro,Wales,Europe,Europe,96,67,0,0,2,1,Friendly,Podgorica,Montenegro,False,No,Win,50.0,77.0,67.8,77.3,70.0,72.2,73.7,76.2
 2009-08-12,Morocco,Congo,Africa,Africa,55,89,0,0,1,1,Friendly,Rabat,Morocco,False,No,Draw,71.0,66.7,74.5,77.7,69.5,63.8,72.7,67.2
@@ -1431,7 +1431,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2009-10-14,Uruguay,Argentina,South America,South America,28,8,0,0,0,1,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Lose,76.0,78.0,78.0,83.0,77.5,82.5,87.3,83.8
 2009-10-14,USA,Costa Rica,North America,North America,11,39,0,0,2,2,FIFA World Cup qualification,Washington,USA,False,No,Draw,82.0,79.1,73.8,73.7,78.2,67.2,73.0,69.2
 2009-10-26,South Africa,Angola,Africa,Africa,85,98,0,0,2,0,COSAFA Cup,Bulawayo,Zimbabwe,True,No,Win,71.0,70.0,72.2,72.0,75.2,65.1,73.7,63.2
-2009-10-28,Zimbabwe,South Africa,Africa,Africa,131,85,0,0,1,1,COSAFA Cup,Harare,Zimbabwe,False,Yes,Win,82.0,71.0,62.2,71.3,60.0,72.2,72.0,75.2
+2009-10-28,Zimbabwe,South Africa,Africa,Africa,131,85,0,0,1,1,COSAFA Cup,Harare,Zimbabwe,False,Yes,Win,0.0,71.0,62.2,71.3,60.0,72.2,72.0,75.2
 2009-11-04,Chile,Paraguay,South America,South America,17,21,0,0,2,1,Friendly,Talcahuano,Chile,False,No,Win,75.0,76.0,74.2,77.3,78.5,74.8,80.3,73.0
 2009-11-14,Angola,Congo,Africa,Africa,98,107,0,0,1,1,Friendly,Luanda,Angola,False,No,Draw,70.0,66.0,65.1,73.7,63.2,67.5,69.0,65.5
 2009-11-14,Belgium,Hungary,Europe,Europe,68,50,0,0,3,0,Friendly,Ghent,Belgium,False,No,Win,76.0,75.0,79.2,77.0,77.5,69.5,73.0,76.5
@@ -1490,7 +1490,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2010-01-24,Angola,Ghana,Africa,Africa,95,34,0,0,0,1,African Cup of Nations,Luanda,Angola,False,No,Lose,70.0,66.0,65.1,73.7,63.2,71.8,73.3,80.2
 2010-01-24,Côte d'Ivoire,Algeria,Africa,Africa,16,26,0,0,2,3,African Cup of Nations,Cabinda,Angola,True,No,Lose,73.0,69.7,74.8,83.3,80.0,72.5,73.7,75.5
 2010-01-26,Argentina,Costa Rica,South America,North America,8,44,0,0,3,2,Friendly,San Juan,Argentina,False,No,Win,78.0,79.1,82.5,87.3,83.8,67.2,73.0,69.2
-2010-01-27,South Africa,Zimbabwe,Africa,Africa,85,109,0,0,3,0,Friendly,Durban,South Africa,False,No,Win,71.0,90.0,72.2,72.0,75.2,62.2,71.3,60.0
+2010-01-27,South Africa,Zimbabwe,Africa,Africa,85,109,0,0,3,0,Friendly,Durban,South Africa,False,No,Win,71.0,0.0,72.2,72.0,75.2,62.2,71.3,60.0
 2010-01-28,Ghana,Nigeria,Africa,Africa,34,22,0,0,1,0,African Cup of Nations,Luanda,Angola,True,No,Win,66.0,76.0,71.8,73.3,80.2,75.5,79.0,75.2
 2010-01-30,Nigeria,Algeria,Africa,Africa,22,26,0,0,1,0,African Cup of Nations,Benguela,Angola,True,No,Win,76.0,69.7,75.5,79.0,75.2,72.5,73.7,75.5
 2010-01-31,Jamaica,Canada,North America,North America,81,56,0,0,1,0,Friendly,Kingston,Jamaica,False,No,Win,69.0,71.0,65.2,74.3,68.8,69.5,74.0,72.0
@@ -1587,7 +1587,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2010-06-02,Norway,Ukraine,Europe,Europe,22,23,0,0,0,1,Friendly,Oslo,Norway,False,No,Lose,72.0,78.0,77.2,77.0,75.0,75.0,78.3,77.2
 2010-06-02,Romania,North Macedonia,Europe,Europe,28,61,0,0,0,1,Friendly,Villach,Austria,True,No,Lose,77.0,74.0,77.8,77.0,73.2,71.5,73.0,63.8
 2010-06-02,Serbia,Poland,Europe,Europe,15,58,0,0,0,0,Friendly,Kufstein,Austria,True,No,Draw,75.0,80.0,80.2,77.3,80.2,71.5,74.0,76.0
-2010-06-02,Zimbabwe,Brazil,Africa,South America,110,1,0,0,0,3,Friendly,Harare,Zimbabwe,False,No,Lose,90.0,89.0,62.2,71.3,60.0,84.8,85.3,82.5
+2010-06-02,Zimbabwe,Brazil,Africa,South America,110,1,0,0,0,3,Friendly,Harare,Zimbabwe,False,No,Lose,0.0,89.0,62.2,71.3,60.0,84.8,85.3,82.5
 2010-06-03,Germany,Bosnia and Herzegovina,Europe,Europe,6,51,0,0,3,1,Friendly,Frankfurt am Main,Germany,False,No,Win,85.0,76.0,82.8,82.7,82.2,73.0,79.7,78.2
 2010-06-03,Italy,Mexico,Europe,North America,5,17,0,0,1,2,Friendly,Brussels,Belgium,True,No,Lose,88.0,79.0,83.8,85.3,84.0,76.5,77.7,76.8
 2010-06-03,Spain,Korea Republic,Europe,Asia,2,47,0,0,1,0,Friendly,Innsbruck,Austria,True,No,Win,90.0,73.0,85.0,85.3,87.0,71.2,71.3,73.8
@@ -1764,7 +1764,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2010-10-09,USA,Poland,North America,Europe,18,66,0,0,2,2,Friendly,Chicago,USA,False,No,Draw,81.0,76.0,73.0,75.0,78.5,72.5,76.3,74.8
 2010-10-10,Guinea,Nigeria,Africa,Africa,81,34,0,0,1,0,African Cup of Nations qualification,Conakry,Guinea,False,No,Win,57.0,76.0,67.2,74.3,68.2,75.5,77.3,76.2
 2010-10-10,Jamaica,Trinidad and Tobago,North America,South America,75,97,0,0,1,0,Friendly,Kingston,Jamaica,False,No,Win,72.0,62.0,66.8,72.7,70.2,65.3,70.7,66.0
-2010-10-10,Sierra Leone,South Africa,Africa,Africa,132,58,0,0,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Draw,82.0,70.0,63.2,66.0,64.2,70.5,70.7,74.5
+2010-10-10,Sierra Leone,South Africa,Africa,Africa,132,58,0,0,0,0,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Draw,0.0,70.0,63.2,66.0,64.2,70.5,70.7,74.5
 2010-10-10,Togo,Tunisia,Africa,Africa,84,56,0,0,1,2,African Cup of Nations qualification,Lomé,Togo,False,No,Lose,68.0,67.0,63.5,73.0,66.5,70.0,71.7,72.5
 2010-10-11,Brazil,Ukraine,South America,Europe,4,26,0,0,2,0,Friendly,Derby,England,True,No,Win,86.0,77.0,84.5,84.0,81.8,67.8,60.7,73.0
 2010-10-12,Belarus,Albania,Europe,Europe,55,67,0,0,2,0,UEFA Euro qualification,Minsk,Belarus,False,No,Win,75.0,69.0,63.0,71.0,72.2,72.4,68.0,68.5
@@ -1869,7 +1869,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2011-03-26,Georgia,Croatia,Europe,Europe,72,8,0,0,1,0,UEFA Euro qualification,Tbilisi,Georgia,False,No,Win,62.0,74.0,70.5,66.7,70.2,78.5,80.7,79.5
 2011-03-26,Republic of Ireland,North Macedonia,Europe,Europe,34,83,0,0,2,1,UEFA Euro qualification,Dublin,Republic of Ireland,False,No,Win,81.0,73.0,76.5,75.7,77.5,67.8,71.3,68.8
 2011-03-26,Israel,Latvia,Europe,Europe,58,75,0,0,2,1,UEFA Euro qualification,Jaffa,Israel,False,No,Win,78.0,69.0,67.0,69.0,73.8,65.2,66.0,64.5
-2011-03-26,Mali,Zimbabwe,Africa,Africa,85,127,0,0,1,0,African Cup of Nations qualification,Bamako,Mali,False,No,Win,54.0,82.0,72.0,75.3,77.2,56.5,72.0,65.5
+2011-03-26,Mali,Zimbabwe,Africa,Africa,85,127,0,0,1,0,African Cup of Nations qualification,Bamako,Mali,False,No,Win,54.0,0.0,72.0,75.3,77.2,56.5,72.0,65.5
 2011-03-26,Mexico,Paraguay,North America,South America,27,24,0,0,3,1,Friendly,Oakland,USA,True,No,Win,76.0,71.0,74.5,76.3,77.5,73.0,80.7,71.8
 2011-03-26,Norway,Denmark,Europe,Europe,11,28,0,0,1,1,UEFA Euro qualification,Oslo,Norway,False,No,Draw,69.0,76.0,77.5,76.7,77.0,77.5,77.7,75.2
 2011-03-26,Portugal,Chile,Europe,South America,9,14,0,0,1,1,Friendly,Leiria,Portugal,False,No,Draw,79.0,79.0,82.2,85.0,80.8,74.2,80.7,78.5
@@ -1934,7 +1934,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2011-06-04,USA,Spain,North America,Europe,22,1,0,0,0,4,Friendly,Foxborough,USA,False,No,Lose,81.0,88.0,73.0,75.0,78.5,84.0,86.0,86.2
 2011-06-05,Australia,New Zealand,Oceania,Oceania,20,61,0,0,3,0,Friendly,Adelaide,Australia,False,No,Win,80.0,64.0,72.5,76.7,71.0,67.8,68.3,62.0
 2011-06-05,Poland,Argentina,Europe,South America,71,5,0,0,2,1,Friendly,Warsaw,Poland,False,No,Win,76.0,77.0,72.5,76.3,74.8,81.0,87.0,82.8
-2011-06-05,Zimbabwe,Mali,Africa,Africa,126,70,0,0,2,1,African Cup of Nations qualification,Harare,Zimbabwe,False,No,Win,82.0,54.0,56.5,72.0,65.5,72.0,75.3,77.2
+2011-06-05,Zimbabwe,Mali,Africa,Africa,126,70,0,0,2,1,African Cup of Nations qualification,Harare,Zimbabwe,False,No,Win,0.0,54.0,56.5,72.0,65.5,72.0,75.3,77.2
 2011-06-06,Ukraine,France,Europe,Europe,35,19,0,0,1,4,Friendly,Donets'k,Ukraine,False,No,Lose,77.0,84.0,67.8,60.7,73.0,82.8,81.7,84.2
 2011-06-07,Australia,Serbia,Oceania,Europe,20,16,0,0,0,0,Friendly,Melbourne,Australia,False,No,Draw,80.0,72.0,72.5,76.7,71.0,81.8,76.0,80.0
 2011-06-07,Austria,Latvia,Europe,Europe,74,78,0,0,3,1,Friendly,Graz,Austria,False,No,Win,75.0,69.0,74.0,74.0,74.8,65.2,66.0,64.5
@@ -2039,7 +2039,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2011-09-03,Honduras,Colombia,North America,South America,50,35,589,729,0,2,Friendly,Harrison,USA,True,No,Lose,61.0,77.0,72.5,68.0,69.8,77.5,78.7,78.5
 2011-09-03,Scotland,Czech Republic,Europe,Europe,55,42,553,635,2,2,UEFA Euro qualification,Glasgow,Scotland,False,No,Draw,77.0,84.0,74.0,74.0,78.0,75.2,76.3,76.8
 2011-09-03,Senegal,Congo DR,Africa,Africa,49,127,590,221,2,0,African Cup of Nations qualification,Dakar,Senegal,False,No,Win,67.0,63.0,76.5,80.3,74.2,70.0,73.3,71.5
-2011-09-03,Sierra Leone,Egypt,Africa,Africa,92,34,347,738,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Win,88.0,70.0,63.2,64.7,61.0,70.5,69.0,69.2
+2011-09-03,Sierra Leone,Egypt,Africa,Africa,92,34,347,738,2,1,African Cup of Nations qualification,Freetown,Sierra Leone,False,No,Win,0.0,70.0,63.2,64.7,61.0,70.5,69.0,69.2
 2011-09-04,Mexico,Chile,North America,South America,20,11,863,959,1,0,Friendly,Barcelona,Spain,True,No,Win,76.0,78.0,76.2,77.0,76.2,72.5,80.3,80.8
 2011-09-05,Brazil,Ghana,South America,Africa,6,36,1156,725,1,0,Friendly,London,England,True,No,Win,85.0,64.0,85.5,84.3,84.0,71.0,76.7,81.0
 2011-09-06,Argentina,Nigeria,South America,Africa,9,38,1016,659,3,1,Friendly,Dhaka,Bangladesh,True,No,Win,77.0,76.0,80.8,88.3,85.2,74.5,77.7,76.2
@@ -2085,9 +2085,9 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2011-10-07,Turkey,Germany,Europe,Europe,27,3,753,1289,1,3,UEFA Euro qualification,Istanbul,Turkey,False,No,Lose,77.0,87.0,73.2,78.0,77.8,83.0,83.7,85.0
 2011-10-07,Ukraine,Bulgaria,Europe,Europe,60,55,531,558,3,0,Friendly,Kyiv,Ukraine,False,No,Win,78.0,80.0,74.2,72.0,68.5,70.8,73.7,73.5
 2011-10-07,Wales,Switzerland,Europe,Europe,90,18,374,886,2,0,UEFA Euro qualification,Swansea,Wales,False,No,Win,77.0,78.0,73.2,72.7,80.8,77.0,76.7,78.8
-2011-10-08,Cabo Verde,Zimbabwe,Africa,Africa,91,66,371,489,2,1,African Cup of Nations qualification,Praia,Cabo Verde,False,No,Win,56.0,88.0,64.0,70.3,69.1,64.2,69.0,62.8
+2011-10-08,Cabo Verde,Zimbabwe,Africa,Africa,91,66,371,489,2,1,African Cup of Nations qualification,Praia,Cabo Verde,False,No,Win,56.0,0.0,64.0,70.3,69.1,64.2,69.0,62.8
 2011-10-08,Nigeria,Guinea,Africa,Africa,43,76,613,447,2,2,African Cup of Nations qualification,Abuja,Nigeria,False,No,Draw,76.0,58.0,74.5,77.7,76.2,68.2,71.3,62.8
-2011-10-08,South Africa,Sierra Leone,Africa,Africa,51,68,574,487,0,0,African Cup of Nations qualification,Nelspruit,South Africa,False,No,Draw,76.0,88.0,69.8,72.0,75.2,63.2,64.7,61.0
+2011-10-08,South Africa,Sierra Leone,Africa,Africa,51,68,574,487,0,0,African Cup of Nations qualification,Nelspruit,South Africa,False,No,Draw,76.0,0.0,69.8,72.0,75.2,63.2,64.7,61.0
 2011-10-08,Tunisia,Togo,Africa,Africa,61,95,526,363,2,0,African Cup of Nations qualification,Radès,Tunisia,False,No,Win,67.0,68.0,75.0,72.3,71.8,62.6,71.5,69.8
 2011-10-08,USA,Honduras,North America,North America,31,53,741,564,1,0,Friendly,Miami Gardens,USA,False,No,Win,81.0,61.0,74.2,75.7,77.2,72.5,68.0,69.8
 2011-10-11,Albania,Romania,Europe,Europe,71,49,473,584,1,1,UEFA Euro qualification,Tirana,Albania,False,No,Draw,70.0,74.0,72.4,69.7,71.5,75.0,75.3,74.0
@@ -2156,7 +2156,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2011-11-15,Portugal,Bosnia and Herzegovina,Europe,Europe,8,21,1043,863,6,2,UEFA Euro qualification,Lisbon,Portugal,False,No,Win,81.0,76.0,82.0,86.3,82.5,72.0,77.7,78.0
 2011-11-15,Slovenia,USA,Europe,North America,27,34,787,719,2,3,Friendly,Ljubljana,Slovenia,False,No,Lose,82.0,81.0,72.5,74.7,76.2,74.2,75.7,77.2
 2011-11-15,Ukraine,Austria,Europe,Europe,58,72,550,457,2,1,Friendly,Lviv,Ukraine,False,No,Win,78.0,75.0,74.2,72.0,68.5,75.8,74.0,74.5
-2011-11-15,Zimbabwe,South Africa,Africa,Africa,74,49,448,595,2,1,Friendly,Harare,Zimbabwe,False,No,Win,89.0,76.0,64.2,69.0,62.8,69.8,72.0,75.2
+2011-11-15,Zimbabwe,South Africa,Africa,Africa,74,49,448,595,2,1,Friendly,Harare,Zimbabwe,False,No,Win,0.0,76.0,64.2,69.0,62.8,69.8,72.0,75.2
 2011-12-14,Angola,Cameroon,Africa,Africa,84,48,411,602,1,1,Friendly,Cabinda,Angola,False,No,Draw,60.0,80.0,60.5,71.3,66.3,75.2,79.0,79.2
 2011-12-21,Chile,Paraguay,South America,South America,13,24,970,794,3,2,Friendly,La Serena,Chile,False,No,Win,78.0,69.0,72.5,80.3,80.8,72.8,80.0,72.5
 2011-12-22,Venezuela,Costa Rica,South America,North America,39,65,661,495,0,2,Friendly,Barquisimeto,Venezuela,False,No,Lose,64.0,74.0,72.2,73.7,75.5,65.5,77.0,71.0
@@ -2269,7 +2269,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-06-03,Estonia,Lithuania,Europe,Europe,54,89,573,372,1,0,Baltic Cup,Tartu,Estonia,False,No,Win,69.0,71.0,63.2,60.3,63.5,67.5,66.2,63.8
 2012-06-03,Mexico,Brazil,North America,South America,20,6,867,1165,2,0,Friendly,Arlington,USA,True,No,Win,76.0,85.0,76.2,77.0,76.2,85.5,84.3,84.0
 2012-06-03,Peru,Colombia,South America,South America,36,23,691,812,0,1,FIFA World Cup qualification,Lima,Peru,False,No,Lose,73.0,77.0,71.0,77.0,78.0,77.5,78.7,78.5
-2012-06-03,Zimbabwe,Guinea,Africa,Africa,104,68,327,498,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,86.0,58.0,64.2,69.0,62.8,68.2,71.3,62.8
+2012-06-03,Zimbabwe,Guinea,Africa,Africa,104,68,327,498,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,0.0,58.0,64.2,69.0,62.8,68.2,71.3,62.8
 2012-06-04,Hungary,Republic of Ireland,Europe,Europe,35,18,691,890,0,0,Friendly,Budapest,Hungary,False,No,Draw,73.0,82.0,69.5,73.3,76.5,76.0,79.0,76.0
 2012-06-05,Austria,Romania,Europe,Europe,73,45,474,603,0,0,Friendly,Innsbruck,Austria,False,No,Draw,75.0,74.0,75.8,74.0,74.5,75.0,75.3,74.0
 2012-06-05,France,Estonia,Europe,Europe,16,54,938,573,4,0,Friendly,Le Mans,France,False,No,Win,86.0,69.0,82.5,83.0,84.5,63.2,60.3,63.5
@@ -2376,7 +2376,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-09-08,Scotland,Serbia,Europe,Europe,47,42,610,623,0,0,FIFA World Cup qualification,Glasgow,Scotland,False,No,Draw,74.0,78.0,72.5,74.7,76.2,82.8,78.3,78.2
 2012-09-11,Austria,Germany,Europe,Europe,49,2,597,1437,1,2,FIFA World Cup qualification,Vienna,Austria,False,No,Lose,74.0,86.0,75.8,73.0,77.2,84.0,83.7,85.8
 2012-09-11,Belgium,Croatia,Europe,Europe,40,9,625,1019,1,1,FIFA World Cup qualification,Brussels,Belgium,False,No,Draw,83.0,74.0,82.0,79.7,81.8,73.8,80.0,79.5
-2012-09-11,Bulgaria,Armenia,Europe,Europe,89,53,387,575,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,77.0,71.0,67.8,73.3,71.2,85.0,70.0,73.6
+2012-09-11,Bulgaria,Armenia,Europe,Europe,89,53,387,575,1,0,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,77.0,71.0,67.8,73.3,71.2,0.0,70.0,73.6
 2012-09-11,Chile,Colombia,South America,South America,14,22,984,843,1,3,FIFA World Cup qualification,Santiago,Chile,False,No,Lose,80.0,78.0,76.8,79.0,79.8,78.8,84.0,78.2
 2012-09-11,Czech Republic,Finland,Europe,Europe,19,96,869,365,0,1,Friendly,Teplice,Czech Republic,False,No,Lose,84.0,73.0,76.2,74.3,77.0,70.0,67.7,75.2
 2012-09-11,France,Belarus,Europe,Europe,15,76,964,443,3,1,FIFA World Cup qualification,Saint-Denis,France,False,No,Win,85.0,74.0,81.8,82.7,84.5,65.8,69.1,66.8
@@ -2384,7 +2384,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-09-11,Georgia,Spain,Europe,Europe,86,1,404,1617,0,1,FIFA World Cup qualification,Tbilisi,Georgia,False,No,Lose,71.0,88.0,70.2,67.0,67.8,84.8,84.3,88.5
 2012-09-11,Greece,Lithuania,Europe,Europe,11,116,1001,290,2,0,FIFA World Cup qualification,Piraeus,Greece,False,No,Win,73.0,72.0,77.2,75.0,74.2,67.2,66.2,65.0
 2012-09-11,Hungary,Netherlands,Europe,Europe,37,8,662,1044,1,4,FIFA World Cup qualification,Budapest,Hungary,False,No,Lose,72.0,81.0,68.8,71.7,76.5,76.8,86.3,83.2
-2012-09-11,Republic of Ireland,Oman,Europe,Asia,26,93,768,375,4,1,Friendly,London,England,True,No,Win,77.0,79.0,74.5,75.3,77.2,84.8,62.7,88.5
+2012-09-11,Republic of Ireland,Oman,Europe,Asia,26,93,768,375,4,1,Friendly,London,England,True,No,Win,77.0,79.0,74.5,75.3,77.2,0.0,62.7,0.0
 2012-09-11,Israel,Russia,Europe,Europe,75,13,445,990,0,4,FIFA World Cup qualification,Ramat-Gan,Israel,False,No,Lose,73.0,83.0,66.5,72.7,74.2,77.0,79.0,80.0
 2012-09-11,Mexico,Costa Rica,North America,North America,21,66,845,486,1,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,78.0,74.0,76.0,80.7,75.0,69.2,71.3,75.2
 2012-09-11,Norway,Slovenia,Europe,Europe,34,24,682,783,2,1,FIFA World Cup qualification,Oslo,Norway,False,No,Win,71.0,83.0,75.8,73.7,74.2,72.0,75.3,71.5
@@ -2401,7 +2401,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-09-19,Brazil,Argentina,South America,South America,12,7,996,1120,2,1,Superclásico de las Américas,Goiânia,Brazil,False,No,Win,83.0,80.0,84.0,82.3,83.2,81.8,89.0,84.0
 2012-10-12,Albania,Iceland,Europe,Europe,84,97,414,361,1,2,FIFA World Cup qualification,Tirana,Albania,False,No,Lose,74.0,66.7,72.4,68.7,69.8,68.0,73.7,71.8
 2012-10-12,Argentina,Uruguay,South America,South America,4,7,1207,1139,3,0,FIFA World Cup qualification,Mendoza,Argentina,False,No,Win,80.0,81.0,81.8,89.0,84.0,79.2,80.3,81.0
-2012-10-12,Armenia,Italy,Europe,Europe,64,8,502,1106,1,3,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,71.0,87.0,84.0,70.0,73.6,83.0,84.0,85.0
+2012-10-12,Armenia,Italy,Europe,Europe,64,8,502,1106,1,3,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,71.0,87.0,0.0,70.0,73.6,83.0,84.0,85.0
 2012-10-12,Belarus,Spain,Europe,Europe,87,1,409,1611,0,4,FIFA World Cup qualification,Minsk,Belarus,False,No,Lose,74.0,88.0,65.8,69.1,66.8,84.8,84.3,88.5
 2012-10-12,Bolivia,Peru,South America,South America,72,37,465,680,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,66.0,69.0,66.0,68.3,67.2,70.5,81.0,71.8
 2012-10-12,Bulgaria,Denmark,Europe,Europe,55,18,565,944,1,1,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Draw,77.0,78.0,67.8,73.3,71.2,76.8,74.0,76.8
@@ -2464,7 +2464,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-11-14,North Macedonia,Slovenia,Europe,Europe,83,49,430,593,3,2,Friendly,Skopje,North Macedonia,False,No,Win,70.0,83.0,65.5,71.3,68.8,72.0,75.3,71.5
 2012-11-14,Morocco,Togo,Africa,Africa,72,73,482,479,0,1,Friendly,Casablanca,Morocco,False,No,Lose,71.0,76.0,73.5,76.7,79.0,62.6,73.0,69.5
 2012-11-14,Netherlands,Germany,Europe,Europe,7,2,1128,1421,0,0,Friendly,Amsterdam,Netherlands,False,No,Draw,81.0,86.0,76.8,86.3,83.2,84.0,83.7,85.8
-2012-11-14,Oman,Japan,Asia,Asia,86,24,427,810,1,2,FIFA World Cup qualification,Muscat,Oman,False,No,Lose,79.0,70.0,84.8,62.7,88.5,75.2,72.7,78.8
+2012-11-14,Oman,Japan,Asia,Asia,86,24,427,810,1,2,FIFA World Cup qualification,Muscat,Oman,False,No,Lose,79.0,70.0,0.0,62.7,0.0,75.2,72.7,78.8
 2012-11-14,Panama,Spain,North America,Europe,46,1,609,1563,1,5,Friendly,Panama City,Panama,False,No,Lose,66.0,88.0,68.5,68.7,68.1,84.8,84.3,88.5
 2012-11-14,Poland,Uruguay,Europe,South America,54,11,578,1047,1,3,Friendly,Gdańsk,Poland,False,No,Lose,80.0,81.0,76.2,75.7,76.8,79.2,80.3,81.0
 2012-11-14,Romania,Belgium,Europe,Europe,37,20,669,880,2,1,Friendly,Bucharest,Romania,False,No,Win,74.0,83.0,75.5,73.0,74.0,82.0,79.7,81.8
@@ -2476,9 +2476,9 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2012-11-14,Turkey,Denmark,Europe,Europe,38,22,639,851,1,1,Friendly,Istanbul,Turkey,False,No,Draw,81.0,78.0,76.2,73.7,80.2,76.8,74.0,76.8
 2012-11-14,Venezuela,Nigeria,South America,Africa,48,57,599,553,1,3,Friendly,Miami,USA,True,No,Lose,73.0,68.0,76.5,76.0,76.0,70.8,76.7,76.5
 2012-11-21,Argentina,Brazil,South America,South America,3,13,1349,994,2,1,Superclásico de las Américas,Buenos Aires,Argentina,False,Yes,Lose,80.0,83.0,81.8,89.0,84.0,84.0,82.3,83.2
-2012-12-02,Guinea,Sierra Leone,Africa,Africa,71,61,485,520,0,0,African Nations Championship,Conakry,Guinea,False,No,Draw,58.0,88.0,60.5,67.3,76.0,63.2,66.0,65.2
+2012-12-02,Guinea,Sierra Leone,Africa,Africa,71,61,485,520,0,0,African Nations Championship,Conakry,Guinea,False,No,Draw,58.0,0.0,60.5,67.3,76.0,63.2,66.0,65.2
 2012-12-14,North Macedonia,Poland,Europe,Europe,83,54,430,578,1,4,Friendly,Antalya,Turkey,True,No,Lose,70.0,80.0,65.5,71.3,68.8,76.2,75.7,76.8
-2012-12-15,Sierra Leone,Guinea,Africa,Africa,61,71,520,485,1,1,African Nations Championship,Freetown,Sierra Leone,False,No,Draw,88.0,58.0,63.2,66.0,65.2,60.5,67.3,76.0
+2012-12-15,Sierra Leone,Guinea,Africa,Africa,61,71,520,485,1,1,African Nations Championship,Freetown,Sierra Leone,False,No,Draw,0.0,58.0,63.2,66.0,65.2,60.5,67.3,76.0
 2013-01-08,South Africa,Norway,Africa,Europe,87,24,416,810,0,1,Friendly,Cape Town,South Africa,False,No,Lose,77.0,71.0,71.2,71.0,74.8,75.8,73.7,74.2
 2013-01-09,Cabo Verde,Nigeria,Africa,Africa,69,52,497,581,0,0,Friendly,Faro,Portugal,True,No,Draw,58.9,68.0,66.2,70.3,69.1,70.8,76.7,76.5
 2013-01-10,Gabon,Tunisia,Africa,Africa,42,45,609,606,1,1,Friendly,Abu Dhabi,United Arab Emirates,True,No,Draw,69.0,64.0,65.2,71.0,73.8,72.2,72.3,73.2
@@ -2567,15 +2567,15 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-03-25,Russia,Brazil,Europe,South America,10,18,1063,907,1,1,Friendly,London,England,True,No,Draw,83.0,83.0,77.0,79.0,80.0,84.0,82.3,83.2
 2013-03-26,Albania,Lithuania,Europe,Europe,64,115,509,287,4,1,Friendly,Tirana,Albania,False,No,Win,74.0,72.0,72.4,68.7,69.8,67.2,66.2,65.0
 2013-03-26,Algeria,Benin,Africa,Africa,34,86,722,423,3,1,FIFA World Cup qualification,Blida,Algeria,False,No,Win,67.0,68.0,70.8,75.0,76.5,68.2,69.3,68.5
-2013-03-26,Armenia,Czech Republic,Europe,Europe,84,27,431,809,0,3,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,71.0,84.0,84.8,70.0,73.6,76.2,74.3,77.0
-2013-03-26,Australia,Oman,Oceania,Asia,39,105,633,329,2,2,FIFA World Cup qualification,Sydney,Australia,False,No,Draw,79.0,79.0,71.2,68.7,73.8,83.5,62.7,87.0
+2013-03-26,Armenia,Czech Republic,Europe,Europe,84,27,431,809,0,3,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,71.0,84.0,0.0,70.0,73.6,76.2,74.3,77.0
+2013-03-26,Australia,Oman,Oceania,Asia,39,105,633,329,2,2,FIFA World Cup qualification,Sydney,Australia,False,No,Draw,79.0,79.0,71.2,68.7,73.8,0.0,62.7,0.0
 2013-03-26,Belgium,North Macedonia,Europe,Europe,19,73,892,486,1,0,FIFA World Cup qualification,Brussels,Belgium,False,No,Win,83.0,70.0,82.0,79.7,81.8,65.5,71.3,68.8
 2013-03-26,Bolivia,Argentina,South America,South America,37,3,640,1308,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,66.0,80.0,66.0,68.3,67.2,81.8,89.0,84.0
 2013-03-26,Chile,Uruguay,South America,South America,22,16,828,949,2,0,FIFA World Cup qualification,Santiago,Chile,False,No,Win,80.0,81.0,76.8,79.0,79.8,79.2,80.3,81.0
 2013-03-26,Costa Rica,Jamaica,North America,North America,53,54,576,575,2,0,FIFA World Cup qualification,San José,Costa Rica,False,No,Win,74.0,65.0,69.2,71.3,75.2,68.2,71.0,67.2
 2013-03-26,Denmark,Bulgaria,Europe,Europe,25,46,813,615,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Draw,78.0,77.0,76.8,74.0,76.8,67.8,73.3,71.2
 2013-03-26,Ecuador,Paraguay,South America,South America,11,38,1037,640,4,1,FIFA World Cup qualification,Quito,Ecuador,False,No,Win,70.0,72.0,68.2,74.7,76.8,73.5,81.7,75.0
-2013-03-26,Egypt,Zimbabwe,Africa,Africa,75,100,478,360,2,1,FIFA World Cup qualification,Alexandria,Egypt,False,No,Win,70.0,86.0,70.0,69.7,70.2,62.8,69.7,64.5
+2013-03-26,Egypt,Zimbabwe,Africa,Africa,75,100,478,360,2,1,FIFA World Cup qualification,Alexandria,Egypt,False,No,Win,70.0,0.0,70.0,69.7,70.2,62.8,69.7,64.5
 2013-03-26,France,Spain,Europe,Europe,17,1,920,1609,0,1,FIFA World Cup qualification,Saint-Denis,France,False,No,Lose,85.0,88.0,81.8,82.7,84.5,84.8,84.3,88.5
 2013-03-26,Republic of Ireland,Austria,Europe,Europe,40,79,626,453,2,2,FIFA World Cup qualification,Dublin,Republic of Ireland,False,No,Draw,77.0,74.0,74.5,75.3,77.2,75.8,73.0,77.2
 2013-03-26,Mexico,USA,North America,North America,15,33,995,732,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Draw,78.0,81.0,76.0,80.7,75.0,72.2,74.0,78.0
@@ -2630,12 +2630,12 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-06-09,Benin,Algeria,Africa,Africa,115,35,308,737,1,3,FIFA World Cup qualification,Porto-Novo,Benin,False,No,Lose,68.0,67.0,68.2,69.3,68.5,70.8,75.0,76.5
 2013-06-09,Brazil,France,South America,Europe,22,18,872,922,3,0,Friendly,Porto Alegre,Brazil,False,No,Win,83.0,85.0,84.0,82.3,83.2,81.8,82.7,84.5
 2013-06-09,Togo,Cameroon,Africa,Africa,73,65,482,516,0,3,FIFA World Cup qualification,Lomé,Togo,False,No,Lose,76.0,75.0,62.6,73.0,69.5,79.2,77.3,77.2
-2013-06-09,Zimbabwe,Egypt,Africa,Africa,102,71,349,491,2,4,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,86.0,70.0,62.8,69.7,64.5,70.0,69.7,70.2
+2013-06-09,Zimbabwe,Egypt,Africa,Africa,102,71,349,491,2,4,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,0.0,70.0,62.8,69.7,64.5,70.0,69.7,70.2
 2013-06-10,Croatia,Portugal,Europe,Europe,4,6,1222,1136,0,1,Friendly,Geneva,Switzerland,True,No,Lose,74.0,82.0,73.8,80.0,79.5,81.2,83.7,82.0
 2013-06-11,Belarus,Finland,Europe,Europe,67,84,506,442,1,1,FIFA World Cup qualification,Homel,Belarus,False,No,Draw,74.0,73.0,65.8,69.1,66.8,70.0,67.7,75.2
 2013-06-11,Chile,Bolivia,South America,South America,25,53,840,577,3,1,FIFA World Cup qualification,Santiago,Chile,False,No,Win,80.0,66.0,76.8,79.0,79.8,66.0,68.3,67.2
 2013-06-11,Colombia,Peru,South America,South America,7,30,1123,791,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Win,78.0,69.0,78.8,84.0,78.2,70.5,81.0,71.8
-2013-06-11,Denmark,Armenia,Europe,Europe,20,89,890,407,0,4,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Lose,78.0,71.0,76.8,74.0,76.8,84.8,70.0,73.6
+2013-06-11,Denmark,Armenia,Europe,Europe,20,89,890,407,0,4,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Lose,78.0,71.0,76.8,74.0,76.8,0.0,70.0,73.6
 2013-06-11,Ecuador,Argentina,South America,South America,10,3,1065,1286,1,1,FIFA World Cup qualification,Quito,Ecuador,False,No,Draw,70.0,80.0,68.2,74.7,76.8,81.8,89.0,84.0
 2013-06-11,Honduras,Jamaica,North America,North America,52,49,582,602,2,0,FIFA World Cup qualification,Tegucigalpa,Honduras,False,No,Win,61.0,65.0,72.5,68.3,70.5,68.2,71.0,67.2
 2013-06-11,Mexico,Costa Rica,North America,North America,17,48,927,617,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Draw,78.0,74.0,76.0,80.7,75.0,69.2,71.3,75.2
@@ -2648,7 +2648,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-06-15,Brazil,Japan,South America,Asia,22,32,872,764,3,0,Confederations Cup,Brasília,Brazil,False,No,Win,83.0,70.0,84.0,82.3,83.2,75.2,72.7,78.8
 2013-06-15,Morocco,Gambia,Africa,Africa,77,162,462,137,2,0,FIFA World Cup qualification,Marrakech,Morocco,False,No,Win,71.0,66.5,73.5,76.7,79.0,61.5,59.7,66.2
 2013-06-16,Congo DR,Cameroon,Africa,Africa,79,65,454,516,0,0,FIFA World Cup qualification,Kinshasa,Congo DR,False,No,Draw,65.0,75.0,69.2,75.0,72.5,79.2,77.3,77.2
-2013-06-16,Guinea,Zimbabwe,Africa,Africa,85,102,438,349,2,0,FIFA World Cup qualification,Conakry,Guinea,False,No,Win,58.0,86.0,60.5,67.3,76.0,62.8,69.7,64.5
+2013-06-16,Guinea,Zimbabwe,Africa,Africa,85,102,438,349,2,0,FIFA World Cup qualification,Conakry,Guinea,False,No,Win,58.0,0.0,60.5,67.3,76.0,62.8,69.7,64.5
 2013-06-16,Mali,Benin,Africa,Africa,23,115,869,308,2,2,FIFA World Cup qualification,Bamako,Mali,False,No,Draw,66.0,68.0,71.5,73.0,75.0,68.2,69.3,68.5
 2013-06-16,Mexico,Italy,North America,Europe,17,8,927,1096,1,2,Confederations Cup,Rio de Janeiro,Brazil,True,No,Lose,78.0,87.0,76.0,80.7,75.0,83.0,84.0,85.0
 2013-06-16,Spain,Uruguay,Europe,South America,1,19,1614,913,2,1,Confederations Cup,Recife,Brazil,True,No,Win,88.0,81.0,84.8,84.3,88.5,79.2,80.3,81.0
@@ -2720,7 +2720,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-09-06,Chile,Venezuela,South America,South America,21,39,870,688,3,0,FIFA World Cup qualification,Santiago,Chile,False,No,Win,81.0,69.0,73.2,78.7,80.0,74.2,76.3,75.2
 2013-09-06,Colombia,Ecuador,South America,South America,3,17,1219,972,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Win,76.0,70.0,75.8,83.0,80.8,68.0,74.0,76.8
 2013-09-06,Costa Rica,USA,North America,North America,42,19,650,959,3,1,FIFA World Cup qualification,San José,Costa Rica,False,No,Win,78.0,81.0,70.8,72.3,72.8,73.0,76.0,77.0
-2013-09-06,Czech Republic,Armenia,Europe,Europe,26,66,796,533,1,2,FIFA World Cup qualification,Prague,Czech Republic,False,No,Lose,85.0,70.0,74.8,73.3,76.2,84.0,73.7,73.6
+2013-09-06,Czech Republic,Armenia,Europe,Europe,26,66,796,533,1,2,FIFA World Cup qualification,Prague,Czech Republic,False,No,Lose,85.0,70.0,74.8,73.3,76.2,0.0,73.7,73.6
 2013-09-06,England,Moldova,Europe,Europe,14,123,993,255,4,0,FIFA World Cup qualification,London,England,False,No,Win,82.0,62.0,82.0,83.7,81.2,64.2,61.1,64.2
 2013-09-06,Estonia,Netherlands,Europe,Europe,85,5,422,1165,2,2,FIFA World Cup qualification,Tallinn,Estonia,False,No,Draw,65.0,80.0,65.7,62.3,63.5,76.5,87.0,81.5
 2013-09-06,Finland,Spain,Europe,Europe,65,1,537,1483,0,2,FIFA World Cup qualification,Helsinki,Finland,False,No,Lose,73.0,86.0,69.5,67.0,74.8,83.5,85.7,87.0
@@ -2746,7 +2746,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-09-08,Togo,Congo DR,Africa,Africa,82,87,436,407,2,1,FIFA World Cup qualification,Lomé,Togo,False,No,Win,78.0,68.0,62.6,70.3,71.2,70.8,74.0,73.5
 2013-09-09,Saudi Arabia,Trinidad and Tobago,Asia,South America,107,78,316,452,1,3,OSN Cup,Riyadh,Saudi Arabia,False,No,Lose,69.0,62.0,67.2,72.0,73.8,65.0,71.1,64.0
 2013-09-10,Algeria,Mali,Africa,Africa,34,32,730,735,1,0,FIFA World Cup qualification,Blida,Algeria,False,No,Win,73.0,68.0,73.8,74.3,76.5,70.8,75.0,74.2
-2013-09-10,Armenia,Denmark,Europe,Europe,66,27,533,787,0,1,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,70.0,77.0,84.0,73.7,73.6,77.5,74.7,76.5
+2013-09-10,Armenia,Denmark,Europe,Europe,66,27,533,787,0,1,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,70.0,77.0,0.0,73.7,73.6,77.5,74.7,76.5
 2013-09-10,Austria,Republic of Ireland,Europe,Europe,55,44,594,639,1,0,FIFA World Cup qualification,Vienna,Austria,False,No,Win,74.0,74.0,75.8,71.7,77.8,74.0,74.3,76.5
 2013-09-10,Belarus,France,Europe,Europe,73,23,481,838,2,4,FIFA World Cup qualification,Homel,Belarus,False,No,Lose,65.0,84.0,64.5,69.1,67.5,81.0,82.3,85.0
 2013-09-10,Bolivia,Ecuador,South America,South America,64,17,538,972,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,63.0,70.0,65.2,68.7,63.8,68.0,74.0,76.8
@@ -2767,7 +2767,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-09-10,Romania,Turkey,Europe,Europe,33,58,731,572,0,2,FIFA World Cup qualification,Bucharest,Romania,False,No,Lose,75.0,81.0,75.0,73.0,74.0,76.5,70.3,80.5
 2013-09-10,Russia,Israel,Europe,Europe,16,63,979,539,3,1,FIFA World Cup qualification,Saint Petersburg,Russia,False,No,Win,84.0,71.5,77.8,75.3,79.5,67.0,72.3,73.8
 2013-09-10,Slovakia,Bosnia and Herzegovina,Europe,Europe,62,13,542,994,1,2,FIFA World Cup qualification,Žilina,Slovakia,False,No,Lose,71.0,82.0,76.2,69.7,75.8,75.8,79.3,75.2
-2013-09-10,South Africa,Zimbabwe,Africa,Africa,67,116,530,291,1,2,Friendly,Johannesburg,South Africa,False,No,Lose,77.0,79.0,70.8,72.3,75.8,62.7,69.0,64.2
+2013-09-10,South Africa,Zimbabwe,Africa,Africa,67,116,530,291,1,2,Friendly,Johannesburg,South Africa,False,No,Lose,77.0,0.0,70.8,72.3,75.8,62.7,69.0,64.2
 2013-09-10,Spain,Chile,Europe,South America,1,21,1483,870,2,2,Friendly,Geneva,Switzerland,True,No,Draw,86.0,81.0,83.5,85.7,87.0,73.2,78.7,80.0
 2013-09-10,Ukraine,England,Europe,Europe,28,14,773,993,0,0,FIFA World Cup qualification,Kyiv,Ukraine,False,No,Draw,76.0,82.0,74.5,67.7,74.8,82.0,83.7,81.2
 2013-09-10,Uruguay,Colombia,South America,South America,12,3,998,1219,2,0,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Win,82.0,76.0,78.5,84.7,78.2,75.8,83.0,80.8
@@ -2776,7 +2776,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-09-10,Wales,Serbia,Europe,Europe,46,41,629,660,0,3,FIFA World Cup qualification,Cardiff,Wales,False,No,Lose,72.0,76.0,74.2,69.7,79.5,81.5,75.7,78.8
 2013-10-11,Albania,Switzerland,Europe,Europe,45,14,652,992,1,2,FIFA World Cup qualification,Tirana,Albania,False,No,Lose,73.0,80.0,67.5,67.7,70.0,77.0,76.3,78.8
 2013-10-11,Argentina,Peru,South America,South America,2,34,1262,732,3,1,FIFA World Cup qualification,Buenos Aires,Argentina,False,No,Win,79.0,69.0,81.2,89.3,83.2,70.2,79.7,72.0
-2013-10-11,Armenia,Bulgaria,Europe,Europe,55,64,591,548,2,1,FIFA World Cup qualification,Yerevan,Armenia,False,No,Win,70.0,74.0,84.8,73.7,73.6,68.8,71.7,71.5
+2013-10-11,Armenia,Bulgaria,Europe,Europe,55,64,591,548,2,1,FIFA World Cup qualification,Yerevan,Armenia,False,No,Win,70.0,74.0,0.0,73.7,73.6,68.8,71.7,71.5
 2013-10-11,Colombia,Chile,South America,South America,5,16,1180,967,3,3,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Draw,76.0,81.0,75.8,83.0,80.8,73.2,78.7,80.0
 2013-10-11,Croatia,Belgium,Europe,Europe,10,6,1050,1159,1,2,FIFA World Cup qualification,Zagreb,Croatia,False,No,Lose,75.0,84.0,77.8,79.7,80.0,81.2,81.0,82.5
 2013-10-11,Denmark,Italy,Europe,Europe,23,4,824,1198,2,2,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Draw,77.0,84.0,77.5,74.7,76.5,81.8,82.7,84.0
@@ -2813,7 +2813,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-10-15,France,Finland,Europe,Europe,25,56,812,591,3,0,FIFA World Cup qualification,Saint-Denis,France,False,No,Win,84.0,73.0,81.0,82.3,85.0,69.5,67.0,74.8
 2013-10-15,Ghana,Egypt,Africa,Africa,24,50,814,610,6,1,FIFA World Cup qualification,Kumasi,Ghana,False,No,Win,71.0,70.0,70.5,72.7,78.5,69.5,69.7,73.2
 2013-10-15,Israel,Northern Ireland,Europe,Europe,69,86,522,430,1,1,FIFA World Cup qualification,Ramat-Gan,Israel,False,No,Draw,71.5,72.0,67.0,72.3,73.8,73.5,69.0,73.0
-2013-10-15,Italy,Armenia,Europe,Europe,4,55,1198,591,2,2,FIFA World Cup qualification,Naples,Italy,False,No,Draw,84.0,70.0,81.8,82.7,84.0,84.8,73.7,73.6
+2013-10-15,Italy,Armenia,Europe,Europe,4,55,1198,591,2,2,FIFA World Cup qualification,Naples,Italy,False,No,Draw,84.0,70.0,81.8,82.7,84.0,0.0,73.7,73.6
 2013-10-15,Jamaica,Honduras,North America,North America,78,40,470,680,2,2,FIFA World Cup qualification,Kingston,Jamaica,False,No,Draw,68.0,61.0,68.8,68.7,68.8,70.8,70.2,71.5
 2013-10-15,Korea Republic,Mali,Asia,Africa,58,38,573,703,3,1,Friendly,Cheonan,Korea Republic,False,No,Win,73.0,68.0,70.5,73.7,75.0,70.8,75.0,74.2
 2013-10-15,Latvia,Slovakia,Europe,Europe,115,60,287,562,2,2,FIFA World Cup qualification,Riga,Latvia,False,No,Draw,71.0,71.0,63.9,66.7,64.5,76.2,69.7,75.8
@@ -2879,7 +2879,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2013-11-19,Turkey,Belarus,Europe,Europe,40,83,670,441,2,1,Friendly,Mersin,Turkey,False,No,Win,81.0,65.0,76.5,70.3,80.5,64.5,69.1,67.5
 2013-11-20,New Zealand,Mexico,Oceania,North America,79,24,469,853,2,4,FIFA World Cup qualification,Wellington,New Zealand,False,No,Lose,62.0,78.0,68.2,69.3,63.0,74.8,81.3,74.8
 2014-01-11,Mali,Nigeria,Africa,Africa,45,37,664,710,2,1,African Nations Championship,Cape Town,South Africa,True,No,Win,68.0,79.0,70.8,75.0,74.2,70.8,74.7,76.2
-2014-01-12,Zimbabwe,Morocco,Africa,Africa,107,73,298,490,0,0,African Nations Championship,Cape Town,South Africa,True,No,Draw,86.0,70.0,62.7,69.0,64.2,73.8,74.0,77.8
+2014-01-12,Zimbabwe,Morocco,Africa,Africa,107,73,298,490,0,0,African Nations Championship,Cape Town,South Africa,True,No,Draw,0.0,70.0,62.7,69.0,64.2,73.8,74.0,77.8
 2014-01-13,Ghana,Congo,Africa,Africa,24,84,848,421,1,0,African Nations Championship,Bloemfontein,South Africa,True,No,Win,71.0,66.0,70.5,72.7,78.5,67.7,65.7,66.8
 2014-01-15,Moldova,Norway,Europe,Europe,96,54,358,577,1,2,Friendly,Abu Dhabi,United Arab Emirates,True,No,Lose,62.0,72.0,64.2,61.1,64.2,74.2,73.3,74.2
 2014-01-15,South Africa,Mali,Africa,Africa,62,45,553,664,1,1,African Nations Championship,Cape Town,South Africa,False,No,Draw,77.0,68.0,70.8,72.3,75.8,70.8,75.0,74.2
@@ -2892,13 +2892,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-01-21,Iceland,Sweden,Europe,Europe,49,26,623,792,0,2,Friendly,Abu Dhabi,United Arab Emirates,True,No,Lose,57.0,77.0,67.2,73.3,71.8,75.2,81.7,76.0
 2014-01-22,Chile,Costa Rica,South America,North America,15,32,1004,743,4,0,Friendly,Coquimbo,Chile,False,No,Win,81.0,78.0,73.2,78.7,80.0,70.8,72.3,72.8
 2014-01-25,Costa Rica,Korea Republic,North America,Asia,32,53,743,581,0,1,Friendly,Los Angeles,USA,True,No,Lose,78.0,73.0,70.8,72.3,72.8,70.5,73.7,75.0
-2014-01-25,Mali,Zimbabwe,Africa,Africa,40,105,702,311,1,2,African Nations Championship,Cape Town,South Africa,True,No,Lose,68.0,86.0,70.8,75.0,74.2,62.7,69.0,64.2
+2014-01-25,Mali,Zimbabwe,Africa,Africa,40,105,702,311,1,2,African Nations Championship,Cape Town,South Africa,True,No,Lose,68.0,0.0,70.8,75.0,74.2,62.7,69.0,64.2
 2014-01-25,Morocco,Nigeria,Africa,Africa,74,41,486,700,3,4,African Nations Championship,Cape Town,South Africa,True,No,Lose,70.0,79.0,73.8,74.0,77.8,70.8,74.7,76.2
 2014-01-26,Ghana,Congo DR,Africa,Africa,24,81,851,439,1,0,African Nations Championship,Bloemfontein,South Africa,True,No,Win,71.0,68.0,70.5,72.7,78.5,70.8,74.0,73.5
 2014-01-29,Mexico,Korea Republic,North America,Asia,21,53,891,581,4,0,Friendly,San Antonio,USA,True,No,Win,78.0,73.0,74.8,81.3,74.8,70.5,73.7,75.0
 2014-01-29,Nigeria,Ghana,Africa,Africa,41,24,700,851,0,0,African Nations Championship,Bloemfontein,South Africa,True,No,Draw,79.0,71.0,70.8,74.7,76.2,70.5,72.7,78.5
 2014-02-01,USA,Korea Republic,North America,Asia,14,53,1018,581,2,0,Friendly,Carson,USA,False,No,Win,81.0,73.0,73.0,76.0,77.0,70.5,73.7,75.0
-2014-02-01,Zimbabwe,Nigeria,Africa,Africa,105,41,311,700,0,1,African Nations Championship,Cape Town,South Africa,True,No,Lose,86.0,79.0,62.7,69.0,64.2,70.8,74.7,76.2
+2014-02-01,Zimbabwe,Nigeria,Africa,Africa,105,41,311,700,0,1,African Nations Championship,Cape Town,South Africa,True,No,Lose,0.0,79.0,62.7,69.0,64.2,70.8,74.7,76.2
 2014-03-05,Algeria,Slovenia,Africa,Europe,26,27,819,799,2,0,Friendly,Blida,Algeria,False,No,Win,73.0,82.0,73.8,74.3,76.5,72.0,71.7,74.5
 2014-03-05,Australia,Ecuador,Oceania,South America,53,24,575,831,3,4,Friendly,London,England,True,No,Lose,77.0,70.0,69.0,72.0,71.8,68.0,74.0,76.8
 2014-03-05,Austria,Uruguay,Europe,South America,43,7,677,1157,1,1,Friendly,Klagenfurt,Austria,False,No,Draw,74.0,82.0,75.8,71.7,77.8,78.5,84.7,78.2
@@ -2923,7 +2923,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-03-05,Poland,Scotland,Europe,Europe,70,34,494,741,0,1,Friendly,Warsaw,Poland,False,No,Lose,80.0,77.0,76.8,78.3,76.2,72.0,75.3,73.5
 2014-03-05,Portugal,Cameroon,Europe,Africa,4,46,1219,626,5,1,Friendly,Leiria,Portugal,False,No,Win,81.0,72.0,80.5,84.7,81.5,77.5,77.0,77.5
 2014-03-05,Romania,Argentina,Europe,South America,33,3,745,1255,0,0,Friendly,Bucharest,Romania,False,No,Draw,75.0,79.0,75.0,73.0,74.0,81.2,89.3,83.2
-2014-03-05,Russia,Armenia,Europe,Europe,22,30,862,771,2,0,Friendly,Krasnodar,Russia,False,No,Win,84.0,70.0,77.8,75.3,79.5,85.0,73.7,73.6
+2014-03-05,Russia,Armenia,Europe,Europe,22,30,862,771,2,0,Friendly,Krasnodar,Russia,False,No,Win,84.0,70.0,77.8,75.3,79.5,0.0,73.7,73.6
 2014-03-05,South Africa,Brazil,Africa,South America,64,9,550,1124,0,5,Friendly,Johannesburg,South Africa,False,No,Lose,77.0,82.0,70.8,72.3,75.8,84.8,84.0,83.2
 2014-03-05,Spain,Italy,Europe,Europe,1,8,1506,1134,1,0,Friendly,Madrid,Spain,False,No,Win,86.0,84.0,83.5,85.7,87.0,81.8,82.7,84.0
 2014-03-05,Switzerland,Croatia,Europe,Europe,6,16,1158,966,2,2,Friendly,St. Gallen,Switzerland,False,No,Draw,80.0,75.0,77.0,76.3,78.8,77.8,79.7,80.0
@@ -2962,7 +2962,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-05-30,Switzerland,Jamaica,Europe,North America,8,81,1160,419,1,0,Friendly,Lucerne,Switzerland,False,No,Win,80.0,68.0,77.0,76.3,78.8,68.8,68.7,68.8
 2014-05-30,Uruguay,Northern Ireland,South America,Europe,6,84,1181,399,1,0,Friendly,Montevideo,Uruguay,False,No,Win,82.0,72.0,78.5,84.7,78.2,73.5,69.0,73.0
 2014-05-31,Albania,Romania,Europe,Europe,70,32,486,755,0,1,Friendly,Yverdon-les-Bains,Switzerland,True,No,Lose,73.0,75.0,67.5,67.7,70.0,75.0,73.0,74.0
-2014-05-31,Armenia,Algeria,Europe,Africa,33,25,750,794,1,3,Friendly,Sion,Switzerland,True,No,Lose,70.0,73.0,85.0,73.7,73.6,73.8,74.3,76.5
+2014-05-31,Armenia,Algeria,Europe,Africa,33,25,750,794,1,3,Friendly,Sion,Switzerland,True,No,Lose,70.0,73.0,0.0,73.7,73.6,73.8,74.3,76.5
 2014-05-31,Colombia,Senegal,South America,Africa,5,63,1186,511,2,2,Friendly,Buenos Aires,Argentina,True,No,Draw,76.0,65.0,75.8,83.0,80.8,75.0,79.7,74.8
 2014-05-31,Croatia,Mali,Europe,Africa,20,59,871,545,2,1,Friendly,Osijek,Croatia,False,No,Win,75.0,68.0,77.8,79.7,80.0,70.8,75.0,74.2
 2014-05-31,Finland,Estonia,Europe,Europe,52,93,578,365,2,0,Baltic Cup,Ventspils,Latvia,True,No,Win,73.0,65.0,69.5,67.0,74.8,65.7,62.3,63.5
@@ -2992,7 +2992,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-06-06,Brazil,Serbia,South America,Europe,3,30,1242,745,1,0,Friendly,São Paulo,Brazil,False,No,Win,82.0,76.0,84.8,84.0,83.2,81.5,75.7,78.8
 2014-06-06,Costa Rica,Republic of Ireland,North America,Europe,28,70,762,472,1,1,Friendly,Chester,USA,True,No,Draw,78.0,74.0,70.8,72.3,72.8,74.0,74.3,76.5
 2014-06-06,Croatia,Australia,Europe,Oceania,18,62,903,525,1,0,Friendly,Salvador,Brazil,True,No,Win,75.0,77.0,77.8,79.7,80.0,69.0,72.0,71.8
-2014-06-06,Germany,Armenia,Europe,Europe,2,38,1299,682,6,1,Friendly,Mainz,Germany,False,No,Win,87.0,70.0,84.5,84.7,86.0,83.8,73.7,73.6
+2014-06-06,Germany,Armenia,Europe,Europe,2,38,1299,682,6,1,Friendly,Mainz,Germany,False,No,Win,87.0,70.0,84.5,84.7,86.0,0.0,73.7,73.6
 2014-06-06,Mexico,Portugal,North America,Europe,20,4,881,1189,0,1,Friendly,Foxborough,USA,True,No,Lose,78.0,81.0,74.8,81.3,74.8,80.5,84.7,81.5
 2014-06-06,Poland,Lithuania,Europe,Europe,69,106,474,318,2,1,Friendly,Gdańsk,Poland,False,No,Win,80.0,69.0,76.8,78.3,76.2,65.5,66.2,62.8
 2014-06-06,Russia,Morocco,Europe,Africa,19,77,893,438,2,0,Friendly,Moscow,Russia,False,No,Win,84.0,70.0,77.8,75.3,79.5,73.8,74.0,77.8
@@ -3107,7 +3107,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-09-10,South Africa,Nigeria,Africa,Africa,69,33,437,673,0,0,African Cup of Nations qualification,Cape Town,South Africa,False,No,Draw,77.0,80.0,70.8,71.3,75.0,70.2,77.0,77.0
 2014-09-10,Togo,Ghana,Africa,Africa,87,36,364,648,2,3,African Cup of Nations qualification,Lomé,Togo,False,No,Lose,77.0,67.0,62.6,69.0,74.2,70.5,73.0,78.2
 2014-10-09,Belarus,Ukraine,Europe,Europe,89,24,364,855,0,2,UEFA Euro qualification,Barysaw,Belarus,False,No,Lose,71.0,76.0,63.8,69.1,71.5,74.5,73.0,70.5
-2014-10-09,Morocco,Central African Republic,Africa,Africa,87,137,371,208,4,0,Friendly,Marrakech,Morocco,False,No,Win,69.0,57.0,76.0,74.7,78.0,86.8,61.0,83.8
+2014-10-09,Morocco,Central African Republic,Africa,Africa,87,137,371,208,4,0,Friendly,Marrakech,Morocco,False,No,Win,69.0,57.0,76.0,74.7,78.0,0.0,61.0,0.0
 2014-10-09,Slovakia,Spain,Europe,Europe,40,8,616,1228,2,1,UEFA Euro qualification,Žilina,Slovakia,False,No,Win,72.0,84.0,75.8,71.0,72.8,83.0,85.7,85.8
 2014-10-09,Slovenia,Switzerland,Europe,Europe,53,10,554,1174,1,0,UEFA Euro qualification,Maribor,Slovenia,False,No,Win,83.0,80.0,71.5,75.0,72.5,76.5,74.7,79.2
 2014-10-09,Sweden,Russia,Europe,Europe,32,23,662,875,1,1,UEFA Euro qualification,Solna,Sweden,False,No,Draw,74.0,83.0,75.5,80.7,78.0,76.2,78.0,79.0
@@ -3137,7 +3137,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-10-13,Bosnia and Herzegovina,Belgium,Europe,Europe,25,5,850,1444,1,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,No,Draw,82.0,86.0,74.2,76.7,78.2,81.2,78.3,82.8
 2014-10-13,Iceland,Netherlands,Europe,Europe,34,4,645,1455,2,0,UEFA Euro qualification,Reykjavík,Iceland,False,No,Win,57.0,79.0,67.5,73.0,71.2,78.2,87.3,81.8
 2014-10-13,Latvia,Turkey,Europe,Europe,99,38,332,637,1,1,UEFA Euro qualification,Riga,Latvia,False,No,Draw,68.0,81.0,63.9,66.7,64.5,78.0,76.3,80.2
-2014-10-13,Morocco,Kenya,Africa,Africa,87,111,371,287,3,0,Friendly,Marrakech,Morocco,False,No,Win,69.0,62.0,76.0,74.7,78.0,84.0,61.7,66.8
+2014-10-13,Morocco,Kenya,Africa,Africa,87,111,371,287,3,0,Friendly,Marrakech,Morocco,False,No,Win,69.0,62.0,76.0,74.7,78.0,0.0,61.7,66.8
 2014-10-13,Norway,Bulgaria,Europe,Europe,76,46,420,569,2,1,UEFA Euro qualification,Oslo,Norway,False,No,Win,72.0,72.0,73.8,72.3,74.0,68.0,73.3,72.8
 2014-10-14,Denmark,Portugal,Europe,Europe,27,11,832,1149,0,1,UEFA Euro qualification,Copenhagen,Denmark,False,No,Lose,77.0,81.0,77.2,75.0,77.0,80.2,84.3,81.2
 2014-10-14,Finland,Romania,Europe,Europe,65,26,490,836,0,2,UEFA Euro qualification,Helsinki,Finland,False,No,Lose,73.0,74.0,69.0,66.3,73.8,75.2,70.7,74.0
@@ -3162,7 +3162,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-11-14,Georgia,Poland,Europe,Europe,117,44,270,621,0,4,UEFA Euro qualification,Tbilisi,Georgia,False,No,Lose,68.9,80.0,63.2,66.0,70.8,77.0,76.3,78.0
 2014-11-14,Hungary,Finland,Europe,Europe,50,63,561,510,1,0,UEFA Euro qualification,Budapest,Hungary,False,No,Win,71.0,73.0,68.0,74.7,70.2,69.0,66.3,73.8
 2014-11-14,Japan,Honduras,Asia,North America,52,69,558,480,6,0,Friendly,Toyota,Japan,False,No,Win,74.0,61.0,72.5,76.0,77.2,69.5,70.2,70.8
-2014-11-14,Jordan,Korea Republic,Asia,Asia,74,66,434,495,0,1,Friendly,Amman,Jordan,False,No,Lose,89.0,73.0,59.0,88.0,63.5,71.5,75.7,73.5
+2014-11-14,Jordan,Korea Republic,Asia,Asia,74,66,434,495,0,1,Friendly,Amman,Jordan,False,No,Lose,0.0,73.0,59.0,0.0,63.5,71.5,75.7,73.5
 2014-11-14,Paraguay,Peru,South America,South America,76,54,422,558,2,1,Friendly,Luque,Paraguay,False,No,Win,75.0,69.0,73.5,78.7,75.0,70.5,75.7,75.0
 2014-11-14,Romania,Northern Ireland,Europe,Europe,21,43,875,624,2,0,UEFA Euro qualification,Bucharest,Romania,False,No,Win,74.0,69.0,75.2,70.7,74.0,72.8,69.0,73.2
 2014-11-14,Scotland,Republic of Ireland,Europe,Europe,37,61,674,519,1,0,UEFA Euro qualification,Glasgow,Scotland,False,No,Win,75.0,74.0,71.5,75.3,74.8,75.2,75.0,77.2
@@ -3182,7 +3182,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2014-11-16,Czech Republic,Iceland,Europe,Europe,22,28,869,815,2,1,UEFA Euro qualification,Plzeň,Czech Republic,False,No,Win,85.0,57.0,74.2,73.7,75.8,67.5,73.0,71.2
 2014-11-16,Israel,Bosnia and Herzegovina,Europe,Europe,45,26,615,837,3,0,UEFA Euro qualification,Haifa,Israel,False,No,Win,71.5,82.0,64.2,71.7,69.5,74.2,76.7,78.2
 2014-11-16,Italy,Croatia,Europe,Europe,11,14,1063,1001,1,1,UEFA Euro qualification,Milan,Italy,False,No,Draw,84.0,76.0,81.0,82.3,83.2,77.8,78.3,81.2
-2014-11-16,Morocco,Zimbabwe,Africa,Africa,88,101,368,329,2,1,Friendly,Agadir,Morocco,False,No,Win,69.0,86.0,76.0,74.7,78.0,62.7,64.7,65.0
+2014-11-16,Morocco,Zimbabwe,Africa,Africa,88,101,368,329,2,1,Friendly,Agadir,Morocco,False,No,Win,69.0,0.0,76.0,74.7,78.0,62.7,64.7,65.0
 2014-11-16,Netherlands,Latvia,Europe,Europe,5,99,1374,340,6,0,UEFA Euro qualification,Amsterdam,Netherlands,False,No,Win,79.0,68.0,78.2,87.3,81.8,63.9,66.7,64.5
 2014-11-18,Austria,Brazil,Europe,South America,29,6,809,1307,1,2,Friendly,Vienna,Austria,False,No,Lose,72.0,82.0,75.5,73.0,77.8,83.8,84.0,82.2
 2014-11-18,Belarus,Mexico,Europe,North America,106,17,300,954,3,2,Friendly,Barysaw,Belarus,False,No,Win,71.0,80.0,63.8,69.1,71.5,75.2,81.3,75.5
@@ -3228,7 +3228,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2015-01-19,Finland,Sweden,Europe,Europe,70,44,468,645,1,0,Friendly,Abu Dhabi,United Arab Emirates,True,No,Win,73.0,74.0,69.0,66.3,73.8,75.5,80.7,78.0
 2015-01-19,Ghana,Senegal,Africa,Africa,37,35,713,733,1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True,No,Lose,67.0,64.0,70.5,73.0,78.2,75.8,79.0,74.2
 2015-01-20,Côte d'Ivoire,Guinea,Africa,Africa,28,39,833,705,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True,No,Draw,70.0,58.0,75.5,81.3,78.2,63.5,69.3,74.2
-2015-01-20,Japan,Jordan,Asia,Asia,54,93,563,345,2,0,AFC Asian Cup,Melbourne,Australia,True,No,Win,74.0,88.0,72.5,76.0,77.2,59.0,84.3,63.5
+2015-01-20,Japan,Jordan,Asia,Asia,54,93,563,345,2,0,AFC Asian Cup,Melbourne,Australia,True,No,Win,74.0,0.0,72.5,76.0,77.2,59.0,0.0,63.5
 2015-01-20,Mali,Cameroon,Africa,Africa,49,42,602,665,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True,No,Draw,70.0,73.0,70.2,74.0,74.5,78.0,77.7,76.5
 2015-01-22,Cabo Verde,Congo DR,Africa,Africa,40,57,693,548,0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True,No,Draw,59.0,68.0,66.2,71.7,67.0,71.2,71.3,73.0
 2015-01-23,Ghana,Algeria,Africa,Africa,37,18,713,947,1,0,African Cup of Nations,Mongomo,Equatorial Guinea,True,No,Win,67.0,73.0,70.5,73.0,78.2,73.5,77.7,74.0
@@ -3274,7 +3274,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2015-03-29,Portugal,Serbia,Europe,Europe,7,40,1190,709,2,1,UEFA Euro qualification,Lisbon,Portugal,False,No,Win,81.0,75.0,80.2,84.3,81.2,81.0,75.0,79.5
 2015-03-29,South Africa,Nigeria,Africa,Africa,55,41,608,701,1,1,Friendly,Nelspruit,South Africa,False,No,Draw,77.0,80.0,70.8,71.3,75.0,70.2,77.0,77.0
 2015-03-30,North Macedonia,Australia,Europe,Oceania,108,65,307,549,0,0,Friendly,Skopje,North Macedonia,False,No,Draw,66.0,76.0,67.5,71.0,64.0,70.0,71.7,71.2
-2015-03-30,Saudi Arabia,Jordan,Asia,Asia,99,101,338,325,2,1,Friendly,Dammam,Saudi Arabia,False,No,Win,70.0,86.0,69.2,73.3,72.8,59.0,85.7,63.5
+2015-03-30,Saudi Arabia,Jordan,Asia,Asia,99,101,338,325,2,1,Friendly,Dammam,Saudi Arabia,False,No,Win,70.0,0.0,69.2,73.3,72.8,59.0,0.0,63.5
 2015-03-31,Austria,Bosnia and Herzegovina,Europe,Europe,23,30,916,841,1,1,Friendly,Vienna,Austria,False,No,Draw,72.0,82.0,75.5,73.0,77.8,74.2,76.7,78.2
 2015-03-31,Ghana,Mali,Africa,Africa,24,51,887,626,1,1,Friendly,Paris,France,True,No,Draw,67.0,70.0,70.5,73.0,78.2,70.2,74.0,74.5
 2015-03-31,Israel,Belgium,Europe,Europe,26,4,880,1471,0,1,UEFA Euro qualification,Jerusalem,Israel,False,No,Lose,71.5,86.0,64.2,71.7,69.5,81.2,78.3,82.8
@@ -3520,7 +3520,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-01-20,Morocco,Côte d'Ivoire,Africa,Africa,76,19,469,950,0,1,African Nations Championship,Kigali,Rwanda,True,No,Lose,70.0,70.0,77.0,74.7,78.8,77.5,80.7,78.8
 2016-01-21,Congo DR,Angola,Africa,Africa,60,105,580,333,4,2,African Nations Championship,Butare,Rwanda,True,No,Win,68.0,64.3,73.2,75.3,74.0,61.0,70.3,66.3
 2016-01-22,Tunisia,Nigeria,Africa,Africa,40,66,710,539,1,1,African Nations Championship,Kigali,Rwanda,True,No,Draw,64.0,81.0,71.5,68.7,75.0,72.0,77.7,76.0
-2016-01-23,Zimbabwe,Mali,Africa,Africa,108,63,321,551,0,1,African Nations Championship,Gisenyi,Rwanda,True,No,Lose,90.0,72.0,62.7,69.0,68.5,70.5,74.0,75.0
+2016-01-23,Zimbabwe,Mali,Africa,Africa,108,63,321,551,0,1,African Nations Championship,Gisenyi,Rwanda,True,No,Lose,0.0,72.0,62.7,69.0,68.5,70.5,74.0,75.0
 2016-01-24,Côte d'Ivoire,Gabon,Africa,Africa,19,77,950,467,4,1,African Nations Championship,Butare,Rwanda,True,No,Win,70.0,67.0,77.5,80.7,78.8,70.8,71.7,72.5
 2016-01-25,Cameroon,Congo DR,Africa,Africa,57,60,586,580,3,1,African Nations Championship,Butare,Rwanda,True,No,Win,78.0,68.0,79.8,78.7,76.0,73.2,75.3,74.0
 2016-01-26,Guinea,Nigeria,Africa,Africa,49,66,623,539,1,0,African Nations Championship,Gisenyi,Rwanda,True,No,Win,59.4,81.0,70.8,70.7,75.0,72.0,77.7,76.0
@@ -3727,7 +3727,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-08-31,Norway,Belarus,Europe,Europe,50,70,588,506,0,1,Friendly,Oslo,Norway,False,No,Lose,73.0,70.0,73.2,74.3,74.8,67.0,69.1,70.0
 2016-08-31,Turkey,Russia,Europe,Europe,19,38,915,728,0,0,Friendly,Antalya,Turkey,False,No,Draw,80.0,81.0,78.2,77.3,81.0,78.8,76.0,79.8
 2016-09-01,Argentina,Uruguay,South America,South America,1,12,1584,1129,1,0,FIFA World Cup qualification,Mendoza,Argentina,False,No,Win,82.0,83.0,83.8,90.0,84.2,82.8,85.0,78.2
-2016-09-01,Australia,Iraq,Oceania,Asia,57,113,549,336,2,0,FIFA World Cup qualification,Perth,Australia,False,No,Win,79.0,90.0,71.8,73.7,74.5,66.5,85.7,68.0
+2016-09-01,Australia,Iraq,Oceania,Asia,57,113,549,336,2,0,FIFA World Cup qualification,Perth,Australia,False,No,Win,79.0,0.0,71.8,73.7,74.5,66.5,0.0,68.0
 2016-09-01,Belgium,Spain,Europe,Europe,2,8,1400,1165,0,2,Friendly,Brussels,Belgium,False,No,Lose,89.0,90.0,83.8,86.7,82.5,86.2,85.3,86.8
 2016-09-01,Bolivia,Peru,South America,South America,110,33,338,777,0,3,FIFA World Cup qualification,La Paz,Bolivia,False,No,Lose,66.0,74.0,68.0,70.0,68.5,73.5,73.7,73.0
 2016-09-01,Colombia,Venezuela,South America,South America,3,46,1330,620,2,0,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Win,79.0,72.0,78.2,81.3,81.2,74.8,76.3,76.0
@@ -3742,7 +3742,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-09-03,Cameroon,Gambia,Africa,Africa,54,163,570,154,2,0,African Cup of Nations qualification,Limbé,Cameroon,False,No,Win,80.0,66.5,80.2,78.3,76.8,67.5,64.3,69.2
 2016-09-04,Congo,Guinea-Bissau,Africa,Africa,63,75,533,473,1,0,African Cup of Nations qualification,Brazzaville,Congo,False,No,Win,66.0,58.0,71.8,65.3,71.8,66.0,70.3,70.0
 2016-09-04,Czech Republic,Northern Ireland,Europe,Europe,34,28,768,822,0,0,FIFA World Cup qualification,Prague,Czech Republic,False,No,Draw,88.0,70.0,76.5,76.0,77.8,74.8,71.0,73.2
-2016-09-04,Denmark,Armenia,Europe,Europe,44,102,630,348,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Win,81.0,63.9,79.0,76.3,80.2,83.5,65.3,75.0
+2016-09-04,Denmark,Armenia,Europe,Europe,44,102,630,348,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Win,81.0,63.9,79.0,76.3,80.2,0.0,65.3,75.0
 2016-09-04,Norway,Germany,Europe,Europe,50,4,588,1319,0,3,FIFA World Cup qualification,Oslo,Norway,False,No,Lose,77.0,92.0,74.8,72.7,76.2,87.2,81.3,88.0
 2016-09-04,Romania,Montenegro,Europe,Europe,25,95,855,364,1,1,FIFA World Cup qualification,Cluj,Romania,False,No,Draw,77.0,55.0,76.0,74.7,75.2,75.5,77.0,69.0
 2016-09-04,Slovakia,England,Europe,Europe,24,13,866,1107,0,1,FIFA World Cup qualification,Trnava,Slovakia,False,No,Lose,73.0,84.0,78.0,68.7,78.0,83.5,83.3,82.0
@@ -3756,12 +3756,12 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-09-06,Belarus,France,Europe,Europe,70,7,506,1188,0,0,FIFA World Cup qualification,Barysaw,Belarus,False,No,Draw,69.0,88.0,71.0,69.1,69.5,83.8,87.0,85.2
 2016-09-06,Bosnia and Herzegovina,Estonia,Europe,Europe,29,117,813,322,5,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,No,Win,83.0,63.0,76.5,78.0,79.5,69.5,62.2,63.5
 2016-09-06,Brazil,Colombia,South America,South America,9,3,1155,1330,2,1,FIFA World Cup qualification,Manaus,Brazil,False,No,Win,83.0,79.0,86.5,87.0,84.0,78.2,81.3,81.2
-2016-09-06,Bulgaria,Luxembourg,Europe,Europe,77,145,445,218,4,3,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,74.0,66.0,70.5,67.3,73.8,66.5,82.0,66.5
+2016-09-06,Bulgaria,Luxembourg,Europe,Europe,77,145,445,218,4,3,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,74.0,66.0,70.5,67.3,73.8,66.5,0.0,66.5
 2016-09-06,Cameroon,Gabon,Africa,Africa,54,96,570,359,2,1,Friendly,Limbé,Cameroon,False,No,Win,80.0,72.0,80.2,78.3,76.8,70.8,71.7,73.5
 2016-09-06,Chile,Bolivia,South America,South America,5,110,1316,338,3,0,FIFA World Cup qualification,Santiago,Chile,False,No,Win,85.0,66.0,77.8,80.0,82.0,68.0,70.0,68.5
 2016-09-06,China PR,IR Iran,Asia,Asia,78,39,445,674,0,0,FIFA World Cup qualification,Shenyang,China PR,False,No,Draw,73.0,71.0,70.0,72.0,71.0,69.0,72.0,69.7
 2016-09-06,Costa Rica,Panama,North America,North America,21,69,883,507,3,1,FIFA World Cup qualification,San José,Costa Rica,False,No,Win,85.0,70.7,75.5,68.3,76.8,67.5,66.3,68.5
-2016-09-06,Iraq,Saudi Arabia,Asia,Asia,113,61,336,539,1,2,FIFA World Cup qualification,Shah Alam,Malaysia,True,No,Lose,90.0,73.0,66.5,85.7,68.0,72.5,70.7,72.2
+2016-09-06,Iraq,Saudi Arabia,Asia,Asia,113,61,336,539,1,2,FIFA World Cup qualification,Shah Alam,Malaysia,True,No,Lose,0.0,73.0,66.5,0.0,68.0,72.5,70.7,72.2
 2016-09-06,Jamaica,Haiti,North America,North America,71,101,491,348,0,2,FIFA World Cup qualification,Kingston,Jamaica,False,No,Lose,72.0,72.0,73.0,72.0,69.8,66.8,62.9,66.8
 2016-09-06,Mexico,Honduras,North America,North America,14,84,1041,390,0,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Draw,80.0,61.0,78.8,80.7,80.8,71.2,68.3,66.0
 2016-09-06,Peru,Ecuador,South America,South America,33,17,777,1001,2,1,FIFA World Cup qualification,Lima,Peru,False,No,Win,74.0,74.0,73.5,73.7,73.0,73.8,76.0,76.2
@@ -3771,14 +3771,14 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-09-06,Switzerland,Portugal,Europe,Europe,18,6,957,1265,2,0,FIFA World Cup qualification,Basel,Switzerland,False,No,Win,84.0,84.0,80.0,75.7,80.0,83.2,86.7,83.5
 2016-09-06,Uruguay,Paraguay,South America,South America,12,42,1129,636,4,0,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Win,83.0,76.0,82.8,85.0,78.2,76.0,77.0,77.0
 2016-09-06,Venezuela,Argentina,South America,South America,46,1,620,1584,2,2,FIFA World Cup qualification,Mérida,Venezuela,False,No,Draw,72.0,82.0,74.8,76.3,76.0,83.8,90.0,84.2
-2016-10-04,Congo DR,Kenya,Africa,Africa,51,91,588,378,0,1,Friendly,Kinshasa,Congo DR,False,No,Lose,69.0,67.0,73.5,77.3,76.2,84.8,61.7,70.0
+2016-10-04,Congo DR,Kenya,Africa,Africa,51,91,588,378,0,1,Friendly,Kinshasa,Congo DR,False,No,Lose,69.0,67.0,73.5,77.3,76.2,0.0,61.7,70.0
 2016-10-06,Austria,Wales,Europe,Europe,26,10,839,1160,2,2,FIFA World Cup qualification,Vienna,Austria,False,No,Draw,75.0,75.0,78.0,74.7,81.8,78.0,77.0,77.2
 2016-10-06,Brazil,Bolivia,South America,South America,4,75,1322,468,5,0,FIFA World Cup qualification,Natal,Brazil,False,No,Win,83.0,66.0,86.5,87.0,84.0,68.0,70.0,68.5
 2016-10-06,Ecuador,Chile,South America,South America,19,6,916,1283,3,0,FIFA World Cup qualification,Quito,Ecuador,False,No,Win,74.0,85.0,73.8,76.0,76.2,77.8,80.0,82.0
 2016-10-06,Iceland,Finland,Europe,Europe,27,84,828,409,3,2,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Win,67.0,78.0,71.0,74.0,76.2,72.0,74.0,72.8
 2016-10-06,Republic of Ireland,Georgia,Europe,Europe,31,137,773,239,1,0,FIFA World Cup qualification,Dublin,Republic of Ireland,False,No,Win,76.0,73.0,77.2,76.7,78.0,71.0,64.7,74.0
 2016-10-06,Italy,Spain,Europe,Europe,13,11,1123,1140,1,1,FIFA World Cup qualification,Turin,Italy,False,No,Draw,88.0,90.0,85.8,82.7,84.0,86.2,85.3,86.8
-2016-10-06,Japan,Iraq,Asia,Asia,56,128,573,279,2,1,FIFA World Cup qualification,Saitama,Japan,False,No,Win,73.0,82.0,74.5,76.3,79.5,66.5,90.0,68.0
+2016-10-06,Japan,Iraq,Asia,Asia,56,128,573,279,2,1,FIFA World Cup qualification,Saitama,Japan,False,No,Win,73.0,0.0,74.5,76.3,79.5,66.5,0.0,68.0
 2016-10-06,Kosovo,Croatia,Europe,Europe,168,14,134,1059,0,6,FIFA World Cup qualification,Shkodër,Albania,True,No,Lose,72.0,83.0,67.0,72.7,71.8,81.0,80.0,84.5
 2016-10-06,Paraguay,Colombia,South America,South America,36,4,719,1323,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,No,Lose,76.0,79.0,76.0,77.0,77.0,78.2,81.3,81.2
 2016-10-06,Peru,Argentina,South America,South America,25,1,841,1645,2,2,FIFA World Cup qualification,Lima,Peru,False,No,Draw,74.0,82.0,73.5,73.7,73.0,83.8,90.0,84.2
@@ -3788,10 +3788,10 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-10-07,Belgium,Bosnia and Herzegovina,Europe,Europe,2,23,1369,863,4,0,FIFA World Cup qualification,Brussels,Belgium,False,No,Win,89.0,83.0,83.8,86.7,82.5,76.5,78.0,79.5
 2016-10-07,France,Bulgaria,Europe,Europe,8,74,1188,470,4,1,FIFA World Cup qualification,Saint-Denis,France,False,No,Win,88.0,74.0,83.8,87.0,85.2,70.5,67.3,73.8
 2016-10-07,Hungary,Switzerland,Europe,Europe,20,16,912,1020,2,3,FIFA World Cup qualification,Budapest,Hungary,False,No,Lose,73.0,84.0,71.2,74.3,75.2,80.0,75.7,80.0
-2016-10-07,Luxembourg,Sweden,Europe,Europe,145,41,212,677,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,73.0,66.5,82.0,66.5,78.2,82.0,77.2
+2016-10-07,Luxembourg,Sweden,Europe,Europe,145,41,212,677,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,73.0,66.5,0.0,66.5,78.2,82.0,77.2
 2016-10-07,Netherlands,Belarus,Europe,Europe,24,57,860,572,4,1,FIFA World Cup qualification,Rotterdam,Netherlands,False,No,Win,81.0,69.0,80.8,80.7,83.0,71.0,69.1,69.5
-2016-10-08,Armenia,Romania,Europe,Europe,112,32,316,772,0,5,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,77.0,84.0,65.3,75.0,76.0,74.7,75.2
-2016-10-08,Azerbaijan,Norway,Europe,Europe,133,70,252,487,1,0,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Win,68.0,77.0,83.8,90.0,64.8,74.8,72.7,76.2
+2016-10-08,Armenia,Romania,Europe,Europe,112,32,316,772,0,5,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,77.0,0.0,65.3,75.0,76.0,74.7,75.2
+2016-10-08,Azerbaijan,Norway,Europe,Europe,133,70,252,487,1,0,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Win,68.0,77.0,0.0,0.0,64.8,74.8,72.7,76.2
 2016-10-08,Gabon,Morocco,Africa,Africa,108,58,324,569,0,0,FIFA World Cup qualification,Franceville,Gabon,False,No,Draw,72.0,71.0,70.8,71.7,73.5,77.0,77.3,79.2
 2016-10-08,Germany,Czech Republic,Europe,Europe,3,33,1346,762,3,0,FIFA World Cup qualification,Hamburg,Germany,False,No,Win,92.0,88.0,87.2,81.3,88.0,76.5,76.0,77.8
 2016-10-08,Côte d'Ivoire,Mali,Africa,Africa,34,55,751,579,3,1,FIFA World Cup qualification,Bouaké,Côte d'Ivoire,False,No,Win,70.0,72.0,80.2,81.0,79.2,73.0,75.3,73.5
@@ -3819,13 +3819,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-10-11,Bolivia,Ecuador,South America,South America,75,19,468,916,2,2,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,66.0,74.0,68.0,70.0,68.5,73.8,76.0,76.2
 2016-10-11,Chile,Peru,South America,South America,6,25,1283,841,2,1,FIFA World Cup qualification,Santiago,Chile,False,No,Win,85.0,74.0,77.8,80.0,82.0,73.5,73.7,73.0
 2016-10-11,Colombia,Uruguay,South America,South America,4,9,1323,1173,2,2,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Draw,79.0,83.0,78.2,81.3,81.2,82.8,85.0,78.2
-2016-10-11,Czech Republic,Azerbaijan,Europe,Europe,33,133,762,252,0,0,FIFA World Cup qualification,Ostrava,Czech Republic,False,No,Draw,88.0,68.0,76.5,76.0,77.8,83.8,90.0,64.8
+2016-10-11,Czech Republic,Azerbaijan,Europe,Europe,33,133,762,252,0,0,FIFA World Cup qualification,Ostrava,Czech Republic,False,No,Draw,88.0,68.0,76.5,76.0,77.8,0.0,0.0,64.8
 2016-10-11,Denmark,Montenegro,Europe,Europe,46,105,636,325,0,1,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Lose,81.0,55.0,79.0,76.3,80.2,75.5,77.0,69.0
 2016-10-11,Germany,Northern Ireland,Europe,Europe,3,30,1346,797,2,0,FIFA World Cup qualification,Hanover,Germany,False,No,Win,92.0,70.0,87.2,81.3,88.0,74.8,71.0,73.2
 2016-10-11,IR Iran,Korea Republic,Asia,Asia,37,47,712,634,1,0,FIFA World Cup qualification,Tehran,IR Iran,False,No,Win,71.0,74.0,69.0,72.0,69.7,74.0,75.3,77.2
 2016-10-11,Mexico,Panama,North America,North America,15,62,1057,538,1,0,Friendly,Bridgeview,USA,True,No,Win,80.0,70.7,78.8,80.7,80.8,67.5,66.3,68.5
 2016-10-11,Morocco,Canada,Africa,North America,58,103,569,328,4,0,Friendly,Marrakech,Morocco,False,No,Win,71.0,65.0,77.0,77.3,79.2,67.5,71.3,72.8
-2016-10-11,Poland,Armenia,Europe,Europe,17,112,983,316,2,1,FIFA World Cup qualification,Warsaw,Poland,False,No,Win,80.0,63.9,78.8,81.3,79.5,84.0,65.3,75.0
+2016-10-11,Poland,Armenia,Europe,Europe,17,112,983,316,2,1,FIFA World Cup qualification,Warsaw,Poland,False,No,Win,80.0,63.9,78.8,81.3,79.5,0.0,65.3,75.0
 2016-10-11,Slovakia,Scotland,Europe,Europe,28,44,820,651,3,0,FIFA World Cup qualification,Trnava,Slovakia,False,No,Win,73.0,76.0,78.0,68.7,78.0,74.0,74.3,76.2
 2016-10-11,Slovenia,England,Europe,Europe,67,12,501,1130,0,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,No,Draw,87.0,84.0,76.2,75.7,76.8,83.5,83.3,82.0
 2016-10-11,South Africa,Ghana,Africa,Africa,62,43,539,658,1,1,Friendly,Durban,South Africa,False,No,Draw,76.0,69.0,73.0,72.7,75.0,75.5,76.7,78.0
@@ -3837,13 +3837,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-11-10,Paraguay,Peru,South America,South America,37,23,737,865,1,4,FIFA World Cup qualification,Asunción,Paraguay,False,No,Lose,76.0,74.0,76.0,77.0,77.0,73.5,73.7,73.0
 2016-11-10,Uruguay,Ecuador,South America,South America,9,19,1174,932,2,1,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Win,83.0,74.0,82.8,85.0,78.2,73.8,76.0,76.2
 2016-11-10,Venezuela,Bolivia,South America,South America,68,80,515,443,5,0,FIFA World Cup qualification,Maturín,Venezuela,False,No,Win,72.0,66.0,74.8,76.3,76.0,68.0,70.0,68.5
-2016-11-11,Armenia,Montenegro,Europe,Europe,125,56,269,570,3,2,FIFA World Cup qualification,Yerevan,Armenia,False,No,Win,63.9,55.0,82.5,65.3,75.0,75.5,77.0,69.0
+2016-11-11,Armenia,Montenegro,Europe,Europe,125,56,269,570,3,2,FIFA World Cup qualification,Yerevan,Armenia,False,No,Win,63.9,55.0,0.0,65.3,75.0,75.5,77.0,69.0
 2016-11-11,Czech Republic,Norway,Europe,Europe,40,81,663,438,2,1,FIFA World Cup qualification,Prague,Czech Republic,False,No,Win,88.0,77.0,76.5,76.0,77.8,74.8,72.7,76.2
 2016-11-11,England,Scotland,Europe,Europe,12,57,1090,568,3,0,FIFA World Cup qualification,London,England,False,No,Win,84.0,76.0,83.5,83.3,82.0,74.0,74.3,76.2
 2016-11-11,France,Sweden,Europe,Europe,7,39,1271,714,2,1,FIFA World Cup qualification,Saint-Denis,France,False,No,Win,88.0,73.0,83.8,87.0,85.2,78.2,82.0,77.2
 2016-11-11,Honduras,Panama,North America,North America,86,63,411,551,0,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Lose,61.0,70.7,71.2,68.3,66.0,67.5,66.3,68.5
 2016-11-11,Korea Republic,Canada,Asia,North America,44,110,640,322,2,0,Friendly,Cheonan,Korea Republic,False,No,Win,74.0,65.0,74.0,75.3,77.2,67.5,71.3,72.8
-2016-11-11,Northern Ireland,Azerbaijan,Europe,Europe,36,88,739,404,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Win,70.0,68.0,74.8,71.0,73.2,84.8,84.3,64.8
+2016-11-11,Northern Ireland,Azerbaijan,Europe,Europe,36,88,739,404,4,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Win,70.0,68.0,74.8,71.0,73.2,0.0,0.0,64.8
 2016-11-11,Romania,Poland,Europe,Europe,34,15,746,1029,0,3,FIFA World Cup qualification,Bucharest,Romania,False,No,Lose,77.0,80.0,76.0,74.7,75.2,78.8,81.3,79.5
 2016-11-11,USA,Mexico,North America,North America,24,17,852,1000,1,2,FIFA World Cup qualification,Columbus,USA,False,No,Lose,81.0,80.0,77.5,74.3,75.8,78.8,80.7,80.8
 2016-11-12,Albania,Israel,Europe,Europe,47,79,618,450,0,3,FIFA World Cup qualification,Elbasan,Albania,False,No,Lose,75.0,71.5,73.2,69.3,72.8,66.4,73.3,74.8
@@ -3861,8 +3861,8 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2016-11-13,Egypt,Ghana,Africa,Africa,46,45,626,628,2,0,FIFA World Cup qualification,Alexandria,Egypt,False,No,Win,73.0,69.0,71.0,71.3,75.5,75.5,76.7,78.0
 2016-11-13,Greece,Bosnia and Herzegovina,Europe,Europe,42,28,656,807,1,1,FIFA World Cup qualification,Piraeus,Greece,False,No,Draw,82.0,83.0,81.0,77.3,77.8,76.5,78.0,79.5
 2016-11-13,Guinea,Congo DR,Africa,Africa,64,49,539,609,1,2,FIFA World Cup qualification,Conakry,Guinea,False,No,Lose,55.0,69.0,69.5,72.3,75.8,73.5,77.3,76.2
-2016-11-13,Jamaica,Suriname,North America,South America,75,147,463,204,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False,No,Win,72.0,69.0,73.0,72.0,69.8,67.5,65.0,87.5
-2016-11-13,Luxembourg,Netherlands,Europe,Europe,130,20,252,901,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,81.0,66.5,90.0,66.5,80.8,80.7,83.0
+2016-11-13,Jamaica,Suriname,North America,South America,75,147,463,204,1,0,CFU Caribbean Cup qualification,Kingston,Jamaica,False,No,Win,72.0,69.0,73.0,72.0,69.8,67.5,65.0,0.0
+2016-11-13,Luxembourg,Netherlands,Europe,Europe,130,20,252,901,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,81.0,66.5,0.0,66.5,80.8,80.7,83.0
 2016-11-13,Portugal,Latvia,Europe,Europe,8,116,1230,306,4,1,FIFA World Cup qualification,Faro,Portugal,False,No,Win,84.0,66.0,83.2,86.7,83.5,63.9,68.0,64.5
 2016-11-14,Poland,Slovenia,Europe,Europe,15,52,1029,594,1,1,Friendly,Wrocław,Poland,False,No,Draw,80.0,87.0,78.8,81.3,79.5,76.2,75.7,76.8
 2016-11-15,Argentina,Colombia,South America,South America,1,5,1621,1361,3,0,FIFA World Cup qualification,San Juan,Argentina,False,No,Win,82.0,79.0,83.8,90.0,84.2,78.2,81.3,81.2
@@ -3920,7 +3920,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-03-23,Argentina,Chile,South America,South America,1,4,1644,1388,1,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,No,Win,82.0,85.0,83.8,90.0,84.2,77.8,80.0,82.0
 2017-03-23,China PR,Korea Republic,Asia,Asia,86,40,406,690,1,0,FIFA World Cup qualification,Changsha,China PR,False,No,Win,73.0,74.0,70.0,72.0,71.0,74.0,75.3,77.2
 2017-03-23,Colombia,Bolivia,South America,South America,7,97,1311,353,1,0,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Win,79.0,66.0,78.2,81.3,81.2,68.0,70.0,68.5
-2017-03-23,Iraq,Australia,Asia,Oceania,122,55,274,621,1,1,FIFA World Cup qualification,Tehran,IR Iran,True,No,Draw,79.0,79.0,66.5,88.7,68.0,71.8,73.7,74.5
+2017-03-23,Iraq,Australia,Asia,Oceania,122,55,274,621,1,1,FIFA World Cup qualification,Tehran,IR Iran,True,No,Draw,0.0,79.0,66.5,0.0,68.0,71.8,73.7,74.5
 2017-03-23,Nigeria,Senegal,Africa,Africa,41,28,685,831,1,1,Friendly,London,England,True,No,Draw,83.0,72.0,74.5,77.3,76.2,79.2,78.3,77.8
 2017-03-23,Paraguay,Ecuador,South America,South America,43,22,683,887,2,1,FIFA World Cup qualification,Asunción,Paraguay,False,No,Win,76.0,74.0,76.0,77.0,77.0,73.8,76.0,76.2
 2017-03-23,Uruguay,Brazil,South America,South America,9,2,1199,1533,1,4,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Lose,83.0,83.0,82.8,85.0,78.2,86.5,87.0,84.0
@@ -3939,13 +3939,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-03-24,USA,Honduras,North America,North America,30,65,818,538,6,0,FIFA World Cup qualification,San Jose,USA,False,No,Win,81.0,61.0,77.5,74.3,75.8,71.2,68.3,66.0
 2017-03-25,Belgium,Greece,Europe,Europe,5,46,1379,678,1,1,FIFA World Cup qualification,Brussels,Belgium,False,No,Draw,89.0,82.0,83.8,86.7,82.5,81.0,77.3,77.8
 2017-03-25,Bulgaria,Netherlands,Europe,Europe,71,21,488,900,2,0,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,74.0,81.0,70.5,67.3,73.8,80.8,80.7,83.0
-2017-03-25,Luxembourg,France,Europe,Europe,135,6,227,1317,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,88.0,66.5,87.0,66.5,83.8,87.0,85.2
+2017-03-25,Luxembourg,France,Europe,Europe,135,6,227,1317,1,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,66.0,88.0,66.5,0.0,66.5,83.8,87.0,85.2
 2017-03-25,Portugal,Hungary,Europe,Europe,8,27,1240,834,3,0,FIFA World Cup qualification,Lisbon,Portugal,False,No,Win,84.0,73.0,83.2,86.7,83.5,71.2,74.3,75.2
 2017-03-25,South Africa,Guinea-Bissau,Africa,Africa,62,80,566,434,3,1,Friendly,Durban,South Africa,False,No,Win,76.0,58.0,73.0,72.7,75.0,66.0,70.3,70.0
 2017-03-25,Sweden,Belarus,Europe,Europe,45,72,681,472,4,0,FIFA World Cup qualification,Solna,Sweden,False,No,Win,73.0,69.0,78.2,82.0,77.2,71.0,69.1,69.5
 2017-03-25,Switzerland,Latvia,Europe,Europe,11,111,1137,311,1,0,FIFA World Cup qualification,Geneva,Switzerland,False,No,Win,84.0,66.0,80.0,75.7,80.0,63.9,68.0,64.5
-2017-03-26,Azerbaijan,Germany,Europe,Europe,89,3,380,1443,1,4,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Lose,68.0,92.0,84.8,84.3,64.8,87.2,81.3,88.0
-2017-03-26,Kenya,Congo DR,Africa,Africa,88,38,392,749,2,1,Friendly,Machakos,Kenya,False,No,Win,67.0,69.0,84.8,61.7,70.0,73.5,77.3,76.2
+2017-03-26,Azerbaijan,Germany,Europe,Europe,89,3,380,1443,1,4,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Lose,68.0,92.0,0.0,0.0,64.8,87.2,81.3,88.0
+2017-03-26,Kenya,Congo DR,Africa,Africa,88,38,392,749,2,1,Friendly,Machakos,Kenya,False,No,Win,67.0,69.0,0.0,61.7,70.0,73.5,77.3,76.2
 2017-03-26,Montenegro,Poland,Europe,Europe,64,12,545,1120,1,2,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Lose,55.0,80.0,75.5,77.0,69.0,78.8,81.3,79.5
 2017-03-26,Northern Ireland,Norway,Europe,Europe,35,81,785,428,2,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Win,70.0,77.0,74.8,71.0,73.2,74.8,72.7,76.2
 2017-03-26,Romania,Denmark,Europe,Europe,39,48,703,662,0,0,FIFA World Cup qualification,Cluj,Romania,False,No,Draw,77.0,81.0,76.0,74.7,75.2,79.0,76.3,80.2
@@ -3965,7 +3965,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-03-28,Honduras,Costa Rica,North America,North America,65,19,538,953,1,1,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Draw,61.0,85.0,71.2,68.3,66.0,75.5,68.3,76.8
 2017-03-28,IR Iran,China PR,Asia,Asia,33,86,793,406,1,0,FIFA World Cup qualification,Tehran,IR Iran,False,No,Win,71.0,73.0,69.0,72.0,69.7,70.0,72.0,71.0
 2017-03-28,Republic of Ireland,Iceland,Europe,Europe,24,23,859,874,0,1,Friendly,Dublin,Republic of Ireland,False,No,Lose,76.0,67.0,77.2,76.7,78.0,71.0,74.0,76.2
-2017-03-28,Luxembourg,Cabo Verde,Europe,Africa,135,77,227,460,0,2,Friendly,Hesperange,Luxembourg,False,No,Lose,66.0,63.0,66.5,87.0,66.5,68.8,75.0,73.5
+2017-03-28,Luxembourg,Cabo Verde,Europe,Africa,135,77,227,460,0,2,Friendly,Hesperange,Luxembourg,False,No,Lose,66.0,63.0,66.5,0.0,66.5,68.8,75.0,73.5
 2017-03-28,North Macedonia,Belarus,Europe,Europe,166,72,130,472,3,0,Friendly,Skopje,North Macedonia,False,No,Win,70.0,69.0,68.2,70.0,65.5,71.0,69.1,69.5
 2017-03-28,Morocco,Tunisia,Africa,Africa,49,37,660,774,1,0,Friendly,Marrakech,Morocco,False,No,Win,71.0,55.0,77.0,77.3,79.2,74.5,72.3,75.0
 2017-03-28,Netherlands,Italy,Europe,Europe,21,15,900,1094,1,2,Friendly,Amsterdam,Netherlands,False,No,Lose,81.0,88.0,80.8,80.7,83.0,85.8,82.7,84.0
@@ -3973,7 +3973,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-03-28,Peru,Uruguay,South America,South America,18,9,965,1199,2,1,FIFA World Cup qualification,Lima,Peru,False,No,Win,74.0,83.0,73.5,73.7,73.0,82.8,85.0,78.2
 2017-03-28,Portugal,Sweden,Europe,Europe,8,45,1240,681,2,3,Friendly,Funchal,Portugal,False,No,Lose,84.0,73.0,83.2,86.7,83.5,78.2,82.0,77.2
 2017-03-28,Russia,Belgium,Europe,Europe,60,5,591,1379,3,3,Friendly,Sochi,Russia,False,No,Draw,80.0,89.0,78.8,79.0,80.0,83.8,86.7,82.5
-2017-03-28,Saudi Arabia,Iraq,Asia,Asia,57,122,609,274,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,No,Win,73.0,79.0,72.5,70.7,72.2,66.5,88.7,68.0
+2017-03-28,Saudi Arabia,Iraq,Asia,Asia,57,122,609,274,1,0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,No,Win,73.0,0.0,72.5,70.7,72.2,66.5,0.0,68.0
 2017-03-28,South Africa,Angola,Africa,Africa,62,147,566,186,0,0,Friendly,East London,South Africa,False,No,Draw,76.0,64.3,73.0,72.7,75.0,69.8,71.3,66.3
 2017-05-25,Ghana,Benin,Africa,Africa,45,83,682,395,1,1,Friendly,Accra,Ghana,False,No,Draw,69.0,66.0,75.5,76.7,78.0,67.5,71.0,66.2
 2017-05-28,Mexico,Croatia,North America,Europe,16,18,1075,1016,1,2,Friendly,Los Angeles,USA,True,No,Lose,80.0,83.0,78.8,80.7,80.8,81.0,80.0,84.5
@@ -3986,7 +3986,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-06-02,Northern Ireland,New Zealand,Europe,Oceania,28,95,837,343,1,0,Friendly,Belfast,Northern Ireland,False,No,Win,70.0,68.0,74.8,71.0,73.2,71.0,71.0,63.0
 2017-06-03,USA,Venezuela,North America,South America,23,58,861,629,1,1,Friendly,Sandy,USA,False,No,Draw,81.0,72.0,77.5,74.3,75.8,74.8,76.3,76.0
 2017-06-04,Republic of Ireland,Uruguay,Europe,South America,26,16,853,1098,3,1,Friendly,Dublin,Republic of Ireland,False,No,Win,76.0,83.0,77.2,76.7,78.0,82.8,85.0,78.2
-2017-06-04,Luxembourg,Albania,Europe,Europe,145,66,183,544,2,1,Friendly,Luxembourg,Luxembourg,False,No,Win,66.0,75.0,66.5,82.0,66.5,73.2,69.3,72.8
+2017-06-04,Luxembourg,Albania,Europe,Europe,145,66,183,544,2,1,Friendly,Luxembourg,Luxembourg,False,No,Win,66.0,75.0,66.5,0.0,66.5,73.2,69.3,72.8
 2017-06-04,Montenegro,IR Iran,Europe,Asia,52,30,647,828,1,2,Friendly,Podgorica,Montenegro,False,No,Lose,55.0,71.0,75.5,77.0,69.0,69.0,72.0,69.7
 2017-06-04,Netherlands,Côte d'Ivoire,Europe,Africa,31,47,819,684,5,0,Friendly,Rotterdam,Netherlands,False,No,Win,81.0,70.0,80.8,80.7,83.0,80.2,81.0,79.2
 2017-06-05,Belgium,Czech Republic,Europe,Europe,7,44,1291,689,2,1,Friendly,Brussels,Belgium,False,No,Win,89.0,88.0,83.8,86.7,82.5,76.5,76.0,77.8
@@ -3994,7 +3994,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-06-05,North Macedonia,Turkey,Europe,Europe,136,25,217,855,0,0,Friendly,Skopje,North Macedonia,False,No,Draw,70.0,81.0,68.2,70.0,65.5,80.2,78.0,81.2
 2017-06-06,Algeria,Guinea,Africa,Africa,53,72,636,475,2,1,Friendly,Blida,Algeria,False,No,Win,69.0,55.0,76.0,82.0,78.5,69.5,72.3,75.8
 2017-06-06,Denmark,Germany,Europe,Europe,51,3,660,1511,1,1,Friendly,Brøndby,Denmark,False,No,Draw,81.0,92.0,79.0,76.3,80.2,87.2,81.3,88.0
-2017-06-07,Iraq,Korea Republic,Asia,Asia,120,43,280,703,0,0,Friendly,Ras al-Khaimah,United Arab Emirates,True,No,Draw,86.0,74.0,66.5,81.3,68.0,74.0,75.3,77.2
+2017-06-07,Iraq,Korea Republic,Asia,Asia,120,43,280,703,0,0,Friendly,Ras al-Khaimah,United Arab Emirates,True,No,Draw,0.0,74.0,66.5,0.0,68.0,74.0,75.3,77.2
 2017-06-07,Italy,Uruguay,Europe,South America,12,16,1193,1098,3,0,Friendly,Nice,France,True,No,Win,88.0,83.0,85.8,82.7,84.0,82.8,85.0,78.2
 2017-06-07,Spain,Colombia,Europe,South America,10,5,1198,1365,2,2,Friendly,Murcia,Spain,False,No,Draw,90.0,79.0,86.2,85.3,86.8,78.2,81.3,81.2
 2017-06-08,Australia,Saudi Arabia,Oceania,Asia,48,53,681,635,3,2,FIFA World Cup qualification,Adelaide,Australia,False,No,Win,79.0,73.0,71.8,73.7,74.5,72.5,70.7,72.2
@@ -4007,15 +4007,15 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-06-09,Bosnia and Herzegovina,Greece,Europe,Europe,29,40,835,726,0,0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False,No,Draw,83.0,82.0,76.5,78.0,79.5,81.0,77.3,77.8
 2017-06-09,Estonia,Belgium,Europe,Europe,98,7,337,1291,0,2,FIFA World Cup qualification,Tallinn,Estonia,False,No,Lose,63.0,89.0,69.5,62.2,63.5,83.8,86.7,82.5
 2017-06-09,Latvia,Portugal,Europe,Europe,122,8,271,1266,0,3,FIFA World Cup qualification,Riga,Latvia,False,No,Lose,66.0,84.0,63.9,68.0,64.5,83.2,86.7,83.5
-2017-06-09,Netherlands,Luxembourg,Europe,Europe,31,145,819,183,5,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,No,Win,81.0,66.0,80.8,80.7,83.0,66.5,82.0,66.5
+2017-06-09,Netherlands,Luxembourg,Europe,Europe,31,145,819,183,5,0,FIFA World Cup qualification,Rotterdam,Netherlands,False,No,Win,81.0,66.0,80.8,80.7,83.0,66.5,0.0,66.5
 2017-06-09,Russia,Chile,Europe,South America,63,4,560,1422,1,1,Friendly,Moscow,Russia,False,No,Draw,80.0,85.0,78.8,79.0,80.0,77.8,80.0,82.0
 2017-06-09,Sweden,France,Europe,Europe,34,6,792,1332,2,1,FIFA World Cup qualification,Solna,Sweden,False,No,Win,73.0,88.0,78.2,82.0,77.2,83.8,87.0,85.2
-2017-06-10,Azerbaijan,Northern Ireland,Europe,Europe,76,28,438,837,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Lose,68.0,70.0,85.8,88.0,64.8,74.8,71.0,73.2
+2017-06-10,Azerbaijan,Northern Ireland,Europe,Europe,76,28,438,837,0,1,FIFA World Cup qualification,Baku,Azerbaijan,False,No,Lose,68.0,70.0,0.0,0.0,64.8,74.8,71.0,73.2
 2017-06-10,Cameroon,Morocco,Africa,Africa,32,56,811,631,1,0,African Cup of Nations qualification,Yaoundé,Cameroon,False,No,Win,80.0,71.0,80.2,78.3,76.8,77.0,77.3,79.2
 2017-06-10,Congo DR,Congo,Africa,Africa,39,85,728,412,3,1,African Cup of Nations qualification,Kinshasa,Congo DR,False,No,Win,69.0,66.0,73.5,77.3,76.2,71.8,65.3,71.8
 2017-06-10,Côte d'Ivoire,Guinea,Africa,Africa,47,72,684,475,2,3,African Cup of Nations qualification,Bouaké,Côte d'Ivoire,False,No,Lose,70.0,55.0,80.2,81.0,79.2,69.5,72.3,75.8
 2017-06-10,Mali,Gabon,Africa,Africa,66,86,544,408,2,1,African Cup of Nations qualification,Bamako,Mali,False,No,Win,72.0,72.0,73.0,75.3,73.5,70.8,71.7,73.5
-2017-06-10,Montenegro,Armenia,Europe,Europe,52,68,647,527,4,1,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Win,55.0,63.9,75.5,77.0,69.0,84.0,65.3,75.0
+2017-06-10,Montenegro,Armenia,Europe,Europe,52,68,647,527,4,1,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Win,55.0,63.9,75.5,77.0,69.0,0.0,65.3,75.0
 2017-06-10,Nigeria,South Africa,Africa,Africa,38,65,729,547,0,2,African Cup of Nations qualification,Uyo,Nigeria,False,No,Lose,83.0,76.0,74.5,77.3,76.2,73.0,72.7,75.0
 2017-06-10,Norway,Czech Republic,Europe,Europe,87,44,390,689,1,1,FIFA World Cup qualification,Oslo,Norway,False,No,Draw,77.0,88.0,74.8,72.7,76.2,76.5,76.0,77.8
 2017-06-10,Poland,Romania,Europe,Europe,10,46,1197,686,3,1,FIFA World Cup qualification,Warsaw,Poland,False,No,Win,80.0,77.0,78.8,81.3,79.5,76.0,74.7,75.2
@@ -4035,7 +4035,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-06-13,Cameroon,Colombia,Africa,South America,32,5,811,1365,0,4,Friendly,Getafe,Spain,True,No,Lose,80.0,79.0,80.2,78.3,76.8,78.2,81.3,81.2
 2017-06-13,Canada,Curaçao,North America,North America,109,70,318,491,2,1,Friendly,Montréal,Canada,False,No,Win,65.0,75.0,67.5,71.3,72.8,65.8,68.0,70.5
 2017-06-13,France,England,Europe,Europe,6,13,1332,1119,3,2,Friendly,Saint-Denis,France,False,No,Win,88.0,84.0,83.8,87.0,85.2,83.5,83.3,82.0
-2017-06-13,Iraq,Japan,Asia,Asia,120,45,280,689,1,1,FIFA World Cup qualification,Tehran,IR Iran,True,No,Draw,86.0,73.0,66.5,81.3,68.0,74.5,76.3,79.5
+2017-06-13,Iraq,Japan,Asia,Asia,120,45,280,689,1,1,FIFA World Cup qualification,Tehran,IR Iran,True,No,Draw,0.0,73.0,66.5,0.0,68.0,74.5,76.3,79.5
 2017-06-13,Norway,Sweden,Europe,Europe,87,34,390,792,1,1,Friendly,Oslo,Norway,False,No,Draw,77.0,73.0,74.8,72.7,76.2,78.2,82.0,77.2
 2017-06-13,Panama,Honduras,North America,North America,59,69,626,517,2,2,FIFA World Cup qualification,Panama City,Panama,False,No,Draw,70.7,61.0,67.5,66.3,68.5,71.2,68.3,66.0
 2017-06-13,Romania,Chile,Europe,South America,46,4,686,1422,3,2,Friendly,Cluj,Romania,False,No,Win,77.0,85.0,76.0,74.7,75.2,77.8,80.0,82.0
@@ -4100,7 +4100,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-09-01,Mexico,Panama,North America,North America,14,61,1045,592,1,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,79.0,70.7,77.8,81.0,80.0,68.0,66.0,67.8
 2017-09-01,Morocco,Mali,Africa,Africa,60,65,599,544,6,0,FIFA World Cup qualification,Rabat,Morocco,False,No,Win,71.0,74.0,76.5,75.3,80.2,73.0,74.7,72.2
 2017-09-01,Nigeria,Cameroon,Africa,Africa,38,35,716,737,4,0,FIFA World Cup qualification,Uyo,Nigeria,False,No,Win,81.0,80.0,74.2,75.3,75.5,78.8,78.7,75.5
-2017-09-01,Romania,Armenia,Europe,Europe,42,72,712,480,1,0,FIFA World Cup qualification,Bucharest,Romania,False,No,Win,77.0,63.9,75.2,71.3,74.2,85.8,70.3,72.8
+2017-09-01,Romania,Armenia,Europe,Europe,42,72,712,480,1,0,FIFA World Cup qualification,Bucharest,Romania,False,No,Win,77.0,63.9,75.2,71.3,74.2,0.0,70.3,72.8
 2017-09-01,Slovakia,Slovenia,Europe,Europe,22,51,916,652,1,0,FIFA World Cup qualification,Trnava,Slovakia,False,No,Win,71.0,88.0,77.0,67.3,78.8,75.2,76.0,77.2
 2017-09-01,Tunisia,Congo DR,Africa,Africa,34,28,776,822,2,1,FIFA World Cup qualification,Radès,Tunisia,False,No,Win,63.0,68.0,74.0,71.7,73.5,74.5,76.3,75.2
 2017-09-01,USA,Costa Rica,North America,North America,26,21,865,917,0,2,FIFA World Cup qualification,Harrison,USA,False,No,Lose,78.0,85.0,76.8,74.7,78.2,74.5,71.0,74.5
@@ -4115,12 +4115,12 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-09-02,Ukraine,Turkey,Europe,Europe,27,33,843,778,2,0,FIFA World Cup qualification,Kharkiv,Ukraine,False,No,Win,79.0,79.0,76.8,74.3,77.8,79.2,76.7,80.0
 2017-09-02,Wales,Austria,Europe,Europe,18,37,950,722,1,0,FIFA World Cup qualification,Cardiff,Wales,False,No,Win,74.0,75.0,77.8,82.3,74.2,77.8,79.3,80.0
 2017-09-03,Belarus,Sweden,Europe,Europe,71,19,503,932,0,4,FIFA World Cup qualification,Barysaw,Belarus,False,No,Lose,71.0,75.0,65.8,69.1,69.2,78.5,82.0,78.8
-2017-09-03,France,Luxembourg,Europe,Europe,10,136,1157,223,0,0,FIFA World Cup qualification,Toulouse,France,False,No,Draw,88.0,67.0,84.0,86.3,86.2,67.0,87.0,66.5
+2017-09-03,France,Luxembourg,Europe,Europe,10,136,1157,223,0,0,FIFA World Cup qualification,Toulouse,France,False,No,Draw,88.0,67.0,84.0,86.3,86.2,67.0,0.0,66.5
 2017-09-03,Greece,Belgium,Europe,Europe,38,9,716,1193,1,2,FIFA World Cup qualification,Piraeus,Greece,False,No,Lose,82.0,89.0,81.8,75.3,76.8,83.5,87.3,85.8
 2017-09-03,Hungary,Portugal,Europe,Europe,56,6,616,1267,0,1,FIFA World Cup qualification,Budapest,Hungary,False,No,Lose,76.0,83.0,71.5,74.3,74.2,82.0,85.0,83.2
 2017-09-03,Latvia,Switzerland,Europe,Europe,131,4,241,1329,0,3,FIFA World Cup qualification,Riga,Latvia,False,No,Lose,71.0,84.0,63.9,69.3,64.5,79.0,75.0,79.8
 2017-09-03,Netherlands,Bulgaria,Europe,Europe,36,52,734,643,3,1,FIFA World Cup qualification,Amsterdam,Netherlands,False,No,Win,81.0,74.0,81.2,84.3,82.8,69.8,69.7,73.0
-2017-09-04,Armenia,Denmark,Europe,Europe,72,46,480,683,1,4,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,83.0,85.8,70.3,72.8,79.5,77.3,81.0
+2017-09-04,Armenia,Denmark,Europe,Europe,72,46,480,683,1,4,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,83.0,0.0,70.3,72.8,79.5,77.3,81.0
 2017-09-04,Cameroon,Nigeria,Africa,Africa,35,38,737,716,1,1,FIFA World Cup qualification,Yaoundé,Cameroon,False,No,Draw,80.0,81.0,78.8,78.7,75.5,74.2,75.3,75.5
 2017-09-04,England,Slovakia,Europe,Europe,13,22,1051,916,2,1,FIFA World Cup qualification,London,England,False,No,Win,82.0,71.0,82.8,83.3,82.8,77.0,67.3,78.8
 2017-09-04,Germany,Norway,Europe,Europe,2,85,1549,391,6,0,FIFA World Cup qualification,Stuttgart,Germany,False,No,Win,92.0,82.0,85.8,82.0,87.5,74.8,75.3,76.2
@@ -4149,7 +4149,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-09-05,South Africa,Cabo Verde,Africa,Africa,66,114,535,283,1,2,FIFA World Cup qualification,Durban,South Africa,False,No,Lose,77.0,63.0,73.0,73.3,74.8,73.2,75.0,72.2
 2017-09-05,Turkey,Croatia,Europe,Europe,33,16,778,1007,1,0,FIFA World Cup qualification,Eskişehir,Turkey,False,No,Win,79.0,85.0,79.2,76.7,80.0,80.8,79.3,85.8
 2017-10-05,Argentina,Peru,South America,South America,4,12,1325,1102,0,0,FIFA World Cup qualification,Buenos Aires,Argentina,False,No,Draw,83.0,74.0,83.0,90.7,83.5,73.2,76.4,75.8
-2017-10-05,Armenia,Poland,Europe,Europe,83,6,413,1249,1,6,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,82.0,85.8,70.3,72.8,79.2,82.7,78.2
+2017-10-05,Armenia,Poland,Europe,Europe,83,6,413,1249,1,6,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,63.9,82.0,0.0,70.3,72.8,79.2,82.7,78.2
 2017-10-05,Bolivia,Brazil,South America,South America,46,2,666,1589,0,0,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,68.0,83.0,66.5,66.3,69.2,86.8,87.0,83.8
 2017-10-05,Chile,Ecuador,South America,South America,9,35,1194,767,2,1,FIFA World Cup qualification,Santiago,Chile,False,No,Win,82.0,73.0,78.0,81.0,81.8,71.8,75.3,78.2
 2017-10-05,Colombia,Paraguay,South America,South America,10,39,1190,738,1,2,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Lose,79.0,73.0,78.8,82.0,80.5,75.0,76.7,77.5
@@ -4180,7 +4180,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-10-07,Russia,Korea Republic,Europe,Asia,64,51,558,659,4,2,Friendly,Moscow,Russia,False,No,Win,79.0,74.0,78.5,79.7,79.8,73.5,74.0,77.5
 2017-10-07,Saudi Arabia,Jamaica,Asia,North America,53,61,641,606,5,2,Friendly,Jeddah,Saudi Arabia,False,No,Win,73.0,73.0,74.2,71.0,74.5,72.8,68.7,71.8
 2017-10-07,South Africa,Burkina Faso,Africa,Africa,80,49,423,663,3,1,FIFA World Cup qualification,Johannesburg,South Africa,False,No,Win,77.0,66.0,73.0,73.3,74.8,66.2,72.7,71.5
-2017-10-07,Sweden,Luxembourg,Europe,Europe,23,101,917,343,8,0,FIFA World Cup qualification,Solna,Sweden,False,No,Win,75.0,67.0,78.5,82.0,78.8,67.0,85.7,66.5
+2017-10-07,Sweden,Luxembourg,Europe,Europe,23,101,917,343,8,0,FIFA World Cup qualification,Solna,Sweden,False,No,Win,75.0,67.0,78.5,82.0,78.8,67.0,0.0,66.5
 2017-10-07,Switzerland,Hungary,Europe,Europe,7,59,1210,629,5,2,FIFA World Cup qualification,Basel,Switzerland,False,No,Win,84.0,76.0,79.0,75.0,79.8,71.5,74.3,74.2
 2017-10-08,Denmark,Romania,Europe,Europe,26,41,848,714,1,1,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Draw,83.0,77.0,79.5,77.3,81.0,75.2,71.3,74.2
 2017-10-08,Egypt,Congo,Africa,Africa,30,95,815,377,2,1,FIFA World Cup qualification,Alexandria,Egypt,False,No,Win,73.0,65.0,71.5,74.3,74.8,70.5,69.7,70.2
@@ -4202,7 +4202,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-10-10,Honduras,Mexico,North America,North America,74,14,467,1085,3,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Win,61.0,79.0,70.8,72.0,67.8,77.8,81.0,80.0
 2017-10-10,Japan,Haiti,Asia,North America,40,48,736,664,3,3,Kirin Challenge Cup,Yokohama,Japan,False,No,Draw,72.0,66.0,75.2,76.7,78.8,65.8,60.7,67.2
 2017-10-10,Korea Republic,Morocco,Asia,Africa,51,56,659,635,1,3,Friendly,Biel,Switzerland,True,No,Lose,74.0,71.0,73.5,74.0,77.5,76.5,75.3,80.2
-2017-10-10,Luxembourg,Bulgaria,Europe,Europe,101,38,343,738,1,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Draw,67.0,74.0,67.0,85.7,66.5,69.8,69.7,73.0
+2017-10-10,Luxembourg,Bulgaria,Europe,Europe,101,38,343,738,1,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Draw,67.0,74.0,67.0,0.0,66.5,69.8,69.7,73.0
 2017-10-10,Netherlands,Sweden,Europe,Europe,29,23,818,917,2,0,FIFA World Cup qualification,Amsterdam,Netherlands,False,No,Win,81.0,75.0,81.2,84.3,82.8,78.5,82.0,78.8
 2017-10-10,Panama,Costa Rica,North America,North America,60,21,618,935,2,1,FIFA World Cup qualification,Panama City,Panama,False,No,Win,70.7,85.0,68.0,66.0,67.8,74.5,71.0,74.5
 2017-10-10,Paraguay,Venezuela,South America,South America,39,68,738,524,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,No,Lose,73.0,75.0,75.0,76.7,77.5,75.5,77.0,75.0
@@ -4215,7 +4215,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2017-11-08,Iceland,Czech Republic,Europe,Europe,21,46,919,698,1,2,Friendly,Doha,Qatar,True,No,Lose,67.0,86.0,70.8,74.0,75.8,76.2,74.0,78.0
 2017-11-09,Croatia,Greece,Europe,Europe,18,47,1012,681,4,1,FIFA World Cup qualification,Zagreb,Croatia,False,No,Win,85.0,82.0,80.8,79.3,85.8,81.8,75.3,76.8
 2017-11-09,IR Iran,Panama,Asia,North America,34,49,784,669,2,1,Friendly,Graz,Austria,True,No,Win,71.0,70.7,69.0,75.0,66.2,68.0,66.0,67.8
-2017-11-09,Luxembourg,Hungary,Europe,Europe,93,53,368,641,2,1,Friendly,Luxembourg,Luxembourg,False,No,Win,67.0,76.0,67.0,84.3,66.5,71.5,74.3,74.2
+2017-11-09,Luxembourg,Hungary,Europe,Europe,93,53,368,641,2,1,Friendly,Luxembourg,Luxembourg,False,No,Win,67.0,76.0,67.0,0.0,66.5,71.5,74.3,74.2
 2017-11-09,Northern Ireland,Switzerland,Europe,Europe,23,11,889,1134,0,1,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Lose,70.0,84.0,75.0,71.3,74.0,79.0,75.0,79.8
 2017-11-09,Romania,Turkey,Europe,Europe,45,33,705,806,2,0,Friendly,Cluj,Romania,False,No,Win,77.0,79.0,75.2,71.3,74.2,79.2,76.7,80.0
 2017-11-09,Scotland,Netherlands,Europe,Europe,29,20,820,931,0,1,Friendly,Aberdeen,Scotland,False,No,Lose,74.0,81.0,73.2,73.7,76.5,81.2,84.3,82.8
@@ -4312,7 +4312,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2018-03-23,Turkey,Republic of Ireland,Europe,Europe,38,31,729,803,1,0,Friendly,Antalya,Turkey,False,No,Win,79.0,75.0,79.2,76.7,80.0,77.0,73.0,77.2
 2018-03-23,Ukraine,Saudi Arabia,Europe,Asia,35,69,777,493,1,1,Friendly,Marbella,Spain,True,No,Draw,79.0,73.0,76.8,74.3,77.8,74.2,71.0,74.5
 2018-03-23,Uruguay,Czech Republic,South America,Europe,22,43,931,689,2,0,Friendly,Nanning,China PR,True,No,Win,82.0,86.0,82.5,85.3,78.0,76.2,74.0,78.0
-2018-03-24,Angola,Zimbabwe,Africa,Africa,141,108,210,312,2,2,Friendly,Ndola,Zambia,True,Yes,Win,53.0,90.0,71.5,70.7,68.5,62.7,68.3,69.8
+2018-03-24,Angola,Zimbabwe,Africa,Africa,141,108,210,312,2,2,Friendly,Ndola,Zambia,True,Yes,Win,53.0,0.0,71.5,70.7,68.5,62.7,68.3,69.8
 2018-03-24,Canada,New Zealand,North America,Oceania,90,120,387,267,1,0,Friendly,San Pedro del Pinatar,Spain,True,No,Win,68.0,68.0,67.2,70.7,73.0,70.5,72.7,65.2
 2018-03-24,Georgia,Lithuania,Europe,Europe,101,147,332,181,4,0,Friendly,Tbilisi,Georgia,False,No,Win,73.0,76.0,71.8,69.0,73.0,65.5,66.2,63.2
 2018-03-24,Israel,Romania,Europe,Europe,94,36,375,748,1,2,Friendly,Netanya,Israel,False,No,Lose,65.0,77.0,66.4,74.3,73.5,75.2,71.3,74.2
@@ -4333,7 +4333,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2018-03-27,Greece,Egypt,Europe,Africa,45,44,685,686,1,0,Friendly,Zürich,Switzerland,True,No,Win,82.0,73.0,81.8,75.3,76.8,71.5,74.3,74.8
 2018-03-27,Hungary,Scotland,Europe,Europe,50,32,637,796,0,1,Friendly,Budapest,Hungary,False,No,Lose,76.0,74.0,71.5,74.3,74.2,73.2,73.7,76.5
 2018-03-27,Kosovo,Burkina Faso,Europe,Africa,176,56,97,587,2,0,Friendly,Franconville,France,True,No,Win,72.0,66.0,70.5,74.0,71.0,66.2,72.7,71.5
-2018-03-27,Luxembourg,Austria,Europe,Europe,83,28,405,825,0,4,Friendly,Luxembourg,Luxembourg,False,No,Lose,67.0,75.0,67.0,88.0,66.5,77.8,79.3,80.0
+2018-03-27,Luxembourg,Austria,Europe,Europe,83,28,405,825,0,4,Friendly,Luxembourg,Luxembourg,False,No,Lose,67.0,75.0,67.0,0.0,66.5,77.8,79.3,80.0
 2018-03-27,Mexico,Croatia,North America,Europe,17,15,1038,1052,0,1,Friendly,Arlington,USA,True,No,Lose,79.0,85.0,77.8,81.0,80.0,80.8,79.3,85.8
 2018-03-27,Montenegro,Turkey,Europe,Europe,46,38,675,729,2,2,Friendly,Podgorica,Montenegro,False,No,Draw,65.0,79.0,73.8,75.7,69.8,79.2,76.7,80.0
 2018-03-27,Peru,Iceland,South America,Europe,11,18,1128,1026,3,1,Friendly,Harrison,USA,True,No,Win,74.0,67.0,73.2,76.4,75.8,70.8,74.0,75.8
@@ -4367,7 +4367,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2018-05-30,Austria,Russia,Europe,Europe,26,66,840,493,1,0,Friendly,Innsbruck,Austria,False,No,Win,75.0,79.0,77.8,79.3,80.0,78.5,79.7,79.8
 2018-05-31,Ukraine,Morocco,Europe,Africa,30,42,777,681,0,0,Friendly,Geneva,Switzerland,True,No,Draw,79.0,71.0,76.8,74.3,77.8,76.5,75.3,80.2
 2018-05-31,Romania,Chile,Europe,South America,32,9,737,1145,3,2,Friendly,Graz,Austria,True,No,Win,77.0,82.0,75.2,71.3,74.2,78.0,81.0,81.8
-2018-05-31,Luxembourg,Senegal,Europe,Africa,83,28,400,825,0,0,Friendly,Luxembourg,Luxembourg,False,No,Draw,67.0,73.0,67.0,88.0,66.5,79.5,80.7,78.8
+2018-05-31,Luxembourg,Senegal,Europe,Africa,83,28,400,825,0,0,Friendly,Luxembourg,Luxembourg,False,No,Draw,67.0,73.0,67.0,0.0,66.5,79.5,80.7,78.8
 2018-05-31,Slovakia,Netherlands,Europe,Europe,29,19,785,968,1,1,Friendly,Trnava,Slovakia,False,No,Draw,71.0,81.0,77.0,67.3,78.8,81.2,84.3,82.8
 2018-06-01,France,Italy,Europe,Europe,7,20,1166,947,3,1,Friendly,Nice,France,False,No,Win,88.0,89.0,84.0,86.3,86.2,86.0,83.7,84.2
 2018-06-01,Turkey,Tunisia,Europe,Africa,37,14,714,1012,2,2,Friendly,Geneva,Switzerland,True,No,Draw,79.0,63.0,79.2,76.7,80.0,74.0,71.7,73.5
@@ -4393,7 +4393,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2018-06-04,Slovakia,Morocco,Europe,Africa,29,42,785,681,1,2,Friendly,Geneva,Switzerland,True,No,Lose,71.0,71.0,77.0,67.3,78.8,76.5,75.3,80.2
 2018-06-05,Russia,Turkey,Europe,Europe,66,37,493,714,1,1,Friendly,Moscow,Russia,False,No,Draw,79.0,79.0,78.5,79.7,79.8,79.2,76.7,80.0
 2018-06-05,Romania,Finland,Europe,Europe,32,62,737,506,2,0,Friendly,Ploiești,Romania,False,No,Win,77.0,81.0,75.2,71.3,74.2,72.5,69.7,74.2
-2018-06-05,Luxembourg,Georgia,Europe,Europe,83,95,400,361,1,0,Friendly,Luxembourg,Luxembourg,False,No,Win,67.0,73.0,67.0,88.0,66.5,71.8,69.0,73.0
+2018-06-05,Luxembourg,Georgia,Europe,Europe,83,95,400,361,1,0,Friendly,Luxembourg,Luxembourg,False,No,Win,67.0,73.0,67.0,0.0,66.5,71.8,69.0,73.0
 2018-06-06,Norway,Panama,Europe,North America,48,55,608,574,1,0,Friendly,Oslo,Norway,False,No,Win,82.0,70.7,74.8,75.3,76.2,68.0,66.0,67.8
 2018-06-06,Czech Republic,Nigeria,Europe,Africa,45,47,646,635,1,0,Friendly,Schwechat,Austria,True,No,Win,86.0,81.0,76.2,74.0,78.0,74.2,75.3,75.5
 2018-06-06,Belgium,Egypt,Europe,Africa,3,46,1345,635,3,0,Friendly,Brussels,Belgium,False,No,Win,89.0,73.0,83.5,87.3,85.8,71.5,74.3,74.8
@@ -4513,7 +4513,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2018-09-09,Denmark,Wales,Europe,Europe,9,19,1580,1536,2,0,UEFA Nations League,Aarhus,Denmark,False,No,Win,84.0,75.0,79.5,77.3,81.2,76.5,77.7,76.2
 2018-09-09,Bulgaria,Norway,Europe,Europe,47,53,1416,1406,1,0,UEFA Nations League,Sofia,Bulgaria,False,No,Win,74.0,82.0,68.2,70.3,73.0,74.5,75.7,76.5
 2018-09-09,Germany,Peru,Europe,South America,15,20,1561,1535,2,1,Friendly,Sinsheim,Germany,False,No,Win,90.0,73.0,86.0,83.7,86.8,73.2,76.3,75.5
-2018-09-09,Congo,Zimbabwe,Africa,Africa,83,118,1292,1164,1,1,African Cup of Nations qualification,Brazzaville,Congo,False,No,Draw,65.0,79.0,67.0,67.3,71.0,62.7,72.3,71.5
+2018-09-09,Congo,Zimbabwe,Africa,Africa,83,118,1292,1164,1,1,African Cup of Nations qualification,Brazzaville,Congo,False,No,Draw,65.0,0.0,67.0,67.3,71.0,62.7,72.3,71.5
 2018-09-10,Portugal,Italy,Europe,Europe,7,21,1599,1532,1,0,UEFA Nations League,Lisbon,Portugal,False,No,Win,84.0,88.0,81.8,85.0,83.8,85.2,86.0,83.8
 2018-09-10,Sweden,Turkey,Europe,Europe,13,38,1565,1455,2,3,UEFA Nations League,Stockholm,Sweden,False,No,Lose,75.0,78.0,78.0,80.7,78.0,77.5,79.7,78.8
 2018-09-10,Scotland,Albania,Europe,Europe,40,58,1444,1384,2,0,UEFA Nations League,Glasgow,Scotland,False,No,Win,74.0,80.0,76.5,73.3,77.2,72.8,67.7,71.8
@@ -4677,15 +4677,15 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-03-23,Georgia,Switzerland,Europe,Europe,91,8,1269,1599,0,2,UEFA Euro qualification,Tbilisi,Georgia,False,No,Lose,71.0,82.0,73.2,70.0,72.2,78.8,74.3,79.0
 2019-03-23,Sweden,Romania,Europe,Europe,14,25,1560,1501,2,1,UEFA Euro qualification,Stockholm,Sweden,False,No,Win,75.0,78.0,78.0,80.7,78.0,75.8,74.3,74.5
 2019-03-23,Spain,Norway,Europe,Europe,9,48,1591,1425,2,1,UEFA Euro qualification,Valencia,Spain,False,No,Win,91.0,82.0,87.8,86.3,87.5,74.5,75.7,76.5
-2019-03-23,Bosnia and Herzegovina,Armenia,Europe,Europe,35,101,1472,1222,2,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False,No,Win,79.0,63.9,76.2,78.7,80.5,83.5,68.0,72.0
+2019-03-23,Bosnia and Herzegovina,Armenia,Europe,Europe,35,101,1472,1222,2,1,UEFA Euro qualification,Sarajevo,Bosnia and Herzegovina,False,No,Win,79.0,63.9,76.2,78.7,80.5,0.0,68.0,72.0
 2019-03-23,Italy,Finland,Europe,Europe,18,59,1539,1375,2,0,UEFA Euro qualification,Udine,Italy,False,No,Win,88.0,84.0,85.2,86.0,83.8,72.2,71.3,73.8
-2019-03-23,Ghana,Kenya,Africa,Africa,52,106,1412,1210,1,0,African Cup of Nations qualification,Accra,Ghana,False,No,Win,69.0,65.3,75.5,78.0,77.8,83.5,61.7,69.8
+2019-03-23,Ghana,Kenya,Africa,Africa,52,106,1412,1210,1,0,African Cup of Nations qualification,Accra,Ghana,False,No,Win,69.0,65.3,75.5,78.0,77.8,0.0,61.7,69.8
 2019-03-24,Netherlands,Germany,Europe,Europe,14,16,1560,1558,2,3,UEFA Euro qualification,Amsterdam,Netherlands,False,No,Lose,81.0,90.0,82.0,83.0,82.2,86.0,83.7,86.8
 2019-03-24,Wales,Slovakia,Europe,Europe,19,29,1525,1483,1,0,UEFA Euro qualification,Cardiff,Wales,False,No,Win,75.0,77.0,76.5,77.7,76.2,78.5,65.3,79.8
 2019-03-24,Hungary,Croatia,Europe,Europe,52,4,1412,1634,2,1,UEFA Euro qualification,Budapest,Hungary,False,No,Win,79.0,83.0,71.5,75.7,70.8,81.0,81.7,86.8
 2019-03-24,Israel,Austria,Europe,Europe,92,23,1265,1509,4,2,UEFA Euro qualification,Haifa,Israel,False,No,Win,65.0,75.0,66.4,71.7,75.8,76.0,79.3,80.8
 2019-03-24,Slovenia,North Macedonia,Europe,Europe,63,71,1369,1343,1,1,UEFA Euro qualification,Ljubljana,Slovenia,False,No,Draw,90.0,71.0,74.2,76.3,79.2,68.2,74.3,73.2
-2019-03-24,Zimbabwe,Congo,Africa,Africa,113,84,1175,1280,2,0,African Cup of Nations qualification,Harare,Zimbabwe,False,No,Win,90.0,65.0,62.7,72.3,71.5,67.0,67.3,71.0
+2019-03-24,Zimbabwe,Congo,Africa,Africa,113,84,1175,1280,2,0,African Cup of Nations qualification,Harare,Zimbabwe,False,No,Win,0.0,65.0,62.7,72.3,71.5,67.0,67.3,71.0
 2019-03-25,Kosovo,Bulgaria,Europe,Europe,130,48,1113,1425,1,1,UEFA Euro qualification,Pristina,Kosovo,False,No,Draw,72.0,74.0,67.0,73.3,71.8,68.2,70.3,73.0
 2019-03-25,Montenegro,England,Europe,Europe,46,5,1427,1631,1,5,UEFA Euro qualification,Podgorica,Montenegro,False,No,Lose,69.0,83.0,73.8,73.0,73.2,82.5,85.3,82.2
 2019-03-25,Portugal,Serbia,Europe,Europe,6,31,1614,1481,1,1,UEFA Euro qualification,Lisbon,Portugal,False,No,Draw,84.0,79.0,81.8,85.0,83.8,79.8,75.3,83.2
@@ -4705,7 +4705,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-03-26,Switzerland,Denmark,Europe,Europe,8,10,1599,1589,3,3,UEFA Euro qualification,Basel,Switzerland,False,No,Draw,82.0,84.0,78.8,74.3,79.0,79.5,77.3,81.2
 2019-03-26,Norway,Sweden,Europe,Europe,48,14,1425,1560,3,3,UEFA Euro qualification,Oslo,Norway,False,No,Draw,82.0,75.0,74.5,75.7,76.5,78.0,80.7,78.0
 2019-03-26,Bosnia and Herzegovina,Greece,Europe,Europe,35,45,1472,1428,2,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,No,Draw,79.0,79.0,76.2,78.7,80.5,81.0,73.3,76.0
-2019-03-26,Armenia,Finland,Europe,Europe,101,59,1222,1375,0,2,UEFA Euro qualification,Yerevan,Armenia,False,No,Lose,63.9,84.0,83.5,68.0,72.0,72.2,71.3,73.8
+2019-03-26,Armenia,Finland,Europe,Europe,101,59,1222,1375,0,2,UEFA Euro qualification,Yerevan,Armenia,False,No,Lose,63.9,84.0,0.0,68.0,72.0,72.2,71.3,73.8
 2019-05-30,Turkey,Greece,Europe,Europe,39,43,1457,1433,2,1,Friendly,Antalya,Turkey,False,No,Win,78.0,79.0,77.5,79.7,78.8,81.0,73.3,76.0
 2019-06-01,Venezuela,Ecuador,South America,South America,29,59,1484,1378,1,1,Friendly,Miami Gardens,USA,True,No,Draw,73.0,74.0,74.2,77.3,75.2,74.0,75.7,75.5
 2019-06-02,France,Bolivia,Europe,South America,2,63,1734,1366,2,0,Friendly,Nantes,France,False,No,Win,88.0,69.0,84.8,83.7,88.2,68.0,67.3,69.2
@@ -4733,7 +4733,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-06-08,Turkey,France,Europe,Europe,39,2,1457,1734,2,0,UEFA Euro qualification,Konya,Turkey,False,No,Win,78.0,88.0,77.5,79.7,78.8,84.8,83.7,88.2
 2019-06-08,Finland,Bosnia and Herzegovina,Europe,Europe,60,35,1375,1478,2,0,UEFA Euro qualification,Tampere,Finland,False,No,Win,84.0,79.0,72.2,71.3,73.8,76.2,78.7,80.5
 2019-06-08,Greece,Italy,Europe,Europe,43,17,1433,1550,0,3,UEFA Euro qualification,Athens,Greece,False,No,Lose,79.0,88.0,81.0,73.3,76.0,85.2,86.0,83.8
-2019-06-08,Nigeria,Zimbabwe,Africa,Africa,42,110,1435,1190,0,0,Friendly,Asaba,Nigeria,False,No,Draw,76.0,90.0,74.8,76.3,76.8,62.7,72.3,71.5
+2019-06-08,Nigeria,Zimbabwe,Africa,Africa,42,110,1435,1190,0,0,Friendly,Asaba,Nigeria,False,No,Draw,76.0,0.0,74.8,76.3,76.8,62.7,72.3,71.5
 2019-06-09,Brazil,Honduras,South America,North America,3,61,1676,1369,7,0,Friendly,Porto Alegre,Brazil,False,No,Win,86.0,61.0,87.0,88.7,86.2,69.2,71.3,72.5
 2019-06-09,Congo DR,Burkina Faso,Africa,Africa,46,58,1425,1380,0,0,Friendly,Marbella,Spain,True,No,Draw,67.0,66.0,75.2,77.7,74.0,69.0,73.0,70.5
 2019-06-09,Mexico,Ecuador,North America,South America,18,59,1549,1378,3,2,Friendly,Arlington,USA,True,No,Win,77.0,74.0,76.0,77.3,81.2,74.0,75.7,75.5
@@ -4753,7 +4753,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-06-11,Iceland,Turkey,Europe,Europe,40,39,1450,1457,2,1,UEFA Euro qualification,Reykjavík,Iceland,False,No,Win,69.0,78.0,72.8,72.7,76.8,77.5,79.7,78.8
 2019-06-11,Belgium,Scotland,Europe,Europe,1,44,1737,1430,3,0,UEFA Euro qualification,Brussels,Belgium,False,No,Win,90.0,74.0,83.8,88.3,85.8,76.5,73.3,77.2
 2019-06-11,Italy,Bosnia and Herzegovina,Europe,Europe,17,35,1550,1478,2,1,UEFA Euro qualification,Turin,Italy,False,No,Win,88.0,79.0,85.2,86.0,83.8,76.2,78.7,80.5
-2019-06-11,Greece,Armenia,Europe,Europe,43,106,1433,1206,2,3,UEFA Euro qualification,Athens,Greece,False,No,Lose,79.0,63.9,81.0,73.3,76.0,83.5,68.0,72.0
+2019-06-11,Greece,Armenia,Europe,Europe,43,106,1433,1206,2,3,UEFA Euro qualification,Athens,Greece,False,No,Lose,79.0,63.9,81.0,73.3,76.0,0.0,68.0,72.0
 2019-06-11,Benin,Guinea,Africa,Africa,91,68,1267,1350,1,0,Friendly,Marrakech,Morocco,True,No,Win,67.0,59.4,69.0,70.0,68.1,65.5,73.0,77.2
 2019-06-11,Croatia,Tunisia,Europe,Africa,5,28,1621,1491,1,2,Friendly,Varaždin,Croatia,False,No,Lose,83.0,71.0,81.0,81.7,86.8,73.0,71.3,75.8
 2019-06-11,Korea Republic,IR Iran,Asia,Asia,37,21,1462,1516,1,1,Friendly,Seoul,Korea Republic,False,No,Draw,74.0,72.0,71.8,74.3,77.8,69.0,73.3,71.0
@@ -4763,7 +4763,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-06-15,Venezuela,Peru,South America,South America,33,21,1485,1516,0,0,Copa América,Porto Alegre,Brazil,True,No,Draw,73.0,73.0,74.2,77.3,75.2,73.2,76.3,75.5
 2019-06-15,Argentina,Colombia,South America,South America,11,13,1582,1580,0,2,Copa América,Salvador,Brazil,True,No,Lose,81.0,78.0,82.5,90.3,84.0,80.2,82.3,82.2
 2019-06-15,Ghana,South Africa,Africa,Africa,50,72,1423,1335,0,0,Friendly,Dubai,United Arab Emirates,True,No,Draw,69.0,78.0,75.5,78.0,77.8,72.8,74.0,74.5
-2019-06-15,Kenya,Congo DR,Africa,Africa,105,49,1207,1424,1,1,Friendly,Madrid,Spain,True,No,Draw,65.3,67.0,83.5,61.7,69.8,75.2,77.7,74.0
+2019-06-15,Kenya,Congo DR,Africa,Africa,105,49,1207,1424,1,1,Friendly,Madrid,Spain,True,No,Draw,65.3,67.0,0.0,61.7,69.8,75.2,77.7,74.0
 2019-06-16,Uruguay,Ecuador,South America,South America,8,60,1615,1375,4,0,Copa América,Belo Horizonte,Brazil,True,No,Win,81.0,74.0,83.5,86.7,78.5,74.0,75.7,75.5
 2019-06-16,Algeria,Mali,Africa,Africa,68,62,1346,1365,3,2,Friendly,Doha,Qatar,True,No,Win,67.0,69.0,77.2,80.0,80.8,73.8,75.3,73.2
 2019-06-16,Egypt,Guinea,Africa,Africa,58,71,1384,1336,3,1,Friendly,Alexandria,Egypt,False,No,Win,73.0,59.4,72.0,72.3,79.2,65.5,73.0,77.2
@@ -4775,13 +4775,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-06-19,Argentina,Paraguay,South America,South America,11,36,1582,1468,1,1,Copa América,Belo Horizonte,Brazil,True,No,Draw,81.0,77.0,82.5,90.3,84.0,76.0,76.7,77.5
 2019-06-19,Mexico,Canada,North America,North America,18,78,1557,1314,3,1,Gold Cup,Denver,USA,True,No,Win,77.0,71.0,76.0,77.3,81.2,66.5,70.7,74.5
 2019-06-20,Uruguay,Japan,South America,Asia,8,28,1615,1496,2,2,Copa América,Porto Alegre,Brazil,True,No,Draw,81.0,72.0,83.5,86.7,78.5,76.0,76.3,79.5
-2019-06-21,Egypt,Zimbabwe,Africa,Africa,58,109,1384,1192,1,0,African Cup of Nations,Cairo,Egypt,False,No,Win,73.0,90.0,72.0,72.3,79.2,62.7,72.3,71.5
+2019-06-21,Egypt,Zimbabwe,Africa,Africa,58,109,1384,1192,1,0,African Cup of Nations,Cairo,Egypt,False,No,Win,73.0,0.0,72.0,72.3,79.2,62.7,72.3,71.5
 2019-06-21,Ecuador,Chile,South America,South America,60,16,1375,1561,1,2,Copa América,Salvador,Brazil,True,No,Lose,74.0,79.0,74.0,75.7,75.5,74.5,80.0,81.5
 2019-06-21,Honduras,Curaçao,North America,North America,61,79,1368,1302,0,1,Gold Cup,Houston,USA,True,No,Lose,61.0,74.0,69.2,71.3,72.5,65.8,67.0,68.5
 2019-06-22,Bolivia,Venezuela,South America,South America,62,33,1365,1485,1,3,Copa América,Belo Horizonte,Brazil,True,No,Lose,69.0,73.0,68.0,67.3,69.2,74.2,77.3,75.2
 2019-06-22,USA,Trinidad and Tobago,North America,South America,30,92,1495,1260,6,0,Gold Cup,Cleveland,USA,False,No,Win,75.0,58.0,76.2,76.3,76.8,65.3,71.1,71.0
 2019-06-22,Brazil,Peru,South America,South America,3,21,1681,1516,5,0,Copa América,São Paulo,Brazil,False,No,Win,86.0,73.0,87.0,88.7,86.2,73.2,76.3,75.5
-2019-06-23,Algeria,Kenya,Africa,Africa,68,105,1346,1207,2,0,African Cup of Nations,Cairo,Egypt,True,No,Win,67.0,65.3,77.2,80.0,80.8,83.5,61.7,69.8
+2019-06-23,Algeria,Kenya,Africa,Africa,68,105,1346,1207,2,0,African Cup of Nations,Cairo,Egypt,True,No,Win,67.0,65.3,77.2,80.0,80.8,0.0,61.7,69.8
 2019-06-23,Colombia,Paraguay,South America,South America,13,36,1580,1468,1,0,Copa América,Salvador,Brazil,True,No,Win,78.0,77.0,80.2,82.3,82.2,76.0,76.7,77.5
 2019-06-24,Côte d'Ivoire,South Africa,Africa,Africa,62,72,1365,1335,1,0,African Cup of Nations,Cairo,Egypt,True,No,Win,69.0,78.0,78.2,78.7,79.5,72.8,74.0,74.5
 2019-06-24,Tunisia,Angola,Africa,Africa,25,123,1501,1142,1,1,African Cup of Nations,Suez,Egypt,True,No,Draw,71.0,64.3,73.0,71.3,75.8,71.8,62.7,71.5
@@ -4804,10 +4804,10 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-06-29,Uruguay,Peru,South America,South America,8,21,1615,1516,0,0,Copa América,Salvador,Brazil,True,Yes,Lose,81.0,73.0,83.5,86.7,78.5,73.2,76.3,75.5
 2019-06-29,Haiti,Canada,North America,North America,101,78,1219,1314,3,2,Gold Cup,Houston,USA,True,No,Win,72.0,71.0,65.8,64.0,62.8,66.5,70.7,74.5
 2019-06-29,Mexico,Costa Rica,North America,North America,18,39,1557,1453,1,1,Gold Cup,Houston,USA,True,Yes,Win,77.0,87.0,76.0,77.3,81.2,74.5,72.0,71.0
-2019-06-30,Zimbabwe,Congo DR,Africa,Africa,109,49,1192,1424,0,4,African Cup of Nations,Cairo,Egypt,True,No,Lose,90.0,67.0,62.7,72.3,71.5,75.2,77.7,74.0
+2019-06-30,Zimbabwe,Congo DR,Africa,Africa,109,49,1192,1424,0,4,African Cup of Nations,Cairo,Egypt,True,No,Lose,0.0,67.0,62.7,72.3,71.5,75.2,77.7,74.0
 2019-06-30,Jamaica,Panama,North America,North America,54,75,1397,1322,1,0,Gold Cup,Philadelphia,USA,True,No,Win,75.0,70.7,73.5,68.0,71.5,69.8,67.3,69.5
 2019-06-30,USA,Curaçao,North America,North America,30,79,1495,1302,1,0,Gold Cup,Philadelphia,USA,False,No,Win,75.0,74.0,76.2,76.3,76.8,65.8,67.0,68.5
-2019-07-01,Kenya,Senegal,Africa,Africa,105,22,1207,1515,0,3,African Cup of Nations,Cairo,Egypt,True,No,Lose,65.3,75.0,83.5,61.7,69.8,80.8,81.0,78.2
+2019-07-01,Kenya,Senegal,Africa,Africa,105,22,1207,1515,0,3,African Cup of Nations,Cairo,Egypt,True,No,Lose,65.3,75.0,0.0,61.7,69.8,80.8,81.0,78.2
 2019-07-01,South Africa,Morocco,Africa,Africa,72,47,1335,1429,0,1,African Cup of Nations,Cairo,Egypt,True,No,Lose,78.0,77.0,72.8,74.0,74.5,78.8,78.0,78.5
 2019-07-02,Angola,Mali,Africa,Africa,123,62,1142,1365,0,1,African Cup of Nations,Ismaila,Egypt,True,No,Lose,64.3,69.0,71.8,62.7,71.5,73.8,75.3,73.2
 2019-07-02,Benin,Cameroon,Africa,Africa,88,51,1273,1404,0,0,African Cup of Nations,Ismaila,Egypt,True,No,Draw,67.0,78.0,69.0,70.0,68.1,77.2,79.0,74.8
@@ -4837,7 +4837,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-09-05,Argentina,Chile,South America,South America,10,14,1610,1583,0,0,Friendly,Los Angeles,USA,True,No,Draw,81.0,78.0,82.0,90.3,84.2,76.8,78.7,81.5
 2019-09-05,Korea Republic,Georgia,Asia,Europe,37,94,1467,1255,2,2,Friendly,Istanbul,Turkey,True,No,Draw,74.0,71.0,72.5,73.0,78.5,71.5,68.7,72.8
 2019-09-05,Montenegro,Hungary,Europe,Europe,55,45,1401,1442,2,1,Friendly,Podgorica,Montenegro,False,No,Win,64.0,85.0,72.2,72.7,72.0,74.2,73.3,74.2
-2019-09-05,Northern Ireland,Luxembourg,Europe,Europe,29,91,1496,1265,1,0,Friendly,Belfast,Northern Ireland,False,No,Win,69.0,67.1,74.2,70.7,72.8,66.0,84.3,65.0
+2019-09-05,Northern Ireland,Luxembourg,Europe,Europe,29,91,1496,1265,1,0,Friendly,Belfast,Northern Ireland,False,No,Win,69.0,67.1,74.2,70.7,72.8,66.0,0.0,65.0
 2019-09-05,Peru,Ecuador,South America,South America,19,66,1552,1359,0,1,Friendly,Harrison,USA,True,No,Lose,72.0,74.0,73.5,73.7,75.8,75.5,77.3,76.0
 2019-09-05,Saudi Arabia,Mali,Asia,Africa,68,59,1342,1389,1,1,Friendly,Riyadh,Saudi Arabia,False,No,Draw,72.0,71.0,71.5,66.3,72.2,74.8,76.0,76.0
 2019-09-05,Republic of Ireland,Switzerland,Europe,Europe,32,11,1489,1605,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False,No,Draw,75.0,85.0,77.5,74.3,74.5,79.0,79.7,79.2
@@ -4882,7 +4882,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-09-10,USA,Uruguay,North America,South America,22,5,1548,1637,1,1,Friendly,St. Louis,USA,False,No,Draw,76.0,81.0,76.5,74.7,76.8,84.2,86.0,81.2
 2019-09-10,England,Kosovo,Europe,Europe,4,120,1652,1149,5,3,UEFA Euro qualification,London,England,False,No,Win,83.0,67.0,83.0,87.0,83.0,71.0,74.7,73.8
 2019-09-10,Montenegro,Czech Republic,Europe,Europe,55,43,1401,1448,0,3,UEFA Euro qualification,Podgorica,Montenegro,False,No,Lose,64.0,84.0,72.2,72.7,72.0,77.2,74.3,77.0
-2019-09-10,Luxembourg,Serbia,Europe,Europe,91,35,1265,1477,1,3,UEFA Euro qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,80.0,66.0,84.3,65.0,79.2,81.7,82.2
+2019-09-10,Luxembourg,Serbia,Europe,Europe,91,35,1265,1477,1,3,UEFA Euro qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,80.0,66.0,0.0,65.0,79.2,81.7,82.2
 2019-09-10,Lithuania,Portugal,Europe,Europe,130,6,1101,1631,1,5,UEFA Euro qualification,Vilnius,Lithuania,False,No,Lose,73.0,85.0,65.5,66.2,62.5,83.0,84.3,85.0
 2019-09-10,Albania,Iceland,Europe,Europe,64,36,1362,1473,4,2,UEFA Euro qualification,Elbasan,Albania,False,No,Win,82.0,70.0,74.2,70.0,71.2,72.8,74.3,76.2
 2019-09-10,Moldova,Turkey,Europe,Europe,171,37,985,1467,0,4,UEFA Euro qualification,Chișinău,Moldova,False,No,Lose,70.0,76.0,66.8,61.1,63.5,77.2,77.7,78.5
@@ -4905,7 +4905,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-10-10,Venezuela,Bolivia,South America,South America,26,72,1506,1327,4,1,Friendly,Caracas,Venezuela,False,No,Win,73.0,69.0,73.0,77.7,74.5,67.0,68.3,69.5
 2019-10-11,Czech Republic,England,Europe,Europe,44,4,1441,1662,2,1,UEFA Euro qualification,Prague,Czech Republic,False,No,Win,84.0,83.0,77.2,74.3,77.0,83.0,87.0,83.0
 2019-10-11,Montenegro,Bulgaria,Europe,Europe,59,62,1389,1377,0,0,UEFA Euro qualification,Podgorica,Montenegro,False,No,Draw,64.0,68.0,72.2,72.7,72.0,67.5,64.0,70.8
-2019-10-11,Portugal,Luxembourg,Europe,Europe,5,93,1643,1255,3,0,UEFA Euro qualification,Lisbon,Portugal,False,No,Win,85.0,67.1,83.0,84.3,85.0,66.0,84.3,65.0
+2019-10-11,Portugal,Luxembourg,Europe,Europe,5,93,1643,1255,3,0,UEFA Euro qualification,Lisbon,Portugal,False,No,Win,85.0,67.1,83.0,84.3,85.0,66.0,0.0,65.0
 2019-10-11,Ukraine,Lithuania,Europe,Europe,25,131,1516,1094,2,0,UEFA Euro qualification,Kharkiv,Ukraine,False,No,Win,77.0,73.0,76.0,77.3,80.0,65.5,66.2,62.5
 2019-10-11,Iceland,France,Europe,Europe,41,2,1461,1725,0,1,UEFA Euro qualification,Reykjavík,Iceland,False,No,Lose,70.0,88.0,72.8,74.3,76.2,85.8,85.7,88.8
 2019-10-11,Turkey,Albania,Europe,Europe,36,64,1475,1372,1,0,UEFA Euro qualification,Istanbul,Turkey,False,No,Win,76.0,82.0,77.2,77.7,78.5,74.2,70.0,71.2
@@ -4916,7 +4916,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-10-12,Bosnia and Herzegovina,Finland,Europe,Europe,46,54,1438,1398,4,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,False,No,Win,75.0,83.0,75.0,77.7,81.2,72.5,71.3,73.0
 2019-10-12,Italy,Greece,Europe,Europe,15,60,1583,1382,2,0,UEFA Euro qualification,Rome,Italy,False,No,Win,85.0,80.0,85.2,85.3,83.0,80.8,73.3,76.8
 2019-10-12,Colombia,Chile,South America,South America,9,17,1622,1576,0,0,Friendly,Alicante,Spain,True,No,Draw,80.0,78.0,79.8,82.7,80.5,76.8,78.7,81.5
-2019-10-12,Guinea,Comoros,Africa,Africa,74,147,1325,1060,0,1,Friendly,Guinea,Guinea,False,No,Lose,66.0,70.0,71.5,71.7,76.8,63.8,82.0,67.2
+2019-10-12,Guinea,Comoros,Africa,Africa,74,147,1325,1060,0,1,Friendly,Guinea,Guinea,False,No,Lose,66.0,70.0,71.5,71.7,76.8,63.8,0.0,67.2
 2019-10-12,Côte d'Ivoire,Congo DR,Africa,Africa,56,55,1394,1395,3,1,Friendly,Ivory Coast,Côte d'Ivoire,False,No,Win,69.0,66.0,78.2,80.0,80.0,75.0,78.3,73.0
 2019-10-12,Tunisia,Cameroon,Africa,Africa,29,53,1493,1409,0,0,Friendly,Radès,Tunisia,False,No,Draw,72.0,82.0,73.2,74.3,74.2,78.8,75.7,75.8
 2019-10-13,Estonia,Germany,Europe,Europe,102,16,1212,1580,0,3,UEFA Euro qualification,Tallinn,Estonia,False,No,Lose,61.0,90.0,68.8,62.2,63.5,84.8,86.7,85.5
@@ -4941,7 +4941,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-10-15,Greece,Bosnia and Herzegovina,Europe,Europe,60,46,1382,1438,2,1,UEFA Euro qualification,Athens,Greece,False,No,Win,80.0,75.0,80.8,73.3,76.8,75.0,77.7,81.2
 2019-10-15,Algeria,Colombia,Africa,South America,38,9,1466,1622,3,0,Friendly,Villeneuve D'Ascq,Algeria,False,No,Win,73.0,80.0,78.5,80.3,77.5,79.8,82.7,80.5
 2019-10-15,Chile,Guinea,South America,Africa,17,74,1576,1325,3,2,Friendly,Alicante,Spain,True,No,Win,78.0,66.0,76.8,78.7,81.5,71.5,71.7,76.8
-2019-10-15,Denmark,Luxembourg,Europe,Europe,14,93,1584,1255,4,0,Friendly,Aalborg,Denmark,False,No,Win,83.0,67.1,80.0,77.7,81.2,66.0,84.3,65.0
+2019-10-15,Denmark,Luxembourg,Europe,Europe,14,93,1584,1255,4,0,Friendly,Aalborg,Denmark,False,No,Win,83.0,67.1,80.0,77.7,81.2,66.0,0.0,65.0
 2019-10-15,Morocco,Gabon,Africa,Africa,39,88,1463,1272,2,3,Friendly,Morocco,Morocco,False,No,Lose,77.0,67.1,77.8,77.3,80.0,69.2,71.7,79.8
 2019-10-15,Peru,Uruguay,South America,South America,19,6,1551,1639,1,1,Friendly,Lima,Peru,False,No,Draw,72.0,81.0,73.5,73.7,75.8,84.2,86.0,81.2
 2019-10-15,Canada,USA,North America,North America,75,21,1322,1545,2,0,CONCACAF Nations League,Toronto,Canada,False,No,Win,74.0,76.0,67.8,73.0,74.0,76.5,74.7,76.8
@@ -4960,7 +4960,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-11-14,England,Montenegro,Europe,Europe,4,61,1651,1371,7,0,UEFA Euro qualification,London,England,False,No,Win,83.0,64.0,83.0,87.0,83.0,72.2,72.7,72.0
 2019-11-14,Czech Republic,Kosovo,Europe,Europe,43,114,1454,1184,2,1,UEFA Euro qualification,Plzeň,Czech Republic,False,No,Win,84.0,67.0,77.2,74.3,77.0,71.0,74.7,73.8
 2019-11-14,Portugal,Lithuania,Europe,Europe,6,132,1632,1086,6,0,UEFA Euro qualification,Faro-Loulé,Portugal,False,No,Win,85.0,73.0,83.0,84.3,85.0,65.5,66.2,62.5
-2019-11-14,Serbia,Luxembourg,Europe,Europe,33,96,1485,1248,3,2,UEFA Euro qualification,Belgrade,Serbia,False,No,Win,80.0,67.1,79.2,81.7,82.2,66.0,84.3,65.0
+2019-11-14,Serbia,Luxembourg,Europe,Europe,33,96,1485,1248,3,2,UEFA Euro qualification,Belgrade,Serbia,False,No,Win,80.0,67.1,79.2,81.7,82.2,66.0,0.0,65.0
 2019-11-14,Turkey,Iceland,Europe,Europe,32,40,1490,1460,0,0,UEFA Euro qualification,Istanbul,Turkey,False,No,Draw,76.0,70.0,77.2,77.7,78.5,72.8,74.3,76.2
 2019-11-14,France,Moldova,Europe,Europe,2,175,1726,963,2,1,UEFA Euro qualification,Paris,France,False,No,Win,88.0,70.0,85.8,85.7,88.8,66.8,61.1,63.5
 2019-11-14,Curaçao,Costa Rica,North America,North America,76,47,1323,1436,1,2,CONCACAF Nations League,Willemstad,Curaçao,False,No,Lose,74.0,87.0,65.8,67.7,69.5,74.0,69.7,70.8
@@ -4983,13 +4983,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2019-11-17,Congo,Guinea-Bissau,Africa,Africa,92,123,1265,1155,3,0,African Cup of Nations qualification,Brazzaville,Congo,False,No,Win,73.0,58.0,65.0,66.0,69.0,68.2,72.7,70.8
 2019-11-17,Kosovo,England,Europe,Europe,114,4,1184,1651,0,4,UEFA Euro qualification,Pristina,Kosovo,False,No,Lose,67.0,83.0,71.0,74.7,73.8,83.0,87.0,83.0
 2019-11-17,Bulgaria,Czech Republic,Europe,Europe,61,43,1371,1454,1,0,UEFA Euro qualification,Sofia,Bulgaria,False,No,Win,68.0,84.0,67.5,64.0,70.8,77.2,74.3,77.0
-2019-11-17,Luxembourg,Portugal,Europe,Europe,96,6,1248,1632,0,2,UEFA Euro qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,85.0,66.0,84.3,65.0,83.0,84.3,85.0
+2019-11-17,Luxembourg,Portugal,Europe,Europe,96,6,1248,1632,0,2,UEFA Euro qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,85.0,66.0,0.0,65.0,83.0,84.3,85.0
 2019-11-17,Serbia,Ukraine,Europe,Europe,33,22,1485,1536,2,2,UEFA Euro qualification,Belgrade,Serbia,False,No,Draw,80.0,77.0,79.2,81.7,82.2,76.0,77.3,80.0
 2019-11-17,Albania,France,Europe,Europe,65,2,1367,1726,0,2,UEFA Euro qualification,Tirana,Albania,False,No,Lose,82.0,88.0,74.2,70.0,71.2,85.8,85.7,88.8
 2019-11-17,Moldova,Iceland,Europe,Europe,175,40,963,1460,1,2,UEFA Euro qualification,Chișinău,Moldova,False,No,Lose,70.0,70.0,66.8,61.1,63.5,72.8,74.3,76.2
 2019-11-17,Lithuania,New Zealand,Europe,Oceania,132,121,1086,1157,1,0,Friendly,Vilnius,Lithuania,False,No,Win,73.0,67.0,65.5,66.2,62.5,69.5,72.3,67.5
 2019-11-18,Gambia,Congo DR,Africa,Africa,166,54,990,1399,2,2,African Cup of Nations qualification,Bakau,Gambia,False,No,Draw,66.5,66.0,69.0,70.0,68.0,75.0,78.3,73.0
-2019-11-18,Comoros,Egypt,Africa,Africa,142,49,1067,1433,0,0,African Cup of Nations qualification,Moroni,Comoros,False,No,Draw,70.0,73.0,63.8,82.0,67.2,72.0,80.0,73.5
+2019-11-18,Comoros,Egypt,Africa,Africa,142,49,1067,1433,0,0,African Cup of Nations qualification,Moroni,Comoros,False,No,Draw,70.0,73.0,63.8,0.0,67.2,72.0,80.0,73.5
 2019-11-18,Republic of Ireland,Denmark,Europe,Europe,36,14,1480,1599,1,1,UEFA Euro qualification,Dublin,Republic of Ireland,False,No,Draw,75.0,83.0,77.5,74.3,74.5,80.0,77.7,81.2
 2019-11-18,Spain,Romania,Europe,Europe,8,29,1625,1495,5,0,UEFA Euro qualification,Madrid,Spain,False,No,Win,89.0,79.0,87.2,84.7,87.5,75.2,74.7,75.0
 2019-11-18,Greece,Finland,Europe,Europe,58,55,1388,1395,2,1,UEFA Euro qualification,Athens,Greece,False,No,Win,80.0,83.0,80.8,73.3,76.8,72.5,71.3,73.0
@@ -5048,7 +5048,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2020-09-08,Denmark,England,Europe,Europe,16,4,1598,1661,0,0,UEFA Nations League,Copenhagen,Denmark,False,No,Draw,84.0,82.0,79.0,77.7,80.5,84.5,87.7,83.8
 2020-09-08,France,Croatia,Europe,Europe,2,6,1733,1642,4,2,UEFA Nations League,Paris,France,False,No,Win,87.0,80.0,85.5,86.7,87.0,78.8,78.7,84.0
 2020-09-08,Sweden,Portugal,Europe,Europe,17,7,1579,1639,0,2,UEFA Nations League,Stockholm,Sweden,False,No,Lose,78.0,84.0,76.5,79.3,76.8,83.8,84.3,85.2
-2020-09-08,Luxembourg,Montenegro,Europe,Europe,98,64,1236,1365,0,1,UEFA Nations League,Luxembourg City,Luxembourg,False,No,Lose,67.1,65.0,68.2,85.7,66.0,73.2,72.7,72.0
+2020-09-08,Luxembourg,Montenegro,Europe,Europe,98,64,1236,1365,0,1,UEFA Nations League,Luxembourg City,Luxembourg,False,No,Lose,67.1,65.0,68.2,0.0,66.0,73.2,72.7,72.0
 2020-09-08,Georgia,North Macedonia,Europe,Europe,91,68,1267,1347,1,1,UEFA Nations League,Tbilisi,Georgia,False,No,Draw,76.0,71.0,68.0,67.5,72.0,67.8,72.7,75.0
 2020-10-07,Austria,Greece,Europe,Europe,27,53,1505,1413,2,1,Friendly,Klagenfurt,Austria,False,No,Win,75.0,81.0,77.5,76.7,82.0,78.2,72.7,76.2
 2020-10-07,France,Ukraine,Europe,Europe,2,24,1744,1539,7,1,Friendly,Paris,France,False,No,Win,87.0,76.0,85.5,86.7,87.0,76.0,77.0,79.8
@@ -5102,7 +5102,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2020-10-11,Gabon,Benin,Africa,Africa,83,84,1297,1295,0,2,Friendly,Lisbon,Portugal,True,No,Lose,67.1,70.0,70.2,70.3,75.5,68.2,69.0,68.5
 2020-10-13,Germany,Switzerland,Europe,Europe,14,15,1602,1600,3,3,UEFA Nations League,Cologne,Germany,False,No,Draw,90.0,86.0,83.5,85.0,86.8,78.2,75.0,80.5
 2020-10-13,Ukraine,Spain,Europe,Europe,24,7,1539,1642,1,0,UEFA Nations League,Kyiv,Ukraine,False,No,Win,76.0,86.0,76.0,77.0,79.8,86.8,83.7,85.8
-2020-10-13,Montenegro,Luxembourg,Europe,Europe,63,97,1376,1237,1,2,UEFA Nations League,Podgorica,Montenegro,False,No,Lose,65.0,67.1,73.2,72.7,72.0,68.2,84.3,66.0
+2020-10-13,Montenegro,Luxembourg,Europe,Europe,63,97,1376,1237,1,2,UEFA Nations League,Podgorica,Montenegro,False,No,Lose,65.0,67.1,73.2,72.7,72.0,68.2,0.0,66.0
 2020-10-13,Costa Rica,Panama,North America,North America,46,81,1439,1305,0,1,Friendly,San José,Costa Rica,False,No,Lose,87.0,76.0,71.0,68.7,68.5,68.0,67.5,66.0
 2020-10-13,Japan,Côte d'Ivoire,Asia,Africa,28,60,1500,1378,1,0,Friendly,Utrecht,Netherlands,True,No,Win,72.0,69.0,75.5,75.7,76.8,77.8,81.0,77.2
 2020-10-13,Mexico,Algeria,North America,Africa,11,35,1621,1482,2,2,Friendly,The Hague,Netherlands,True,No,Draw,79.0,76.0,76.8,83.7,78.2,79.0,80.3,76.2
@@ -5136,7 +5136,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2020-11-11,Denmark,Sweden,Europe,Europe,13,19,1610,1558,2,0,Friendly,Brondbyvester,Denmark,False,No,Win,84.0,78.0,79.0,77.7,80.5,76.5,79.3,76.8
 2020-11-11,France,Finland,Europe,Europe,2,55,1752,1402,0,2,Friendly,Paris,France,False,No,Lose,87.0,83.0,85.5,86.7,87.0,71.2,71.3,72.0
 2020-11-11,Germany,Czech Republic,Europe,Europe,14,45,1607,1446,1,0,Friendly,Leipzig,Germany,False,No,Win,90.0,82.0,83.5,85.0,86.8,78.5,75.3,77.2
-2020-11-11,Luxembourg,Austria,Europe,Europe,95,25,1247,1523,0,3,Friendly,Luxembourg City,Luxembourg,False,No,Lose,67.1,75.0,68.2,84.3,66.0,77.5,76.7,82.0
+2020-11-11,Luxembourg,Austria,Europe,Europe,95,25,1247,1523,0,3,Friendly,Luxembourg City,Luxembourg,False,No,Lose,67.1,75.0,68.2,0.0,66.0,77.5,76.7,82.0
 2020-11-11,Netherlands,Spain,Europe,Europe,15,6,1596,1639,1,1,Friendly,Amsterdam,Netherlands,False,No,Draw,81.0,86.0,85.2,82.3,84.0,86.8,83.7,85.8
 2020-11-11,Poland,Ukraine,Europe,Europe,18,23,1568,1539,2,0,Friendly,Chorzów,Poland,False,No,Win,87.0,76.0,77.0,83.3,77.5,76.0,77.0,79.8
 2020-11-11,Turkey,Croatia,Europe,Europe,33,9,1486,1634,3,3,Friendly,Istanbul,Turkey,False,No,Draw,77.0,80.0,77.5,77.0,77.0,78.8,78.7,84.0
@@ -5209,7 +5209,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-03-24,Turkey,Netherlands,Europe,Europe,32,14,1487,1609,4,2,FIFA World Cup qualification,Istanbul,Turkey,False,No,Win,77.0,81.0,77.5,77.0,77.0,85.2,82.3,84.0
 2021-03-24,Slovenia,Croatia,Europe,Europe,62,11,1379,1617,1,0,FIFA World Cup qualification,Ljubljana,Slovenia,False,No,Win,91.0,80.0,72.0,78.3,76.5,78.8,78.7,84.0
 2021-03-24,Guinea,Mali,Africa,Africa,72,54,1334,1412,1,0,African Cup of Nations qualification,Clermont-Ferrand,France,True,No,Win,66.0,74.0,70.0,71.7,76.5,76.2,73.7,75.2
-2021-03-24,Uganda,Burkina Faso,Africa,Africa,83,58,1301,1391,0,0,African Cup of Nations qualification,Kampala,Uganda,False,No,Draw,89.0,75.0,62.5,88.0,63.5,70.8,70.7,67.2
+2021-03-24,Uganda,Burkina Faso,Africa,Africa,83,58,1301,1391,0,0,African Cup of Nations qualification,Kampala,Uganda,False,No,Draw,0.0,75.0,62.5,0.0,63.5,70.8,70.7,67.2
 2021-03-25,Japan,Korea Republic,Asia,Asia,27,38,1502,1465,3,0,Friendly,Yokohama,Japan,False,No,Win,72.0,75.0,75.5,75.7,76.8,72.5,75.7,77.0
 2021-03-25,USA,Jamaica,North America,North America,22,47,1548,1437,4,1,Friendly,Wiener Neustadt,Austria,True,No,Win,76.0,75.0,75.5,76.7,75.2,71.5,71.0,69.0
 2021-03-25,Spain,Greece,Europe,Europe,6,53,1645,1413,1,1,FIFA World Cup qualification,Granada,Spain,False,No,Draw,86.0,81.0,86.8,83.7,85.8,78.2,72.7,76.2
@@ -5224,13 +5224,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-03-25,South Africa,Ghana,Africa,Africa,71,52,1341,1424,1,1,African Cup of Nations qualification,Johannesburg,South Africa,False,No,Draw,73.0,67.0,71.0,73.3,72.8,74.8,76.3,78.2
 2021-03-25,Gambia,Angola,Africa,Africa,157,125,1034,1134,1,0,African Cup of Nations qualification,Bakau,Gambia,False,No,Win,66.5,68.0,67.0,70.0,69.2,75.5,70.7,68.5
 2021-03-25,Gabon,Congo DR,Africa,Africa,86,60,1280,1386,3,0,African Cup of Nations qualification,Franceville,Gabon,False,No,Win,67.1,64.0,70.2,70.3,75.5,75.2,77.7,73.0
-2021-03-25,Comoros,Togo,Africa,Africa,130,128,1112,1115,0,0,African Cup of Nations qualification,Moroni,Comoros,False,No,Draw,70.0,58.0,65.2,90.0,70.2,62.6,72.3,70.2
+2021-03-25,Comoros,Togo,Africa,Africa,130,128,1112,1115,0,0,African Cup of Nations qualification,Moroni,Comoros,False,No,Draw,70.0,58.0,65.2,0.0,70.2,62.6,72.3,70.2
 2021-03-26,Chile,Bolivia,South America,South America,17,79,1567,1307,2,1,Friendly,Rancagua,Chile,False,No,Win,77.0,69.0,76.0,75.3,81.0,69.2,66.7,69.5
 2021-03-26,Cabo Verde,Cameroon,Africa,Africa,80,50,1306,1427,3,1,African Cup of Nations qualification,Praia,Cabo Verde,False,No,Win,58.9,84.0,70.8,75.7,73.0,78.2,77.0,75.8
 2021-03-26,Congo,Senegal,Africa,Africa,90,20,1265,1558,0,0,African Cup of Nations qualification,Brazzaville,Congo,False,No,Draw,75.0,79.0,67.7,65.0,70.8,79.2,81.3,79.2
 2021-03-27,Bosnia and Herzegovina,Costa Rica,Europe,North America,56,50,1410,1427,0,0,Friendly,Zenica,Bosnia and Herzegovina,False,No,Draw,75.0,87.0,74.0,76.3,80.0,71.0,68.7,68.5
 2021-03-27,Wales,Mexico,Europe,North America,18,9,1562,1632,1,0,Friendly,Cardiff,Wales,False,No,Win,75.0,79.0,75.2,70.0,79.8,76.8,83.7,78.2
-2021-03-27,Republic of Ireland,Luxembourg,Europe,Europe,42,98,1456,1235,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,No,Lose,75.0,67.1,79.0,73.3,75.2,68.2,85.7,66.0
+2021-03-27,Republic of Ireland,Luxembourg,Europe,Europe,42,98,1456,1235,0,1,FIFA World Cup qualification,Dublin,Republic of Ireland,False,No,Lose,75.0,67.1,79.0,73.3,75.2,68.2,0.0,66.0
 2021-03-27,Serbia,Portugal,Europe,Europe,30,5,1492,1662,2,2,FIFA World Cup qualification,Belgrade,Serbia,False,No,Draw,81.0,84.0,79.0,80.0,82.0,83.8,84.3,85.2
 2021-03-27,Czech Republic,Belgium,Europe,Europe,42,1,1456,1780,1,1,FIFA World Cup qualification,Prague,Czech Republic,False,No,Draw,82.0,89.0,78.5,75.3,77.2,81.0,86.0,85.2
 2021-03-27,Norway,Turkey,Europe,Europe,44,32,1450,1487,0,3,FIFA World Cup qualification,Málaga,Spain,True,No,Lose,77.0,77.0,75.2,79.3,79.0,77.5,77.0,77.0
@@ -5250,10 +5250,10 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-03-29,Ecuador,Bolivia,South America,South America,57,79,1409,1307,2,1,Friendly,Guayaquil,Ecuador,False,No,Win,74.0,69.0,76.8,78.0,75.5,69.2,66.7,69.5
 2021-03-29,Angola,Gabon,Africa,Africa,125,86,1134,1280,2,0,African Cup of Nations qualification,Luanda,Angola,False,No,Win,68.0,67.1,75.5,70.7,68.5,70.2,70.3,75.5
 2021-03-29,Congo DR,Gambia,Africa,Africa,60,157,1386,1034,1,0,African Cup of Nations qualification,Kinshasa,Congo DR,False,No,Win,64.0,66.5,75.2,77.7,73.0,67.0,70.0,69.2
-2021-03-29,Egypt,Comoros,Africa,Africa,49,130,1432,1112,4,0,African Cup of Nations qualification,Cairo,Egypt,False,No,Win,73.0,70.0,71.0,79.3,74.0,65.2,90.0,70.2
+2021-03-29,Egypt,Comoros,Africa,Africa,49,130,1432,1112,4,0,African Cup of Nations qualification,Cairo,Egypt,False,No,Win,73.0,70.0,71.0,79.3,74.0,65.2,0.0,70.2
 2021-03-29,United Arab Emirates,India,Asia,Asia,74,104,1326,1187,6,0,Friendly,Dubai,United Arab Emirates,False,No,Win,71.0,64.0,65.2,64.3,68.0,61.2,60.3,60.8
 2021-03-30,Costa Rica,Mexico,North America,North America,50,9,1427,1632,0,1,Friendly,Wiener Neustadt,Austria,True,No,Lose,87.0,79.0,71.0,68.7,68.5,76.8,83.7,78.2
-2021-03-30,Luxembourg,Portugal,Europe,Europe,98,5,1235,1662,1,3,FIFA World Cup qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,84.0,68.2,85.7,66.0,83.8,84.3,85.2
+2021-03-30,Luxembourg,Portugal,Europe,Europe,98,5,1235,1662,1,3,FIFA World Cup qualification,Luxembourg City,Luxembourg,False,No,Lose,67.1,84.0,68.2,0.0,66.0,83.8,84.3,85.2
 2021-03-30,Wales,Czech Republic,Europe,Europe,18,42,1562,1456,1,0,FIFA World Cup qualification,Cardiff,Wales,False,No,Win,75.0,82.0,75.2,70.0,79.8,78.5,75.3,77.2
 2021-03-30,Montenegro,Norway,Europe,Europe,63,44,1370,1450,0,1,FIFA World Cup qualification,Podgorica,Montenegro,False,No,Lose,65.0,77.0,73.2,72.7,72.0,75.2,79.3,79.0
 2021-03-30,Slovakia,Russia,Europe,Europe,34,39,1478,1461,2,1,FIFA World Cup qualification,Trnava,Slovakia,False,No,Win,83.0,80.0,77.8,67.7,77.8,77.5,77.7,78.2
@@ -5279,7 +5279,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-06-02,France,Wales,Europe,Europe,2,17,1757,1570,3,0,Friendly,Nice,France,False,No,Win,87.0,75.0,85.5,86.7,87.0,75.2,70.0,79.8
 2021-06-02,Germany,Denmark,Europe,Europe,12,10,1609,1631,1,1,Friendly,Innsbruck,Austria,True,No,Draw,90.0,84.0,83.5,85.0,86.8,79.0,77.7,80.5
 2021-06-02,Netherlands,Scotland,Europe,Europe,16,44,1598,1441,2,2,Friendly,São João da Venda,Portugal,True,No,Draw,81.0,74.0,85.2,82.3,84.0,77.8,73.7,78.0
-2021-06-02,Norway,Luxembourg,Europe,Europe,42,96,1452,1244,1,0,Friendly,Málaga,Spain,True,No,Win,77.0,67.1,75.2,79.3,79.0,68.2,84.3,66.0
+2021-06-02,Norway,Luxembourg,Europe,Europe,42,96,1452,1244,1,0,Friendly,Málaga,Spain,True,No,Win,77.0,67.1,75.2,79.3,79.0,68.2,0.0,66.0
 2021-06-02,Romania,Georgia,Europe,Europe,43,91,1449,1259,1,2,Friendly,Ploiești,Romania,False,No,Lose,78.0,76.0,73.8,74.3,74.8,68.0,67.5,72.0
 2021-06-03,Belgium,Greece,Europe,Europe,1,51,1783,1418,1,1,Friendly,Brussels,Belgium,False,No,Draw,89.0,81.0,81.0,86.0,85.2,78.2,72.7,76.2
 2021-06-03,Turkey,Moldova,Europe,Europe,29,177,1505,948,2,0,Friendly,Paderborn,Germany,True,No,Win,77.0,69.0,77.5,77.0,77.0,66.5,62.3,64.2
@@ -5305,7 +5305,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-06-06,Belgium,Croatia,Europe,Europe,1,14,1783,1605,1,0,Friendly,Brussels,Belgium,False,No,Win,89.0,80.0,81.0,86.0,85.2,78.8,78.7,84.0
 2021-06-06,Denmark,Bosnia and Herzegovina,Europe,Europe,10,55,1631,1404,2,0,Friendly,Brondbyvester,Denmark,False,No,Win,84.0,75.0,79.0,77.7,80.5,74.0,76.3,80.0
 2021-06-06,England,Romania,Europe,Europe,4,43,1686,1449,1,0,Friendly,London,England,False,No,Win,82.0,78.0,84.5,87.7,83.8,73.8,74.3,74.8
-2021-06-06,Luxembourg,Scotland,Europe,Europe,96,44,1244,1441,0,1,Friendly,Luxembourg City,Luxembourg,False,No,Lose,67.1,74.0,68.2,84.3,66.0,77.8,73.7,78.0
+2021-06-06,Luxembourg,Scotland,Europe,Europe,96,44,1244,1441,0,1,Friendly,Luxembourg City,Luxembourg,False,No,Lose,67.1,74.0,68.2,0.0,66.0,77.8,73.7,78.0
 2021-06-06,Netherlands,Georgia,Europe,Europe,16,91,1598,1259,3,0,Friendly,Enschede,Netherlands,False,No,Win,81.0,76.0,85.2,82.3,84.0,68.0,67.5,72.0
 2021-06-06,Norway,Greece,Europe,Europe,42,51,1452,1418,1,2,Friendly,Málaga,Spain,True,No,Lose,77.0,81.0,75.2,79.3,79.0,78.2,72.7,76.2
 2021-06-06,Honduras,Costa Rica,North America,North America,67,50,1361,1423,2,2,CONCACAF Nations League,Denver,USA,True,Yes,Win,61.0,87.0,68.8,72.0,70.5,71.0,68.7,68.5
@@ -5328,7 +5328,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-06-08,Chile,Bolivia,South America,South America,19,81,1569,1300,1,1,FIFA World Cup qualification,Santiago,Chile,False,No,Draw,77.0,69.0,76.0,75.3,81.0,69.2,66.7,69.5
 2021-06-09,Portugal,Israel,Europe,Europe,5,85,1666,1283,4,0,Friendly,Lisbon,Portugal,False,No,Win,84.0,68.0,83.8,84.3,85.2,66.4,78.3,69.8
 2021-06-09,USA,Costa Rica,North America,North America,20,50,1555,1423,4,0,Friendly,Sandy,USA,False,No,Win,76.0,87.0,75.5,76.7,75.2,71.0,68.7,68.5
-2021-06-10,South Africa,Uganda,Africa,Africa,75,84,1325,1286,3,2,Friendly,Johannesburg,South Africa,False,No,Win,73.0,88.0,71.0,73.3,72.8,62.5,84.3,63.5
+2021-06-10,South Africa,Uganda,Africa,Africa,75,84,1325,1286,3,2,Friendly,Johannesburg,South Africa,False,No,Win,73.0,0.0,71.0,73.3,72.8,62.5,0.0,63.5
 2021-06-11,Japan,Serbia,Asia,Europe,28,25,1509,1512,1,0,Kirin Challenge Cup,Kobe,Japan,False,No,Win,72.0,81.0,75.5,75.7,76.8,79.0,80.0,82.0
 2021-06-11,Congo DR,Mali,Africa,Africa,61,57,1376,1400,1,1,Friendly,Radès,Tunisia,True,No,Draw,64.0,74.0,75.2,77.7,73.0,76.2,73.7,75.2
 2021-06-11,Kosovo,Gambia,Europe,Africa,120,152,1151,1043,1,0,Friendly,Antalya,Turkey,True,No,Win,69.0,66.5,71.8,75.0,72.8,67.0,70.0,69.2
@@ -5418,7 +5418,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-07-09,Peru,Colombia,South America,South America,27,15,1511,1600,2,3,Copa América,Brasília,Brazil,True,No,Lose,73.0,79.0,72.2,72.0,75.2,79.8,81.3,79.5
 2021-07-10,Brazil,Argentina,South America,South America,3,8,1742,1641,0,1,Copa América,Rio de Janeiro,Brazil,False,No,Lose,90.0,82.0,84.8,87.3,86.0,80.0,90.0,82.5
 2021-07-11,England,Italy,Europe,Europe,4,7,1686,1642,1,1,UEFA Euro,London,England,False,Yes,Lose,82.0,85.0,84.5,87.7,83.8,84.5,84.3,82.5
-2021-07-13,Senegal,Zimbabwe,Africa,Africa,22,107,1542,1175,2,1,COSAFA Cup,Port Elizabeth,South Africa,True,No,Win,79.0,86.0,79.2,81.3,79.2,62.7,67.7,72.8
+2021-07-13,Senegal,Zimbabwe,Africa,Africa,22,107,1542,1175,2,1,COSAFA Cup,Port Elizabeth,South Africa,True,No,Win,79.0,0.0,79.2,81.3,79.2,62.7,67.7,72.8
 2021-07-18,South Africa,Senegal,Africa,Africa,75,22,1325,1542,0,0,COSAFA Cup,Port Elizabeth,South Africa,False,Yes,Win,73.0,79.0,71.0,73.3,72.8,79.2,81.3,79.2
 2021-07-18,USA,Canada,North America,North America,20,70,1555,1340,1,0,Gold Cup,Kansas City,USA,False,No,Win,76.0,75.0,75.5,76.7,75.2,71.2,70.7,74.2
 2021-07-20,Costa Rica,Jamaica,North America,North America,50,45,1423,1432,1,0,Gold Cup,Orlando,USA,True,No,Win,87.0,75.0,71.0,68.7,68.5,71.5,71.0,69.0
@@ -5445,7 +5445,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-09-02,Hungary,England,Europe,Europe,37,4,1474,1752,0,4,FIFA World Cup qualification,Budapest,Hungary,False,No,Lose,85.0,83.0,75.5,72.7,73.0,85.0,88.0,84.0
 2021-09-02,Poland,Albania,Europe,Europe,27,69,1516,1359,4,1,FIFA World Cup qualification,Warsaw,Poland,False,No,Win,87.0,80.0,75.2,84.7,75.8,76.2,70.0,73.0
 2021-09-02,Iceland,Romania,Europe,Europe,53,45,1418,1439,0,2,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Lose,70.0,77.0,71.8,71.3,74.2,73.5,73.7,75.0
-2021-09-02,North Macedonia,Armenia,Europe,Europe,72,88,1342,1273,0,0,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Draw,75.0,52.0,68.8,72.7,74.5,84.8,69.7,73.6
+2021-09-02,North Macedonia,Armenia,Europe,Europe,72,88,1342,1273,0,0,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Draw,75.0,52.0,68.8,72.7,74.5,0.0,69.7,73.6
 2021-09-02,Bolivia,Colombia,South America,South America,82,15,1285,1617,1,1,FIFA World Cup qualification,La Paz,Bolivia,False,No,Draw,70.0,79.0,68.8,68.3,68.8,78.8,81.0,80.8
 2021-09-02,Ecuador,Paraguay,South America,South America,55,33,1405,1483,2,0,FIFA World Cup qualification,Quito,Ecuador,False,No,Win,71.0,72.0,73.5,76.0,74.5,74.2,74.3,76.2
 2021-09-02,Peru,Uruguay,South America,South America,22,13,1543,1634,1,1,FIFA World Cup qualification,Lima,Peru,False,No,Draw,74.0,80.0,74.5,73.0,76.8,81.2,84.3,80.0
@@ -5454,8 +5454,8 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-09-02,Canada,Honduras,North America,North America,59,63,1399,1377,1,1,FIFA World Cup qualification,Toronto,Canada,False,No,Draw,76.0,61.0,69.2,73.0,78.0,71.0,69.0,70.0
 2021-09-02,Panama,Costa Rica,North America,North America,74,44,1334,1449,0,0,FIFA World Cup qualification,Panama City,Panama,False,No,Draw,75.0,88.0,69.8,70.7,67.5,71.5,70.3,69.2
 2021-09-02,Mexico,Jamaica,North America,North America,9,50,1658,1423,2,1,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,80.0,76.0,76.8,82.7,78.2,71.8,78.3,69.0
-2021-09-03,Zimbabwe,South Africa,Africa,Africa,108,73,1171,1337,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Draw,90.0,71.0,65.0,72.3,65.9,69.8,70.7,72.0
-2021-09-04,Serbia,Luxembourg,Europe,Europe,29,96,1507,1238,4,1,FIFA World Cup qualification,Belgrade,Serbia,False,No,Win,80.0,69.0,75.8,80.3,81.8,68.5,84.3,69.8
+2021-09-03,Zimbabwe,South Africa,Africa,Africa,108,73,1171,1337,0,0,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Draw,0.0,71.0,65.0,72.3,65.9,69.8,70.7,72.0
+2021-09-04,Serbia,Luxembourg,Europe,Europe,29,96,1507,1238,4,1,FIFA World Cup qualification,Belgrade,Serbia,False,No,Win,80.0,69.0,75.8,80.3,81.8,68.5,0.0,69.8
 2021-09-04,Ukraine,France,Europe,Europe,25,3,1522,1761,1,1,FIFA World Cup qualification,Kyiv,Ukraine,False,No,Draw,75.0,87.0,74.8,78.7,80.0,84.2,88.3,86.8
 2021-09-04,Israel,Austria,Europe,Europe,81,23,1288,1535,5,2,FIFA World Cup qualification,Haifa,Israel,False,No,Win,70.0,74.0,66.4,77.7,72.5,80.2,77.0,80.8
 2021-09-04,Netherlands,Montenegro,Europe,Europe,12,67,1637,1363,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,False,No,Win,81.0,65.0,85.2,83.0,83.5,76.2,74.7,68.2
@@ -5467,7 +5467,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-09-05,Belgium,Czech Republic,Europe,Europe,1,31,1822,1492,3,0,FIFA World Cup qualification,Brussels,Belgium,False,No,Win,89.0,81.0,80.8,85.7,85.5,77.8,76.7,78.5
 2021-09-05,Albania,Hungary,Europe,Europe,69,37,1359,1474,1,0,FIFA World Cup qualification,Elbasan,Albania,False,No,Win,80.0,85.0,76.2,70.0,73.0,75.5,72.7,73.0
 2021-09-05,Iceland,North Macedonia,Europe,Europe,53,72,1418,1342,2,2,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Draw,70.0,75.0,71.8,71.3,74.2,68.8,72.7,74.5
-2021-09-05,Germany,Armenia,Europe,Europe,16,88,1613,1273,6,0,FIFA World Cup qualification,Stuttgart,Germany,False,No,Win,90.0,52.0,84.0,82.7,87.8,84.8,69.7,73.6
+2021-09-05,Germany,Armenia,Europe,Europe,16,88,1613,1273,6,0,FIFA World Cup qualification,Stuttgart,Germany,False,No,Win,90.0,52.0,84.0,82.7,87.8,0.0,69.7,73.6
 2021-09-05,Ecuador,Chile,South America,South America,55,20,1405,1557,0,0,FIFA World Cup qualification,Quito,Ecuador,False,No,Draw,71.0,79.0,73.5,76.0,74.5,75.5,76.7,78.2
 2021-09-05,Paraguay,Colombia,South America,South America,33,15,1483,1617,1,1,FIFA World Cup qualification,Asunción,Paraguay,False,No,Draw,72.0,79.0,74.2,74.3,76.2,78.8,81.0,80.8
 2021-09-05,Uruguay,Bolivia,South America,South America,13,82,1634,1285,4,2,FIFA World Cup qualification,Montevideo,Uruguay,False,No,Win,80.0,70.0,81.2,84.3,80.0,68.8,68.3,68.8
@@ -5512,7 +5512,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-10-07,Honduras,Costa Rica,North America,North America,63,44,1371,1438,0,0,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Draw,61.0,88.0,71.0,69.0,70.0,71.5,70.3,69.2
 2021-10-07,USA,Jamaica,North America,North America,13,59,1643,1402,2,0,FIFA World Cup qualification,Austin,USA,False,No,Win,77.0,76.0,75.8,77.7,75.8,71.8,78.3,69.0
 2021-10-07,Mexico,Canada,North America,North America,9,51,1666,1416,1,1,FIFA World Cup qualification,Mexico City,Mexico,False,No,Draw,80.0,76.0,76.8,82.7,78.2,69.2,73.0,78.0
-2021-10-07,Congo DR,Madagascar,Africa,Africa,67,100,1365,1211,2,0,FIFA World Cup qualification,Kinshasa,Congo DR,False,No,Win,63.0,86.0,76.0,76.7,74.0,70.5,85.7,67.5
+2021-10-07,Congo DR,Madagascar,Africa,Africa,67,100,1365,1211,2,0,FIFA World Cup qualification,Kinshasa,Congo DR,False,No,Win,63.0,0.0,76.0,76.7,74.0,70.5,0.0,67.5
 2021-10-07,Ecuador,Bolivia,South America,South America,52,83,1415,1283,3,0,FIFA World Cup qualification,Guayaquil,Ecuador,False,No,Win,71.0,70.0,73.5,76.0,74.5,68.8,68.3,68.8
 2021-10-07,Venezuela,Brazil,South America,South America,49,2,1434,1811,1,3,FIFA World Cup qualification,Caracas,Venezuela,False,No,Lose,73.0,89.0,72.8,76.3,77.8,84.8,86.3,85.5
 2021-10-07,Paraguay,Argentina,South America,South America,35,6,1484,1725,0,0,FIFA World Cup qualification,Asunción,Paraguay,False,No,Draw,72.0,84.0,74.2,74.3,76.2,82.2,89.0,84.0
@@ -5523,22 +5523,22 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-10-08,Turkey,Norway,Europe,Europe,41,39,1455,1461,1,1,FIFA World Cup qualification,Istanbul,Turkey,False,No,Draw,79.0,76.0,78.2,76.7,78.2,75.0,79.7,78.0
 2021-10-08,Cyprus,Croatia,Europe,Europe,103,17,1202,1608,0,3,FIFA World Cup qualification,Larnaca,Cyprus,False,No,Lose,64.0,82.0,65.5,59.7,65.8,77.8,76.7,84.2
 2021-10-08,Russia,Slovakia,Europe,Europe,37,38,1475,1462,1,0,FIFA World Cup qualification,Kazan,Russia,False,No,Win,80.0,81.0,76.8,76.3,78.0,77.2,70.7,77.2
-2021-10-08,Iceland,Armenia,Europe,Europe,60,89,1397,1262,1,1,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Draw,70.0,52.0,71.8,71.3,74.2,84.8,69.7,73.6
+2021-10-08,Iceland,Armenia,Europe,Europe,60,89,1397,1262,1,1,FIFA World Cup qualification,Reykjavík,Iceland,False,No,Draw,70.0,52.0,71.8,71.3,74.2,0.0,69.7,73.6
 2021-10-08,Germany,Romania,Europe,Europe,14,42,1627,1451,2,1,FIFA World Cup qualification,Hamburg,Germany,False,No,Win,90.0,77.0,84.0,82.7,87.8,73.5,73.7,75.0
-2021-10-09,Luxembourg,Serbia,Europe,Europe,94,28,1244,1515,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,69.0,80.0,68.5,84.3,69.8,75.8,80.3,81.8
+2021-10-09,Luxembourg,Serbia,Europe,Europe,94,28,1244,1515,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,69.0,80.0,68.5,0.0,69.8,75.8,80.3,81.8
 2021-10-09,Sweden,Kosovo,Europe,Europe,18,109,1606,1176,3,0,FIFA World Cup qualification,Stockholm,Sweden,False,No,Win,76.0,68.0,76.2,82.3,77.5,72.8,71.0,74.5
 2021-10-09,Georgia,Greece,Europe,Europe,96,46,1240,1435,0,2,FIFA World Cup qualification,Batumi,Georgia,False,No,Lose,75.0,81.0,68.5,68.0,70.8,77.0,72.7,77.2
 2021-10-09,Switzerland,Northern Ireland,Europe,Europe,15,47,1622,1435,2,0,FIFA World Cup qualification,Geneva,Switzerland,False,No,Win,85.0,72.0,78.5,76.7,79.5,73.0,67.7,74.2
 2021-10-09,Finland,Ukraine,Europe,Europe,55,27,1406,1520,1,2,FIFA World Cup qualification,Helsinki,Finland,False,No,Lose,83.0,75.0,70.0,72.3,73.5,74.8,78.7,80.0
 2021-10-09,Scotland,Israel,Europe,Europe,45,80,1435,1310,3,2,FIFA World Cup qualification,Glasgow,Scotland,False,No,Win,77.0,70.0,79.2,74.0,77.5,66.4,77.7,72.5
 2021-10-09,Hungary,Albania,Europe,Europe,40,66,1456,1368,0,1,FIFA World Cup qualification,Budapest,Hungary,False,No,Lose,85.0,80.0,75.5,72.7,73.0,76.2,70.0,73.0
-2021-10-09,Ghana,Zimbabwe,Africa,Africa,53,113,1411,1160,3,1,FIFA World Cup qualification,Cape Coast,Ghana,False,No,Win,74.0,90.0,75.5,76.0,78.2,65.0,72.3,65.9
+2021-10-09,Ghana,Zimbabwe,Africa,Africa,53,113,1411,1160,3,1,FIFA World Cup qualification,Cape Coast,Ghana,False,No,Win,74.0,0.0,75.5,76.0,78.2,65.0,72.3,65.9
 2021-10-09,Curaçao,New Zealand,North America,Oceania,79,121,1310,1149,1,2,Friendly,Riffa,Bahrain,True,No,Lose,74.0,68.0,65.8,67.7,69.5,70.2,70.7,69.2
 2021-10-09,Morocco,Guinea-Bissau,Africa,Africa,33,105,1493,1186,3,0,FIFA World Cup qualification,Casablanca,Morocco,False,No,Win,82.0,58.0,81.2,81.7,76.2,65.5,69.0,72.5
 2021-10-10,Jamaica,Canada,North America,North America,59,51,1402,1416,0,0,FIFA World Cup qualification,Kingston,Jamaica,False,No,Draw,76.0,76.0,71.8,78.3,69.0,69.2,73.0,78.0
 2021-10-10,Panama,USA,North America,North America,68,13,1358,1643,1,0,FIFA World Cup qualification,Panama City,Panama,False,No,Win,75.0,77.0,69.8,70.7,67.5,75.8,77.7,75.8
 2021-10-10,Mexico,Honduras,North America,North America,9,63,1666,1371,3,0,FIFA World Cup qualification,Mexico City,Mexico,False,No,Win,80.0,61.0,76.8,82.7,78.2,71.0,69.0,70.0
-2021-10-10,Madagascar,Congo DR,Africa,Africa,100,67,1211,1365,1,0,FIFA World Cup qualification,Antananarivo,Madagascar,False,No,Win,86.0,63.0,70.5,85.7,67.5,76.0,76.7,74.0
+2021-10-10,Madagascar,Congo DR,Africa,Africa,100,67,1211,1365,1,0,FIFA World Cup qualification,Antananarivo,Madagascar,False,No,Win,0.0,63.0,70.5,0.0,67.5,76.0,76.7,74.0
 2021-10-10,Bolivia,Peru,South America,South America,83,21,1283,1548,1,0,FIFA World Cup qualification,La Paz,Bolivia,False,No,Win,70.0,74.0,68.8,68.3,68.8,74.5,73.0,76.8
 2021-10-10,Colombia,Brazil,South America,South America,16,2,1618,1811,0,0,FIFA World Cup qualification,Barranquilla,Colombia,False,No,Draw,79.0,89.0,78.8,81.0,80.8,84.8,86.3,85.5
 2021-10-10,Venezuela,Ecuador,South America,South America,49,52,1434,1415,2,1,FIFA World Cup qualification,Caracas,Venezuela,False,No,Win,73.0,71.0,72.8,76.3,77.8,73.5,76.0,74.5
@@ -5550,11 +5550,11 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-10-11,Croatia,Slovakia,Europe,Europe,17,38,1608,1462,2,2,FIFA World Cup qualification,Osijek,Croatia,False,No,Draw,82.0,81.0,77.8,76.7,84.2,77.2,70.7,77.2
 2021-10-11,Slovenia,Russia,Europe,Europe,64,37,1370,1475,1,2,FIFA World Cup qualification,Maribor,Slovenia,False,No,Lose,91.0,80.0,73.0,77.0,76.2,76.8,76.3,78.0
 2021-10-11,North Macedonia,Germany,Europe,Europe,74,14,1345,1627,0,4,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Lose,75.0,90.0,68.8,72.7,74.5,84.0,82.7,87.8
-2021-10-11,Romania,Armenia,Europe,Europe,42,89,1451,1262,1,0,FIFA World Cup qualification,Bucharest,Romania,False,No,Win,77.0,52.0,73.5,73.7,75.0,84.8,69.7,73.6
+2021-10-11,Romania,Armenia,Europe,Europe,42,89,1451,1262,1,0,FIFA World Cup qualification,Bucharest,Romania,False,No,Win,77.0,52.0,73.5,73.7,75.0,0.0,69.7,73.6
 2021-10-12,IR Iran,Korea Republic,Asia,Asia,22,36,1538,1479,1,1,FIFA World Cup qualification,Tehran,IR Iran,False,No,Draw,73.0,75.0,69.0,75.3,69.0,73.0,80.0,73.8
 2021-10-12,Japan,Australia,Asia,Oceania,26,32,1520,1493,2,1,FIFA World Cup qualification,Saitama,Japan,False,No,Win,73.0,77.0,75.2,75.0,77.5,72.0,72.3,73.5
 2021-10-12,Saudi Arabia,China PR,Asia,Asia,56,75,1406,1334,3,2,FIFA World Cup qualification,Jeddah,Saudi Arabia,False,No,Win,70.0,73.0,72.8,67.7,72.8,70.2,77.0,74.5
-2021-10-12,Portugal,Luxembourg,Europe,Europe,7,94,1674,1244,5,0,FIFA World Cup qualification,Faro-Loulé,Portugal,False,No,Win,82.0,69.0,85.2,86.0,84.5,68.5,84.3,69.8
+2021-10-12,Portugal,Luxembourg,Europe,Europe,7,94,1674,1244,5,0,FIFA World Cup qualification,Faro-Loulé,Portugal,False,No,Win,82.0,69.0,85.2,86.0,84.5,68.5,0.0,69.8
 2021-10-12,Kosovo,Georgia,Europe,Europe,109,96,1176,1240,1,2,FIFA World Cup qualification,Pristina,Kosovo,False,No,Lose,68.0,75.0,72.8,71.0,74.5,68.5,68.0,70.8
 2021-10-12,Sweden,Greece,Europe,Europe,18,46,1606,1435,2,0,FIFA World Cup qualification,Stockholm,Sweden,False,No,Win,76.0,81.0,76.2,82.3,77.5,77.0,72.7,77.2
 2021-10-12,Bulgaria,Northern Ireland,Europe,Europe,70,47,1353,1435,2,1,FIFA World Cup qualification,Sofia,Bulgaria,False,No,Win,66.0,72.0,67.2,64.3,64.5,73.0,67.7,74.2
@@ -5562,7 +5562,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-10-12,Denmark,Austria,Europe,Europe,10,29,1658,1504,1,0,FIFA World Cup qualification,Copenhagen,Denmark,False,No,Win,85.0,74.0,80.2,77.7,80.2,80.2,77.0,80.8
 2021-10-12,England,Hungary,Europe,Europe,3,40,1755,1456,1,1,FIFA World Cup qualification,London,England,False,No,Draw,83.0,85.0,85.0,88.0,84.0,75.5,72.7,73.0
 2021-10-12,Albania,Poland,Europe,Europe,66,24,1368,1531,0,1,FIFA World Cup qualification,Tirana,Albania,False,No,Lose,80.0,87.0,76.2,70.0,73.0,75.2,84.7,75.8
-2021-10-12,Zimbabwe,Ghana,Africa,Africa,113,53,1160,1411,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,90.0,74.0,65.0,72.3,65.9,75.5,76.0,78.2
+2021-10-12,Zimbabwe,Ghana,Africa,Africa,113,53,1160,1411,0,1,FIFA World Cup qualification,Harare,Zimbabwe,False,No,Lose,0.0,74.0,65.0,72.3,65.9,75.5,76.0,78.2
 2021-10-12,Morocco,Guinea,Africa,Africa,33,76,1493,1326,4,1,FIFA World Cup qualification,Agadir,Morocco,False,No,Win,82.0,69.0,81.2,81.7,76.2,70.5,73.3,75.0
 2021-10-13,Honduras,Jamaica,North America,North America,63,59,1371,1402,0,2,FIFA World Cup qualification,San Pedro Sula,Honduras,False,No,Lose,61.0,76.0,71.0,69.0,70.0,71.8,78.3,69.0
 2021-10-13,USA,Costa Rica,North America,North America,13,44,1643,1438,2,1,FIFA World Cup qualification,Columbus,USA,False,No,Win,77.0,88.0,75.8,77.7,75.8,71.5,70.3,69.2
@@ -5574,7 +5574,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-10-14,Chile,Venezuela,South America,South America,23,49,1536,1434,3,0,FIFA World Cup qualification,Santiago,Chile,False,No,Win,79.0,73.0,75.5,76.7,78.2,72.8,76.3,77.8
 2021-10-27,Mexico,Ecuador,North America,South America,9,55,1672,1416,2,3,Friendly,Charlotte,USA,True,No,Lose,80.0,71.0,76.8,82.7,78.2,73.5,76.0,74.5
 2021-11-11,Ukraine,Bulgaria,Europe,Europe,26,70,1527,1350,1,1,Friendly,Odessa,Ukraine,False,No,Draw,75.0,66.0,74.8,78.7,80.0,67.2,64.3,64.5
-2021-11-11,South Africa,Zimbabwe,Africa,Africa,66,118,1361,1147,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False,No,Win,71.0,79.0,69.8,70.7,72.0,65.0,72.3,65.9
+2021-11-11,South Africa,Zimbabwe,Africa,Africa,66,118,1361,1147,1,0,FIFA World Cup qualification,Johannesburg,South Africa,False,No,Win,71.0,0.0,69.8,70.7,72.0,65.0,72.3,65.9
 2021-11-11,Togo,Senegal,Africa,Africa,134,20,1110,1564,1,1,FIFA World Cup qualification,Lomé,Togo,False,No,Draw,60.0,83.0,62.6,72.7,68.3,79.0,80.7,79.0
 2021-11-11,Korea Republic,United Arab Emirates,Asia,Asia,35,71,1489,1349,1,0,FIFA World Cup qualification,Goyang,Korea Republic,False,No,Win,75.0,70.0,73.0,80.0,73.8,63.0,64.3,67.0
 2021-11-11,Australia,Saudi Arabia,Oceania,Asia,34,49,1489,1432,0,0,FIFA World Cup qualification,Sydney,Australia,False,No,Draw,77.0,70.0,72.0,72.3,73.5,72.8,67.7,72.8
@@ -5583,7 +5583,7 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-11-11,Greece,Spain,Europe,Europe,47,7,1434,1687,0,1,FIFA World Cup qualification,Athens,Greece,False,No,Lose,81.0,84.0,77.0,72.7,77.2,86.5,85.0,86.0
 2021-11-11,Russia,Cyprus,Europe,Europe,33,103,1497,1192,6,0,FIFA World Cup qualification,Saint Petersburg,Russia,False,No,Win,80.0,64.0,76.8,76.3,78.0,65.5,59.7,65.8
 2021-11-11,Slovakia,Slovenia,Europe,Europe,40,64,1454,1364,2,2,FIFA World Cup qualification,Trnava,Slovakia,False,No,Draw,81.0,91.0,77.2,70.7,77.2,73.0,77.0,76.2
-2021-11-11,Armenia,North Macedonia,Europe,Europe,89,74,1257,1343,0,5,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,52.0,75.0,84.8,69.7,73.6,68.8,72.7,74.5
+2021-11-11,Armenia,North Macedonia,Europe,Europe,89,74,1257,1343,0,5,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,52.0,75.0,0.0,69.7,73.6,68.8,72.7,74.5
 2021-11-11,Romania,Iceland,Europe,Europe,41,62,1451,1397,0,0,FIFA World Cup qualification,Bucharest,Romania,False,No,Draw,77.0,70.0,73.5,73.7,75.0,71.8,71.3,74.2
 2021-11-11,Ecuador,Venezuela,South America,South America,55,50,1416,1431,1,0,FIFA World Cup qualification,Quito,Ecuador,False,No,Win,71.0,73.0,73.5,76.0,74.5,72.8,76.3,77.8
 2021-11-11,Paraguay,Chile,South America,South America,38,21,1461,1546,0,1,FIFA World Cup qualification,Asunción,Paraguay,False,No,Lose,72.0,79.0,74.2,74.3,76.2,75.5,76.7,78.2
@@ -5603,13 +5603,13 @@ date,home_team,away_team,home_team_continent,away_team_continent,home_team_fifa_
 2021-11-14,Senegal,Congo,Africa,Africa,20,97,1564,1228,2,0,FIFA World Cup qualification,Thiès,Senegal,False,No,Win,83.0,73.0,79.0,80.7,79.0,67.7,68.3,66.0
 2021-11-14,Congo DR,Benin,Africa,Africa,67,83,1357,1282,2,0,FIFA World Cup qualification,Kinshasa,Congo DR,False,No,Win,63.0,69.0,76.0,76.7,74.0,68.2,68.0,68.0
 2021-11-14,Portugal,Serbia,Europe,Europe,8,25,1681,1527,1,2,FIFA World Cup qualification,Lisbon,Portugal,False,No,Lose,82.0,80.0,85.2,86.0,84.5,75.8,80.3,81.8
-2021-11-14,Luxembourg,Republic of Ireland,Europe,Europe,94,51,1234,1430,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,69.0,75.0,68.5,84.3,69.8,76.5,72.7,73.8
+2021-11-14,Luxembourg,Republic of Ireland,Europe,Europe,94,51,1234,1430,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,False,No,Lose,69.0,75.0,68.5,0.0,69.8,76.5,72.7,73.8
 2021-11-14,Spain,Sweden,Europe,Europe,7,17,1687,1618,1,0,FIFA World Cup qualification,Seville,Spain,False,No,Win,84.0,76.0,86.5,85.0,86.0,76.2,82.3,77.5
 2021-11-14,Greece,Kosovo,Europe,Europe,47,113,1434,1161,1,1,FIFA World Cup qualification,Athens,Greece,False,No,Draw,81.0,68.0,77.0,72.7,77.2,72.8,71.0,74.5
 2021-11-14,Croatia,Russia,Europe,Europe,18,33,1608,1497,1,0,FIFA World Cup qualification,Split,Croatia,False,No,Win,82.0,80.0,77.8,76.7,84.2,76.8,76.3,78.0
 2021-11-14,Slovenia,Cyprus,Europe,Europe,64,103,1364,1192,2,1,FIFA World Cup qualification,Ljubljana,Slovenia,False,No,Win,91.0,64.0,73.0,77.0,76.2,65.5,59.7,65.8
 2021-11-14,North Macedonia,Iceland,Europe,Europe,74,62,1343,1397,3,1,FIFA World Cup qualification,Skopje,North Macedonia,False,No,Win,75.0,70.0,68.8,72.7,74.5,71.8,71.3,74.2
-2021-11-14,Armenia,Germany,Europe,Europe,89,12,1257,1642,1,4,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,52.0,90.0,84.8,69.7,73.6,84.0,82.7,87.8
+2021-11-14,Armenia,Germany,Europe,Europe,89,12,1257,1642,1,4,FIFA World Cup qualification,Yerevan,Armenia,False,No,Lose,52.0,90.0,0.0,69.7,73.6,84.0,82.7,87.8
 2021-11-15,Northern Ireland,Italy,Europe,Europe,58,4,1412,1750,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,False,No,Draw,72.0,89.0,73.0,67.7,74.2,84.2,85.3,84.5
 2021-11-15,Switzerland,Bulgaria,Europe,Europe,14,70,1633,1350,4,0,FIFA World Cup qualification,Lucerne,Switzerland,False,No,Win,85.0,66.0,78.5,76.7,79.5,67.2,64.3,64.5
 2021-11-15,Scotland,Denmark,Europe,Europe,42,10,1451,1668,2,0,FIFA World Cup qualification,Glasgow,Scotland,False,No,Win,77.0,85.0,79.2,74.0,77.5,80.2,77.7,80.2
